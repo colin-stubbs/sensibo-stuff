@@ -1,0 +1,247 @@
+{
+  "modes": {
+    "auto": {
+      "temperatures": {
+        "F": {
+          "isNative": false,
+          "values": [
+            61,
+            63,
+            64,
+            66,
+            68,
+            70,
+            72,
+            73,
+            75,
+            77,
+            79,
+            81,
+            82,
+            84,
+            86
+          ]
+        },
+        "C": {
+          "isNative": true,
+          "values": [
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ]
+        }
+      },
+      "fanLevels": [
+        "low",
+        "medium",
+        "high",
+        "auto"
+      ],
+      "swing": [
+        "stopped",
+        "fixedBottom",
+        "fixedMiddleBottom",
+        "fixedMiddleTop",
+        "fixedTop",
+        "rangeFull"
+      ]
+    },
+    "cool": {
+      "temperatures": {
+        "F": {
+          "isNative": false,
+          "values": [
+            61,
+            63,
+            64,
+            66,
+            68,
+            70,
+            72,
+            73,
+            75,
+            77,
+            79,
+            81,
+            82,
+            84,
+            86
+          ]
+        },
+        "C": {
+          "isNative": true,
+          "values": [
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ]
+        }
+      },
+      "fanLevels": [
+        "low",
+        "medium",
+        "high",
+        "auto"
+      ],
+      "swing": [
+        "stopped",
+        "fixedBottom",
+        "fixedMiddleBottom",
+        "fixedMiddleTop",
+        "fixedTop",
+        "rangeFull"
+      ]
+    },
+    "fan": {
+      "temperatures": {},
+      "fanLevels": [
+        "low",
+        "medium",
+        "high",
+        "auto"
+      ],
+      "swing": [
+        "stopped",
+        "fixedBottom",
+        "fixedMiddleBottom",
+        "fixedMiddleTop",
+        "fixedTop",
+        "rangeFull"
+      ]
+    },
+    "dry": {
+      "temperatures": {
+        "F": {
+          "isNative": false,
+          "values": [
+            61,
+            63,
+            64,
+            66,
+            68,
+            70,
+            72,
+            73,
+            75,
+            77,
+            79,
+            81,
+            82,
+            84,
+            86
+          ]
+        },
+        "C": {
+          "isNative": true,
+          "values": [
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ]
+        }
+      },
+      "swing": [
+        "stopped",
+        "fixedBottom",
+        "fixedMiddleBottom",
+        "fixedMiddleTop",
+        "fixedTop",
+        "rangeFull"
+      ]
+    },
+    "heat": {
+      "temperatures": {
+        "F": {
+          "isNative": false,
+          "values": [
+            61,
+            63,
+            64,
+            66,
+            68,
+            70,
+            72,
+            73,
+            75,
+            77,
+            79,
+            81,
+            82,
+            84,
+            86
+          ]
+        },
+        "C": {
+          "isNative": true,
+          "values": [
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ]
+        }
+      },
+      "fanLevels": [
+        "low",
+        "medium",
+        "high",
+        "auto"
+      ],
+      "swing": [
+        "stopped",
+        "fixedBottom",
+        "fixedMiddleBottom",
+        "fixedMiddleTop",
+        "fixedTop",
+        "rangeFull"
+      ]
+    }
+  }
+}

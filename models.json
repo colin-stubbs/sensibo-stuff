@@ -1,0 +1,7165 @@
+{
+  "status": "success",
+  "result": {
+    "brands": {
+      "": [
+        "Zealous Roadrunner",
+        "Joyful Gull",
+        "AnywAiR",
+        "Inventive Dolphin"
+      ],
+      "Aermec": [
+        "Topographical Rook"
+      ],
+      "Air-Con": [
+        "Vigorous Falcon",
+        "Cheeky Wolverine",
+        "Prismatic Jackal"
+      ],
+      "Airton": [
+        "Sanguine Triceratops",
+        "Jubilant Mollusk",
+        "Intrepid Shark",
+        "Vivid Sandpiper"
+      ],
+      "Akai": [
+        "Otherworldly Crane"
+      ],
+      "Alpha Smart": [
+        "Energized Gerbil"
+      ],
+      "Alpin": [
+        "Magnificent Jellyfish",
+        "Resilient Loris",
+        "Thoughtful Crocodile",
+        "Relieved Narwhal"
+      ],
+      "Amana": [
+        "Benevolent Stegosaurus",
+        "Dexterous Koala"
+      ],
+      "Amcor": [
+        "Intuitive Hare",
+        "Symbolic Coelacanth",
+        "Wondrous Sea Lion",
+        "Flying Brontosaurus"
+      ],
+      "Amena": [
+        "Friendly Mantis",
+        "Unofficial Quail"
+      ],
+      "Anslut": [
+        "Optimistic Lobster",
+        "Energized Iguana",
+        "Mercurial Deer"
+      ],
+      "Argo": [
+        "Uncanny Crab",
+        "Shiny Loris",
+        "Steady Butterfly",
+        "Brilliant Ferret",
+        "Diminutive Triceratops",
+        "Hatless Crane"
+      ],
+      "Arlec": [
+        "Sanguine Sea Cucumber",
+        "Unofficial Lion"
+      ],
+      "Artel": [
+        "Adorable Grouse",
+        "Roaring Newt"
+      ],
+      "Autoclima": [
+        "Intrepid Stork"
+      ],
+      "Aux": [
+        "Lively Walrus"
+      ],
+      "Ayre": [
+        "Defiant Antelope"
+      ],
+      "Belcor": [
+        "Scholarly Mongoose"
+      ],
+      "Bionaire": [
+        "Heroic Salmon"
+      ],
+      "Black & Decker": [
+        "Uproarious Catfish",
+        "Immense Heron",
+        "Thriving Leopard"
+      ],
+      "Bluestar": [
+        "Intrepid Mastiff",
+        "Influential Osprey"
+      ],
+      "Bonaire": [
+        "Imaginative Giraffe"
+      ],
+      "Bosch": [
+        "Salient Porpoise",
+        "Fiery Panda"
+      ],
+      "Carrier": [
+        "Motionless Badger",
+        "Amused Camel",
+        "Crystalline Stork",
+        "Unofficial Otter",
+        "Zestful Pheasant",
+        "Motionless Cat",
+        "Nomadic Goldfish",
+        "Unseen Armadillo",
+        "Inquisitive Starfish",
+        "Meritorious Gnu",
+        "Courageous Nightingale",
+        "Nonchalant Squid",
+        "Vigorous Marlin",
+        "Focused Finch",
+        "Perspicacious Lobster",
+        "Modest Bumblebee",
+        "Modest Cat",
+        "Exotic Panda",
+        "Cryptic Gnu",
+        "Bubbly Firefly",
+        "Salient Tapir",
+        "Blissful Porpoise"
+      ],
+      "Changhong": [
+        "Quotable Jellyfish",
+        "Squeaky Mantis"
+      ],
+      "Chigo": [
+        "Prototypical Lion",
+        "Poised Cat",
+        "Comfortable Octopus",
+        "Legendary Salamander",
+        "Prototypical Llama",
+        "Motionless Ram",
+        "Focused Polar Bear",
+        "Primordial Sparrow",
+        "Adorable Llama",
+        "Idealistic Hummingbird",
+        "Adventurous Deer",
+        "Renowned Cheetah",
+        "Witty Squirrel",
+        "Smiling Badger"
+      ],
+      "Chofu": [
+        "Charming Centipede",
+        "Transparent Orca"
+      ],
+      "Citicop": [
+        "Hydraulic Fish"
+      ],
+      "Clatronic": [
+        "Fantastic Mongoose"
+      ],
+      "ClimaChill": [
+        "Undisputed Tapir",
+        "Intuitive Panther"
+      ],
+      "Close Comfort": [
+        "Vivacious Polar Bear"
+      ],
+      "Cold Point": [
+        "Sanguine Triceratops",
+        "Intrepid Shark",
+        "Vivid Sandpiper"
+      ],
+      "Comfort Cire": [
+        "Timely Alligator"
+      ],
+      "Condura": [
+        "Resilient Hornet"
+      ],
+      "Consul": [
+        "Salient Scorpion",
+        "Optimal Octopus",
+        "Elaborate Albatross",
+        "Lenient Deer"
+      ],
+      "Coolbah": [
+        "Dreaming Vampire Bat"
+      ],
+      "Cooline": [
+        "Gorgeous Squid"
+      ],
+      "Coolman": [
+        "Resolute Narwhal",
+        "Enchanting Sea Cucumber"
+      ],
+      "Corona": [
+        "Elusive Lemur"
+      ],
+      "Croma": [
+        "Undisputed Albatross"
+      ],
+      "Cruisair": [
+        "Discerning Chinchilla"
+      ],
+      "DEI": [
+        "Flying Roadrunner"
+      ],
+      "Daewoo": [
+        "Insightful Vampire Bat"
+      ],
+      "Daikin": [
+        "Happy Grouse",
+        "Gleaming Narwhal",
+        "Motionless Hare",
+        "Flourishing Velociraptor",
+        "Fortunate Elephant",
+        "Massive Wren",
+        "Spectacular Koala",
+        "Practical Bulldog",
+        "Convincing Gerbil",
+        "Enormous Stegosaurus",
+        "Joyous Ram",
+        "Radiant Magpie",
+        "Dashing Coral Snake",
+        "Sufficient Falcon",
+        "Scholarly Eel",
+        "Crystalline Falcon",
+        "Bionic Wolverine",
+        "Variegated Koala",
+        "Jubilant Eagle",
+        "Astute Zebra",
+        "Wandering Brontosaurus",
+        "Imperturbable Opossum",
+        "Mustachioed Salamander",
+        "Gleeful Centipede",
+        "Lucky Ostrich",
+        "Bubbly Lark",
+        "Taciturn Jaguar",
+        "Peaceful Lark",
+        "Primordial Hedgehog",
+        "Artful Kestrel",
+        "Impartial Pigeon",
+        "Cooperative Magpie",
+        "Enormous Horse",
+        "Inquisitive Opossum",
+        "Effervescent Badger",
+        "Elegant Deer",
+        "Robust Vampire Bat",
+        "Outgoing Jackal",
+        "Quizzical Llama",
+        "Wacky Llama",
+        "Prudent Dragonfish",
+        "Primordial Jackal",
+        "Versatile Jaguar",
+        "Relaxed Salmon",
+        "Daring Kangaroo",
+        "Constant Stingray",
+        "Friendly Triceratops",
+        "Perceptive Bumblebee",
+        "Momentous Ram",
+        "Inspired Giraffe",
+        "Variegated Parrot",
+        "Selective Newt",
+        "Glorious Leopard",
+        "Joyous Panther",
+        "Happy Rhinoceros",
+        "Happy Iguana",
+        "Mustachioed Octopus",
+        "Lucky Hedgehog",
+        "Scintillating Stork",
+        "Courageous Greyhound",
+        "Benevolent Angelfish",
+        "Jaunty Flamingo",
+        "Wandering Alligator",
+        "Lively Orca",
+        "Topographical Goldfish",
+        "Gigantic Rabbit",
+        "Stunning Wolf",
+        "Vivid Spider",
+        "Nomadic Seal",
+        "Unseen Rabbit",
+        "Frolicking Ibex",
+        "Tricky Gerbil",
+        "Scholarly Vampire Bat",
+        "Gleaming Ferret",
+        "Inspired Mollusk",
+        "Wacky Eel",
+        "Healthy Cassowary",
+        "Imaginative Lionfish",
+        "Inquisitive Crab",
+        "Ethereal Grasshopper",
+        "Ethereal Mandrill",
+        "Unthinkable Spider"
+      ],
+      "Danby": [
+        "Flourishing Falcon",
+        "Shiny Okapi",
+        "Unflappable Kingfisher",
+        "Panoramic Newt",
+        "Discerning Sea Cucumber",
+        "Mustachioed Dove",
+        "Sophisticated Velociraptor",
+        "Zestful Manta Ray",
+        "Pleasant Beaver",
+        "Constant Hamster",
+        "Bodacious Nautilus",
+        "Noble Panther",
+        "Luminescent Beaver",
+        "Jubilant Grasshopper",
+        "Invaluable Raven",
+        "Relaxed Kestrel",
+        "Poised Triceratops",
+        "Influential Panda",
+        "Perplexing Mallard",
+        "Radiant Coelacanth",
+        "Uproarious Alligator",
+        "Magnetic Wolverine",
+        "Omnidirectional Triceratops",
+        "Frolicking Squid",
+        "Terrestrial Squirrel",
+        "Wondrous Brontosaurus",
+        "Taciturn Wren",
+        "Acrobatic Bumblebee",
+        "Charming Mandrill",
+        "Gorgeous Penguin",
+        "Healthy Camel",
+        "Eager Mongoose",
+        "Intuitive Raven"
+      ],
+      "Delonghi": [
+        "Hydraulic Elk",
+        "Quotable Elk",
+        "Theoretical Jackal",
+        "Magnificent Coral Snake",
+        "Smooth Bat",
+        "Unique Salmon",
+        "Crystalline Gnu",
+        "Unfathomable Cormorant",
+        "Tricky Eel",
+        "Meticulous Porcupine",
+        "Splendid Salamander",
+        "Nascent Salmon",
+        "Jaunty Ram",
+        "Timely Squid",
+        "Recurring Crocodile",
+        "Noncommittal Nautilus",
+        "Scholarly Wallaby",
+        "Variegated Boa Constrictor",
+        "Primeval Crab",
+        "Universal Jackal",
+        "Proactive Dolphin",
+        "Immense Goldfish"
+      ],
+      "Demir Dokum": [
+        "Outgoing Sea Cucumber"
+      ],
+      "Dimplex": [
+        "Remarkable Lionfish",
+        "Gleeful Boa Constrictor",
+        "Meticulous Reindeer"
+      ],
+      "Dometic": [
+        "Ubiquitous Platypus",
+        "Perplexing Grasshopper",
+        "Windswept Vampire Bat",
+        "Nascent Rook",
+        "Fierce Raven",
+        "Exhilarated Kangaroo",
+        "Topographical Scorpion"
+      ],
+      "Dreo": [
+        "Energized Hamster"
+      ],
+      "Dyson": [
+        "Dashing Sheep",
+        "Gargantuan Stegosaurus",
+        "Perpetual Chipmunk",
+        "Immense Albatross",
+        "Dashing Panda",
+        "Satisfied Chipmunk",
+        "Momentous Tapir",
+        "Excited Condor"
+      ],
+      "Electra": [
+        "Vivid Condor",
+        "Gigantic Wren",
+        "Scrupulous Mandrill",
+        "Lively Tiger",
+        "Hatless Snowy Owl",
+        "Masked Bulldog",
+        "Optimistic Mollusk",
+        "Optimistic Boa Constrictor",
+        "Insightful Seal",
+        "Impartial Ibis",
+        "Fiery Beagle",
+        "Gesticulating Triceratops",
+        "Mercurial Platypus",
+        "Intricate Kangaroo",
+        "Inquisitive Zebra",
+        "Merry Barracuda",
+        "Unseen Moose",
+        "Discerning Owl",
+        "Practical Cormorant",
+        "Watchful Gorilla",
+        "Keen Manta Ray",
+        "Poised Deer",
+        "Gesticulating Sheep",
+        "Unique Rhinoceros"
+      ],
+      "Electriq": [
+        "Blissful Iguana",
+        "Mischievous Mastiff"
+      ],
+      "Electrolux": [
+        "Salient Porpoise",
+        "Pleasant Beaver",
+        "Fiery Panda",
+        "Topographical Zebra",
+        "Influential Panda",
+        "Eloquent Ram"
+      ],
+      "Emerson": [
+        "Philosophical Barracuda"
+      ],
+      "Emmeti": [
+        "Sparkling Salmon"
+      ],
+      "Euromatic": [
+        "Zestful Pigeon"
+      ],
+      "Europace": [
+        "Brilliant Polar Bear"
+      ],
+      "Evergreen": [
+        "Multicolored Mantis"
+      ],
+      "Family": [
+        "Circumspect Mongoose"
+      ],
+      "Feeders": [
+        "Striped Spider"
+      ],
+      "Fisher": [
+        "Motionless Velociraptor"
+      ],
+      "Forestair": [
+        "Graceful Vampire Bat"
+      ],
+      "Friedrich": [
+        "Communicative Beaver",
+        "Swimming Starfish",
+        "Lucky Dove",
+        "Primeval Marlin",
+        "Colorful Mallard",
+        "Dashing Mouse",
+        "Squeaky Cobra",
+        "Vivid Sea Snake",
+        "Adventurous Antelope",
+        "Mechanical Giraffe",
+        "Stately Sparrow",
+        "Alert Roadrunner",
+        "Intricate Raccoon",
+        "Massive Bat",
+        "Recurring Spider",
+        "Spotless Lemur",
+        "Wandering Catfish",
+        "Miniature Chinchilla",
+        "Omnidirectional Orca",
+        "Striped Camel",
+        "Ardent Osprey",
+        "Excited Sea Snake",
+        "Illustrious Gecko",
+        "Perceptive Chipmunk",
+        "Vigorous Partridge",
+        "Shiny Falcon",
+        "Nonchalant Roadrunner",
+        "Idealistic Leopard",
+        "Momentous Centipede",
+        "Thoughtful Kestrel",
+        "Taciturn Panda"
+      ],
+      "Frigidaire": [
+        "Shiny Okapi",
+        "Sparkling Hornet",
+        "Jolly Opossum",
+        "Charming Angelfish",
+        "Observant Sparrow",
+        "Substantial Elk",
+        "Splendid Gazelle",
+        "Ethereal Octopus",
+        "Precise Angelfish",
+        "Proactive Songbird",
+        "Cordial Mantis",
+        "Elated Ostrich",
+        "Dreaming Swan",
+        "Cognizant Marlin",
+        "Influential Panda",
+        "Excited Gecko",
+        "Mysterious Starling"
+      ],
+      "Fujitsu": [
+        "Precise Swan",
+        "Creative Swan",
+        "Reassured Partridge",
+        "Singing Wombat",
+        "Glorious Ram",
+        "Gorgeous Cassowary",
+        "Observant Alpaca",
+        "Precise Ibis",
+        "Unofficial Ferret",
+        "Panoramic Butterfly",
+        "Convincing Gorilla",
+        "Steady Goldfish",
+        "Glamorous Mouse",
+        "Cheeky Boa Constrictor",
+        "Hydraulic Jackal",
+        "Methodical Seahorse",
+        "Keen Finch",
+        "Communicative Barracuda",
+        "Joyful Platypus",
+        "Immense Ferret",
+        "Practical Frog",
+        "Momentous Panther",
+        "Spotless Vampire Bat",
+        "Swimming Dalmatian",
+        "Inspired Dalmatian",
+        "Observant Python",
+        "Convivial Goldfish",
+        "Impartial Chinchilla",
+        "Stunning Squid",
+        "Neighborly Cheetah",
+        "Inquisitive Rook",
+        "Quotable Swan"
+      ],
+      "Funai": [
+        "Windswept Hedgehog",
+        "Eccentric Platypus"
+      ],
+      "GE": [
+        "Solid Falcon",
+        "Stylish Greyhound",
+        "Brave Python",
+        "Determined Otter",
+        "Masked Grasshopper",
+        "Collectible Dragonfish",
+        "Unclouded Bat",
+        "Inimitable Platypus",
+        "Majestic Hamster",
+        "Dynamic Pheasant",
+        "Witty Kestrel",
+        "Ubiquitous Porcupine",
+        "Scintillating Duck",
+        "Elusive Cat",
+        "Spectacular Hedgehog",
+        "Colossal Pigeon",
+        "Exhilarated Centipede",
+        "Gigantic Sandpiper",
+        "Symbolic Butterfly",
+        "Inquisitive Hatchetfish",
+        "Circumspect Pelican",
+        "Eccentric Owl",
+        "Relieved Mongoose"
+      ],
+      "General Electric": [
+        "Cheeky Cassowary"
+      ],
+      "Generic": [
+        "Vivid Condor",
+        "Poised Cat",
+        "Mirthful Frog",
+        "Bright Chinchilla",
+        "Legendary Salamander",
+        "Unique Salmon",
+        "Jolly Rabbit",
+        "Motionless Ram",
+        "Imaginative Elk",
+        "Discerning Spider",
+        "Hatless Snowy Owl",
+        "Masked Bulldog",
+        "Optimistic Mollusk",
+        "Eager Catfish",
+        "Optimistic Boa Constrictor",
+        "Creative Greyhound",
+        "Insightful Seal",
+        "Motionless Starling",
+        "Thankful Aardvark",
+        "Impartial Ibis",
+        "Gesticulating Triceratops",
+        "Mercurial Platypus",
+        "Adorable Llama",
+        "Idealistic Hummingbird",
+        "Constant Barracuda",
+        "Essential Wombat",
+        "Inquisitive Zebra",
+        "Bright Catfish",
+        "Jaunty Gnu",
+        "Prismatic Raven",
+        "Perplexing Sheep",
+        "Relaxed Chameleon",
+        "Discerning Owl",
+        "Practical Cormorant",
+        "Methodical Panda",
+        "Stupendous Crocodile",
+        "Poised Deer",
+        "Meticulous Swan",
+        "Exuberant Koala",
+        "Inspired Dalmatian",
+        "Gesticulating Sheep",
+        "Murmuring Badger",
+        "Defiant Beaver",
+        "Witty Squirrel",
+        "Singing Albatross",
+        "Unique Rhinoceros",
+        "Smiling Badger",
+        "Loquacious Hawk"
+      ],
+      "Generic Window (portable) AC": [
+        "Jolly Opossum",
+        "Charming Angelfish",
+        "Collectible Dragonfish",
+        "Unclouded Bat",
+        "Observant Sparrow",
+        "Cordial Mantis",
+        "Mechanical Wolf",
+        "Inquisitive Hatchetfish",
+        "Circumspect Pelican",
+        "Relieved Mongoose"
+      ],
+      "Gree": [
+        "Murmuring Gorilla",
+        "Sarcastic Jackal",
+        "Sleek Caterpillar",
+        "Roaring Camel",
+        "Inspired Ibis",
+        "Mirthful Frog",
+        "Immense Polar Bear",
+        "Bright Chinchilla",
+        "Keen Eel",
+        "Jolly Rabbit",
+        "Blissful Python",
+        "Precocious Marlin",
+        "Creative Greyhound",
+        "Primeval Coelacanth",
+        "Vigorous Stegosaurus",
+        "Thankful Aardvark",
+        "Purposeful Zebra",
+        "Happy Hawk",
+        "Recurring Swan",
+        "Joyful Triceratops",
+        "Constant Barracuda",
+        "Essential Wombat",
+        "Remarkable Goose",
+        "Bright Catfish",
+        "Inimitable Antelope",
+        "Artful Panda",
+        "Perplexing Sheep",
+        "Essential Mandrill",
+        "Vociferous Mollusk",
+        "Jaunty Jackal",
+        "Symmetrical Narwhal",
+        "Ecstatic Antelope",
+        "Effervescent Mongoose",
+        "Noncommittal Mallard",
+        "Murmuring Badger",
+        "Defiant Beaver",
+        "Singing Albatross",
+        "Bodacious Pheasant",
+        "Inimitable Alligator",
+        "Compassionate Gazelle"
+      ],
+      "Haier": [
+        "Improbable Jaguar",
+        "Brave Python",
+        "Swimming Spider",
+        "Gesticulating Finch",
+        "Unexpected Sea Cucumber",
+        "Charming Starling",
+        "Witty Kestrel",
+        "Amused Fish",
+        "Peaceful Zebra",
+        "Mustachioed Newt",
+        "Witty Otter",
+        "Ubiquitous Porcupine",
+        "Salubrious Rabbit",
+        "Sarcastic Octopus"
+      ],
+      "Haiku": [
+        "Rejoicing Pigeon",
+        "Tessellated Crab"
+      ],
+      "Heller": [
+        "Enchanting Koala",
+        "Luminescent Herring",
+        "Frolicking Salamander",
+        "Fiery Bulldog"
+      ],
+      "HiSeer": [
+        "Delightful Toucan"
+      ],
+      "HiSense": [
+        "Vigorous Falcon",
+        "Swimming Grasshopper",
+        "Cheeky Wolverine",
+        "Prismatic Jackal",
+        "Loquacious Hawk"
+      ],
+      "Hitachi": [
+        "Scholarly Orca",
+        "Mighty Pheasant",
+        "Hydraulic Eel",
+        "Intricate Crab",
+        "Circumspect Gull",
+        "Nonchalant Lobster",
+        "Prestigious Vampire Bat",
+        "Cunning Gorilla",
+        "Brave Caterpillar",
+        "Gorgeous Chinchilla",
+        "Resolute Kangaroo",
+        "Singing Mouse",
+        "Collectible Hare",
+        "Sanguine Mongoose",
+        "Sleek Lobster",
+        "Improbable Cheetah",
+        "Compassionate Deer",
+        "Timeless Sea Snake",
+        "Bionic Hamster",
+        "Adventurous Hummingbird"
+      ],
+      "Honeywell": [
+        "Mysterious Ibis",
+        "Encouraging Partridge",
+        "Recurring Camel",
+        "Intuitive Raven"
+      ],
+      "Humhold": [
+        "Spectacular Bat"
+      ],
+      "Hyundai": [
+        "Fearless Coral Snake",
+        "Mysterious Butterfly",
+        "Splendid Finch"
+      ],
+      "IVT": [
+        "Salient Porpoise",
+        "Fiery Panda"
+      ],
+      "Ikon": [
+        "Stately Roadrunner"
+      ],
+      "Innova Air": [
+        "Gleaming Narwhal",
+        "Gleeful Centipede",
+        "Taciturn Jaguar",
+        "Effervescent Badger"
+      ],
+      "Invest Living": [
+        "Noncommittal Newt"
+      ],
+      "Islandaire": [
+        "Masked Condor",
+        "Witty Squirrel"
+      ],
+      "Kendo": [
+        "Dreaming Kingfisher"
+      ],
+      "Kogan": [
+        "Reflective Sea Cucumber",
+        "Reflective Gerbil",
+        "Transparent Crane"
+      ],
+      "Koizumi": [
+        "Symbolic Gull"
+      ],
+      "Kolin": [
+        "Gigantic Pigeon"
+      ],
+      "Koppel": [
+        "Uncanny Sea Cucumber"
+      ],
+      "LG": [
+        "Variegated Turtle",
+        "Sanguine Sea Cucumber",
+        "Extraordinary Lark",
+        "Distinctive Llama",
+        "Uproarious Caribou",
+        "Hydraulic Triceratops",
+        "Unclouded Sandpiper",
+        "Elegant Catfish",
+        "Eager Spider",
+        "Uproarious Roadrunner",
+        "Methodical Bulldog",
+        "Reassured Cormorant",
+        "Beardless Boa Constrictor",
+        "Perpetual Condor",
+        "Dancing Sheep",
+        "Thoughtful Porpoise",
+        "Effervescent Partridge",
+        "Adorable Jaguar",
+        "Ubiquitous Caribou",
+        "Rigorous Raven",
+        "Omnivorous Wombat",
+        "Transparent Reindeer",
+        "Spectacular Caribou",
+        "Extraordinary Dragonfish",
+        "Cheerful Dalmatian",
+        "Watchful Opossum",
+        "Dancing Cassowary",
+        "Influential Swan",
+        "Taciturn Crane",
+        "Exhilarated Raven",
+        "Stylish Stingray",
+        "Tricky Swan",
+        "Exotic Giraffe",
+        "Heroic Lobster",
+        "Picturesque Crab",
+        "Courageous Centipede",
+        "Modest Barracuda",
+        "Essential Pheasant",
+        "Alert Alligator",
+        "Swimming Brontosaurus",
+        "Theoretical Ostrich",
+        "Precocious Gecko",
+        "Terrestrial Falcon",
+        "Virtuous Koala",
+        "Smooth Chipmunk",
+        "Playful Owl",
+        "Keen Gorilla",
+        "Unofficial Lion",
+        "Mechanical Wolf",
+        "Wonderful Crane",
+        "Reassured Wolf",
+        "Prismatic Crab",
+        "Charming Hawk",
+        "Constant Stork"
+      ],
+      "Lakes": [
+        "Gleeful Jackal"
+      ],
+      "Lasko": [
+        "Fantastic Turtle"
+      ],
+      "Lennox": [
+        "Steady Stingray"
+      ],
+      "Lubair": [
+        "Stylish Velociraptor"
+      ],
+      "Mabe": [
+        "Ubiquitous Beagle"
+      ],
+      "Maclaren": [
+        "Careful Starfish"
+      ],
+      "Mastercool": [
+        "Tessellated Scorpion",
+        "Determined Spider"
+      ],
+      "Maytag": [
+        "Primordial Moose"
+      ],
+      "McQuay": [
+        "Lucky Octopus",
+        "Thoughtful Jaguar"
+      ],
+      "Mcquay": [
+        "Immense Aardvark",
+        "Cautious Pelican",
+        "Lucky Squirrel"
+      ],
+      "Meaco": [
+        "Focused Lion"
+      ],
+      "Meitav": [
+        "Convivial Pheasant"
+      ],
+      "MeitavTec": [
+        "Imaginative Mongoose"
+      ],
+      "Midea": [
+        "Vivid Condor",
+        "Stately Panther",
+        "Hatless Snowy Owl",
+        "Insightful Seal",
+        "Impartial Ibis",
+        "Gesticulating Triceratops",
+        "Proactive Dalmatian",
+        "Blissful Osprey",
+        "Inquisitive Zebra",
+        "Merry Barracuda",
+        "Unseen Moose",
+        "Prismatic Raven",
+        "Discerning Owl",
+        "Practical Cormorant",
+        "Focused Herring",
+        "Gesticulating Sheep",
+        "Unique Rhinoceros"
+      ],
+      "Miller": [
+        "Selective Deer",
+        "Unofficial Cobra",
+        "Noncommittal Roadrunner"
+      ],
+      "Mitsua": [
+        "Mercurial Leopard"
+      ],
+      "Mitsubishi": [
+        "Dashing Butterfly",
+        "Meritorious Kestrel",
+        "Enthusiastic Duck",
+        "Alert Kingfisher",
+        "Mustachioed Owl",
+        "Colorful Catfish",
+        "Prismatic Toucan",
+        "Encouraging Dolphin",
+        "Arboreal Horse",
+        "Reclusive Dove",
+        "Compassionate Horse",
+        "Gigantic Iguana",
+        "Ethereal Wallaby",
+        "Acrobatic Grasshopper",
+        "Satisfied Ibex",
+        "Fantastic Dove",
+        "Tricky Frog",
+        "Sarcastic Falcon",
+        "Unofficial Eel",
+        "Encouraging Iguana",
+        "Thankful Hamster",
+        "Curious Sea Cucumber",
+        "Convivial Cheetah",
+        "Legendary Lion",
+        "Exotic Newt",
+        "Erudite Starfish",
+        "Keen Porpoise",
+        "Timely Caribou",
+        "Observant Sea Snake",
+        "Tricky Coelacanth",
+        "Transparent Narwhal",
+        "Loquacious Toucan",
+        "Vigorous Crane",
+        "Panoramic Manta Ray",
+        "Taciturn Rhinoceros",
+        "Panoramic Toucan",
+        "Elated Owl",
+        "Sarcastic Mandrill",
+        "Bionic Horse",
+        "Comfortable Jaguar",
+        "Imperturbable Flamingo",
+        "Glamorous Snowy Owl",
+        "Timely Panther",
+        "Contemplative Goldfish",
+        "Practical Magpie",
+        "Eccentric Newt",
+        "Cooperative Gecko",
+        "Mustachioed Bulldog",
+        "Selective Gnu",
+        "Radiant Vampire Bat",
+        "Universal Gnu",
+        "Focused Sandpiper",
+        "Imperturbable Gull",
+        "Perplexing Wren",
+        "Enthusiastic Triceratops"
+      ],
+      "MultiAqua": [
+        "Luminescent Giraffe"
+      ],
+      "MyUBI": [
+        "Striped Okapi"
+      ],
+      "Natec": [
+        "Motionless Kingfisher"
+      ],
+      "Newair": [
+        "Solid Duck",
+        "Cognizant Mastiff"
+      ],
+      "Nikai": [
+        "Benevolent Mastiff"
+      ],
+      "Noma": [
+        "Sufficient Walrus"
+      ],
+      "Nordstar": [
+        "Satisfied Otter",
+        "Recurring Tapir",
+        "Steady Anteater"
+      ],
+      "Olimpia": [
+        "Diminutive Lionfish",
+        "Constant Badger"
+      ],
+      "Olimpia Splendid": [
+        "Friendly Hamster",
+        "Musical Mastiff"
+      ],
+      "Omega": [
+        "Dynamic Vampire Bat"
+      ],
+      "Orieme": [
+        "Wondrous Stegosaurus"
+      ],
+      "Otzma": [
+        "Creative Wolverine"
+      ],
+      "Panasonic": [
+        "Perpetual Manta Ray",
+        "Unseen Ibis",
+        "Gesticulating Swan",
+        "Hatless Finch",
+        "Fantastic Swan",
+        "Unique Magpie",
+        "Cheeky Koala",
+        "Flying Ibex",
+        "Nascent Toucan",
+        "Crystalline Ferret",
+        "Exhilarated Salamander",
+        "Gargantuan Squid",
+        "Intricate Tiger",
+        "Enormous Barracuda",
+        "Artful Dolphin",
+        "Qualified Wolf",
+        "Effervescent Wren",
+        "Adventurous Sea Lion",
+        "Harmonious Sandpiper",
+        "Merry Reindeer",
+        "Murmuring Gnu",
+        "Jolly Manta Ray",
+        "Dauntless Cobra",
+        "Optimistic Crocodile",
+        "Circumspect Bear",
+        "Momentous Wren",
+        "Frolicking Wrasse",
+        "Meritorious Dragonfish",
+        "Keen Starfish",
+        "Dauntless Yak",
+        "Vigorous Newt",
+        "Relieved Jackal",
+        "Vigorous Gazelle"
+      ],
+      "Pearl": [
+        "Cosmic Anteater"
+      ],
+      "Pilot": [
+        "Bodacious Owl",
+        "Bright Okapi"
+      ],
+      "Platinum": [
+        "Dashing Eel"
+      ],
+      "Rasonic": [
+        "Dexterous Owl"
+      ],
+      "Remko": [
+        "Laughing Mastiff"
+      ],
+      "Rheem": [
+        "Uncanny Reindeer"
+      ],
+      "Riello": [
+        "Splendid Bat"
+      ],
+      "Rinnai": [
+        "Ethereal Alligator",
+        "Adventurous Raccoon",
+        "Solid Lark"
+      ],
+      "Rollibot": [
+        "Noncommittal Lion"
+      ],
+      "Royal": [
+        "Symbolic Lark",
+        "Terrestrial Anteater",
+        "Benevolent Gorilla",
+        "Attentive Walrus",
+        "Bright Yak",
+        "Purposeful Grouse",
+        "Inventive Cat"
+      ],
+      "Royal Sovereign": [
+        "Stylish Wolverine"
+      ],
+      "Russell Hobbs": [
+        "Intuitive Panther"
+      ],
+      "SPT": [
+        "Nomadic Kangaroo",
+        "Jolly Sea Snake",
+        "Transparent Fish",
+        "Singing Sea Lion",
+        "Exotic Polar Bear"
+      ],
+      "Samsung": [
+        "Quizzical Penguin",
+        "Bodacious Chameleon",
+        "Imperturbable Fox",
+        "Mischievous Toucan",
+        "Elegant Falcon",
+        "Swimming Gecko",
+        "Cheerful Orca",
+        "Bodacious Armadillo",
+        "Stylish Shark",
+        "Dashing Mastiff",
+        "Stylish Llama",
+        "Wandering Pheasant",
+        "Purposeful Chipmunk",
+        "Fortunate Centipede",
+        "Unofficial Zebra"
+      ],
+      "Sanlux": [
+        "Astute Python"
+      ],
+      "Sanyo": [
+        "Sparkling Rabbit",
+        "Careful Condor",
+        "Sanguine Panther",
+        "Imaginative Elk",
+        "Discerning Spider",
+        "Astute Cobra",
+        "Exuberant Ostrich",
+        "Nonchalant Velociraptor",
+        "Reflective Snowy Owl",
+        "Jaunty Gnu",
+        "Relaxed Chameleon",
+        "Intuitive Angelfish",
+        "Transparent Sea Snake",
+        "Methodical Panda",
+        "Mysterious Fish",
+        "Stupendous Crocodile",
+        "Jaunty Mallard"
+      ],
+      "Saporo": [
+        "Unflappable Gorilla"
+      ],
+      "Sensibo": [
+        "Eccentric Eagle",
+        "Omnivorous Panther"
+      ],
+      "Senville": [
+        "Grateful Ferret",
+        "Meticulous Cheetah",
+        "Noncommittal Hornet"
+      ],
+      "Sharp": [
+        "Courageous Grasshopper",
+        "Convincing Penguin",
+        "Meritorious Llama",
+        "Variegated Narwhal",
+        "Keen Hedgehog",
+        "Pleasant Gorilla",
+        "Universal Catfish",
+        "Perpetual Hornet",
+        "Taciturn Coelacanth",
+        "Eager Swan",
+        "Astonishing Beagle",
+        "Focused Rhinoceros"
+      ],
+      "Siemens": [
+        "Attentive Elk"
+      ],
+      "Sinclair": [
+        "Mirthful Frog",
+        "Bright Chinchilla",
+        "Creative Greyhound",
+        "Thankful Aardvark",
+        "Constant Barracuda",
+        "Essential Wombat",
+        "Murmuring Badger",
+        "Singing Albatross"
+      ],
+      "Skyworth": [
+        "Adorable Grouse",
+        "Roaring Newt"
+      ],
+      "Soleus": [
+        "Vigilant Salamander",
+        "Authentic Raven"
+      ],
+      "Spacepak": [
+        "Fortunate Dove",
+        "Compact Leopard",
+        "Terrestrial Eel"
+      ],
+      "Spectra": [
+        "Sarcastic Elephant"
+      ],
+      "Starway": [
+        "Inventive Moose"
+      ],
+      "Sunbeam": [
+        "Zestful Elk"
+      ],
+      "Surrey": [
+        "Healthy Dragonfish"
+      ],
+      "TCL": [
+        "Elegant Triceratops",
+        "Vociferous Cormorant"
+      ],
+      "Tadiran": [
+        "Sleek Caterpillar",
+        "Roaring Camel",
+        "Mirthful Frog",
+        "Bright Chinchilla",
+        "Keen Eel",
+        "Jolly Rabbit",
+        "Precocious Marlin",
+        "Creative Greyhound",
+        "Vigorous Stegosaurus",
+        "Thankful Aardvark",
+        "Recurring Gnu",
+        "Wacky Roadrunner",
+        "Happy Hawk",
+        "Constant Barracuda",
+        "Essential Wombat",
+        "Inimitable Antelope",
+        "Artful Panda",
+        "Perplexing Sheep",
+        "Essential Mandrill",
+        "Motionless Caribou",
+        "Elated Ostrich",
+        "Vociferous Mollusk",
+        "Symmetrical Narwhal",
+        "Insightful Velociraptor",
+        "Ecstatic Antelope",
+        "Effervescent Mongoose",
+        "Noncommittal Mallard",
+        "Murmuring Badger",
+        "Defiant Beaver",
+        "Singing Albatross",
+        "Bodacious Pheasant",
+        "Compassionate Gazelle"
+      ],
+      "Taurus": [
+        "Unclouded Mongoose"
+      ],
+      "Tcl": [
+        "Poised Cat",
+        "Motionless Ram",
+        "Impartial Centipede",
+        "Smiling Badger"
+      ],
+      "Technibel": [
+        "Mercurial Dalmatian",
+        "Flourishing Raven",
+        "Benevolent Greyhound",
+        "Eccentric Goldfish"
+      ],
+      "Teco": [
+        "Thankful Bird",
+        "Harmonious Wombat",
+        "Transparent Grasshopper"
+      ],
+      "Temperzone": [
+        "Fortunate Dove",
+        "Compact Leopard",
+        "Masked Herring",
+        "Arboreal Brontosaurus",
+        "Terrestrial Eel"
+      ],
+      "Thermocore": [
+        "Mysterious Ibis",
+        "Encouraging Partridge",
+        "Insightful Lion",
+        "Gleaming Ram"
+      ],
+      "Thermosphere": [
+        "Lively Sea Cucumber"
+      ],
+      "Thomas": [
+        "Cosmic Triceratops"
+      ],
+      "Tica": [
+        "Perspicacious Wallaby"
+      ],
+      "Tornado": [
+        "Lively Cormorant",
+        "Unthinkable Angelfish",
+        "Fiery Hedgehog",
+        "Eager Catfish",
+        "Sparkling Bulldog",
+        "Elated Pelican",
+        "Practical Walrus",
+        "Virtuous Starfish",
+        "Meticulous Swan",
+        "Quotable Gnu",
+        "Grateful Platypus",
+        "Sincere Polar Bear"
+      ],
+      "Toshiba": [
+        "Extraordinary Gerbil",
+        "Resilient Rhinoceros",
+        "Stupendous Heron",
+        "Eloquent Rabbit",
+        "Fantastic Dolphin",
+        "Hatless Jaguar",
+        "Zealous Wren",
+        "Inquisitive Frog",
+        "Tranquil Cheetah",
+        "Relieved Owl",
+        "Unflappable Giraffe",
+        "Outgoing Newt",
+        "Erudite Parrot",
+        "Precise Nautilus"
+      ],
+      "Toyota": [
+        "Perplexing Pelican"
+      ],
+      "Toyotomi": [
+        "Neighborly Ram",
+        "Scintillating Fish"
+      ],
+      "Trane": [
+        "Imaginative Chameleon",
+        "Unique Salmon",
+        "Motionless Starling",
+        "Noncommittal Nautilus",
+        "Optimal Starfish",
+        "Insightful Gecko",
+        "Attentive Albatross",
+        "Magnetic Bumblebee"
+      ],
+      "Truma": [
+        "Squeaky Newt",
+        "Excited Eagle",
+        "Methodical Wombat",
+        "Perpetual Hamster"
+      ],
+      "Veito": [
+        "Adaptable Lemur"
+      ],
+      "Vestel": [
+        "Bubbly Gazelle",
+        "Adorable Polar Bear"
+      ],
+      "Voltas": [
+        "Distinctive Caribou",
+        "Perceptive Sea Lion"
+      ],
+      "Well": [
+        "Adaptable Penguin"
+      ],
+      "Westing House": [
+        "Observant Armadillo"
+      ],
+      "Whirlpool": [
+        "Contemplative Jaguar",
+        "Gleaming Gorilla",
+        "Murmuring Hare",
+        "Optimal Rhinoceros",
+        "Careful Beagle",
+        "Satisfied Barracuda",
+        "Helpful Cassowary"
+      ],
+      "Whynter": [
+        "Bodacious Heron"
+      ],
+      "Wilfa": [
+        "Invaluable Walrus"
+      ],
+      "Windmill": [
+        "Wacky Parrot",
+        "Squeaky Greyhound"
+      ],
+      "Windy": [
+        "Relaxed Aardvark"
+      ],
+      "Winia": [
+        "Vigorous Flamingo",
+        "Elaborate Kingfisher",
+        "Outgoing Gazelle"
+      ],
+      "York": [
+        "Precise Pelican",
+        "Fortunate Dove",
+        "Compact Leopard",
+        "Keen Kestrel",
+        "Illustrious Cobra",
+        "Adorable Hare",
+        "Masked Herring",
+        "Fantastic Condor",
+        "Arboreal Brontosaurus",
+        "Terrestrial Eel",
+        "Variegated Roadrunner"
+      ],
+      "Zamil": [
+        "Prototypical Llama",
+        "Adventurous Deer"
+      ],
+      "Zero Breeze": [
+        "Insightful Cassowary"
+      ],
+      "Zhendre": [
+        "Bubbly Brontosaurus"
+      ],
+      "Zibro": [
+        "Vivid Condor",
+        "Hatless Snowy Owl",
+        "Insightful Seal",
+        "Impartial Ibis",
+        "Creative Sandpiper",
+        "Gesticulating Triceratops",
+        "Inquisitive Zebra",
+        "Merry Barracuda",
+        "Unseen Moose",
+        "Prismatic Raven",
+        "Discerning Owl",
+        "Practical Cormorant",
+        "Philosophical Condor",
+        "Gesticulating Sheep",
+        "Unique Rhinoceros"
+      ]
+    },
+    "alternatives": {
+      "Acrobatic Bumblebee": [],
+      "Acrobatic Grasshopper": [
+        "Mustachioed Owl",
+        "Prototypical Llama",
+        "Primordial Sparrow",
+        "Exotic Raccoon",
+        "Uncanny Sea Cucumber",
+        "Musical Eel",
+        "Resourceful Elephant"
+      ],
+      "Adaptable Lemur": [],
+      "Adaptable Penguin": [],
+      "Adorable Grouse": [
+        "Vigorous Flamingo",
+        "Roaring Newt"
+      ],
+      "Adorable Hare": [],
+      "Adorable Jaguar": [
+        "Distinctive Llama",
+        "Terrestrial Falcon",
+        "Wonderful Crane",
+        "Charming Hawk"
+      ],
+      "Adorable Llama": [
+        "Legendary Salamander",
+        "Gleeful Jackal"
+      ],
+      "Adorable Polar Bear": [
+        "Bubbly Gazelle"
+      ],
+      "Adventurous Antelope": [
+        "Omnidirectional Orca"
+      ],
+      "Adventurous Deer": [],
+      "Adventurous Hummingbird": [],
+      "Adventurous Raccoon": [
+        "Ethereal Alligator"
+      ],
+      "Adventurous Sea Lion": [
+        "Unseen Ibis",
+        "Gesticulating Swan",
+        "Unique Magpie",
+        "Cheeky Koala",
+        "Flying Ibex",
+        "Nascent Toucan",
+        "Exhilarated Salamander",
+        "Intricate Tiger",
+        "Enormous Barracuda",
+        "Merry Reindeer",
+        "Murmuring Gnu",
+        "Jolly Manta Ray",
+        "Dauntless Cobra",
+        "Optimistic Crocodile",
+        "Frolicking Wrasse",
+        "Meritorious Dragonfish",
+        "Keen Starfish",
+        "Dauntless Yak",
+        "Vigorous Newt",
+        "Vigorous Gazelle"
+      ],
+      "Alert Alligator": [
+        "Sanguine Sea Cucumber",
+        "Dancing Sheep",
+        "Rigorous Raven",
+        "Omnivorous Wombat",
+        "Heroic Lobster",
+        "Picturesque Crab",
+        "Unofficial Lion"
+      ],
+      "Alert Kingfisher": [],
+      "Alert Roadrunner": [
+        "Communicative Beaver",
+        "Lucky Dove",
+        "Intricate Raccoon",
+        "Spotless Lemur",
+        "Wandering Catfish",
+        "Ardent Osprey",
+        "Perceptive Chipmunk",
+        "Vigorous Partridge",
+        "Idealistic Leopard"
+      ],
+      "Amused Camel": [
+        "Elated Pelican"
+      ],
+      "Amused Fish": [],
+      "AnywAiR": [],
+      "Arboreal Brontosaurus": [
+        "Merry Triceratops",
+        "Masked Herring"
+      ],
+      "Arboreal Horse": [
+        "Vigorous Crane",
+        "Sarcastic Mandrill"
+      ],
+      "Ardent Osprey": [
+        "Communicative Beaver",
+        "Lucky Dove",
+        "Alert Roadrunner",
+        "Intricate Raccoon",
+        "Spotless Lemur",
+        "Wandering Catfish",
+        "Perceptive Chipmunk",
+        "Vigorous Partridge",
+        "Idealistic Leopard"
+      ],
+      "Artful Dolphin": [
+        "Effervescent Wren"
+      ],
+      "Artful Kestrel": [
+        "Flourishing Velociraptor",
+        "Enormous Stegosaurus",
+        "Peaceful Lark",
+        "Primordial Hedgehog",
+        "Cooperative Magpie",
+        "Inquisitive Opossum",
+        "Primordial Jackal",
+        "Versatile Jaguar",
+        "Relaxed Salmon",
+        "Momentous Ram",
+        "Glorious Leopard",
+        "Joyous Panther",
+        "Wandering Alligator",
+        "Lively Orca",
+        "Vivid Spider",
+        "Gleaming Ferret",
+        "Imaginative Lionfish",
+        "Ethereal Mandrill"
+      ],
+      "Artful Panda": [
+        "Roaring Camel",
+        "Precocious Marlin"
+      ],
+      "Astonishing Beagle": [
+        "Convincing Penguin",
+        "Universal Catfish",
+        "Eager Swan",
+        "Focused Rhinoceros"
+      ],
+      "Astute Cobra": [
+        "Insightful Hatchetfish",
+        "Authentic Salmon",
+        "Nascent Kestrel",
+        "Elaborate Kingfisher",
+        "Transparent Sea Snake",
+        "Jaunty Mallard"
+      ],
+      "Astute Python": [],
+      "Astute Zebra": [
+        "Sufficient Falcon"
+      ],
+      "Attentive Albatross": [],
+      "Attentive Cobra": [],
+      "Attentive Elk": [],
+      "Attentive Kestrel": [],
+      "Attentive Walrus": [
+        "Stylish Wolverine",
+        "Symbolic Lark",
+        "Terrestrial Anteater",
+        "Benevolent Gorilla",
+        "Bright Yak",
+        "Purposeful Grouse",
+        "Inventive Cat"
+      ],
+      "Authentic Raven": [
+        "Vigilant Salamander"
+      ],
+      "Authentic Salmon": [
+        "Insightful Hatchetfish",
+        "Nascent Kestrel",
+        "Elaborate Kingfisher",
+        "Transparent Sea Snake",
+        "Jaunty Mallard"
+      ],
+      "Beardless Beaver": [],
+      "Beardless Boa Constrictor": [
+        "Extraordinary Lark",
+        "Unclouded Sandpiper",
+        "Uproarious Roadrunner",
+        "Methodical Bulldog",
+        "Reassured Cormorant",
+        "Perpetual Condor",
+        "Influential Swan",
+        "Exhilarated Raven",
+        "Tricky Swan",
+        "Essential Pheasant",
+        "Mechanical Wolf",
+        "Prismatic Crab"
+      ],
+      "Benevolent Angelfish": [],
+      "Benevolent Gorilla": [
+        "Terrestrial Anteater",
+        "Bright Yak",
+        "Purposeful Grouse"
+      ],
+      "Benevolent Greyhound": [
+        "Mercurial Dalmatian",
+        "Flourishing Raven"
+      ],
+      "Benevolent Mastiff": [],
+      "Benevolent Stegosaurus": [
+        "Primeval Coelacanth",
+        "Purposeful Zebra",
+        "Sparkling Rook",
+        "Thankful Owl"
+      ],
+      "Bionic Hamster": [
+        "Gorgeous Chinchilla",
+        "Sleek Lobster"
+      ],
+      "Bionic Horse": [],
+      "Bionic Wolverine": [
+        "Unthinkable Spider"
+      ],
+      "Blissful Iguana": [
+        "Striped Okapi"
+      ],
+      "Blissful Osprey": [
+        "Stately Panther",
+        "Proactive Dalmatian",
+        "Meritorious Gnu",
+        "Nonchalant Squid",
+        "Vigorous Marlin",
+        "Modest Bumblebee",
+        "Modest Cat",
+        "Focused Herring",
+        "Blissful Porpoise"
+      ],
+      "Blissful Porpoise": [
+        "Stately Panther",
+        "Proactive Dalmatian",
+        "Meritorious Gnu",
+        "Blissful Osprey",
+        "Nonchalant Squid",
+        "Vigorous Marlin",
+        "Modest Bumblebee",
+        "Modest Cat",
+        "Focused Herring"
+      ],
+      "Blissful Python": [
+        "Neighborly Wolverine",
+        "Mirthful Frog",
+        "Bright Chinchilla",
+        "Keen Eel",
+        "Jolly Rabbit",
+        "Creative Greyhound",
+        "Thankful Aardvark",
+        "Constant Barracuda",
+        "Essential Wombat",
+        "Perplexing Sheep",
+        "Selective Bulldog",
+        "Effervescent Mongoose",
+        "Defiant Beaver",
+        "Singing Albatross"
+      ],
+      "Bodacious Armadillo": [
+        "Mischievous Toucan",
+        "Wandering Pheasant",
+        "Bubbly Gazelle",
+        "Adorable Polar Bear"
+      ],
+      "Bodacious Chameleon": [
+        "Cheerful Orca",
+        "Stylish Shark",
+        "Unofficial Zebra"
+      ],
+      "Bodacious Heron": [],
+      "Bodacious Nautilus": [
+        "Flourishing Falcon",
+        "Discerning Sea Cucumber",
+        "Sophisticated Velociraptor",
+        "Poised Triceratops",
+        "Radiant Coelacanth",
+        "Magnetic Wolverine",
+        "Omnidirectional Triceratops",
+        "Frolicking Squid",
+        "Terrestrial Squirrel",
+        "Healthy Camel",
+        "Intuitive Raven"
+      ],
+      "Bodacious Owl": [
+        "Murmuring Gorilla",
+        "Optimistic Mollusk",
+        "Enchanting Sea Cucumber",
+        "Insightful Lion"
+      ],
+      "Bodacious Pheasant": [
+        "Vigorous Stegosaurus",
+        "Inimitable Antelope",
+        "Symmetrical Narwhal",
+        "Ecstatic Antelope",
+        "Compassionate Gazelle"
+      ],
+      "Brave Caterpillar": [
+        "Intricate Crab",
+        "Circumspect Gull",
+        "Singing Mouse",
+        "Timeless Sea Snake"
+      ],
+      "Brave Python": [
+        "Solid Falcon",
+        "Determined Otter",
+        "Masked Grasshopper",
+        "Inimitable Platypus",
+        "Majestic Hamster",
+        "Witty Kestrel",
+        "Ubiquitous Porcupine"
+      ],
+      "Bright Catfish": [],
+      "Bright Chinchilla": [
+        "Neighborly Wolverine",
+        "Mirthful Frog",
+        "Jolly Rabbit",
+        "Creative Greyhound",
+        "Thankful Aardvark",
+        "Constant Barracuda",
+        "Essential Wombat",
+        "Sparkling Rook",
+        "Thankful Owl",
+        "Singing Albatross"
+      ],
+      "Bright Okapi": [],
+      "Bright Yak": [
+        "Terrestrial Anteater",
+        "Benevolent Gorilla",
+        "Purposeful Grouse"
+      ],
+      "Brilliant Ferret": [
+        "Steady Butterfly"
+      ],
+      "Brilliant Polar Bear": [],
+      "Bubbly Brontosaurus": [
+        "Optimal Starfish"
+      ],
+      "Bubbly Firefly": [
+        "Immense Aardvark",
+        "Cautious Pelican",
+        "Lucky Squirrel",
+        "Lucky Octopus",
+        "Thoughtful Jaguar"
+      ],
+      "Bubbly Gazelle": [
+        "Adorable Polar Bear"
+      ],
+      "Bubbly Lark": [
+        "Radiant Magpie",
+        "Inquisitive Crab"
+      ],
+      "Careful Beagle": [
+        "Contemplative Jaguar",
+        "Optimal Rhinoceros",
+        "Satisfied Barracuda",
+        "Helpful Cassowary"
+      ],
+      "Careful Condor": [],
+      "Careful Starfish": [],
+      "Cautious Pelican": [
+        "Immense Aardvark",
+        "Lucky Squirrel",
+        "Lucky Octopus",
+        "Thoughtful Jaguar"
+      ],
+      "Cautious Tiger": [],
+      "Charming Angelfish": [
+        "Jolly Opossum",
+        "Substantial Elk",
+        "Cordial Mantis",
+        "Cognizant Marlin",
+        "Excited Gecko"
+      ],
+      "Charming Centipede": [
+        "Sparkling Salmon"
+      ],
+      "Charming Hawk": [
+        "Distinctive Llama",
+        "Adorable Jaguar",
+        "Terrestrial Falcon",
+        "Wonderful Crane"
+      ],
+      "Charming Mandrill": [
+        "Luminescent Beaver",
+        "Uproarious Alligator",
+        "Taciturn Wren",
+        "Gorgeous Penguin",
+        "Eager Mongoose"
+      ],
+      "Charming Starling": [
+        "Witty Otter"
+      ],
+      "Cheeky Boa Constrictor": [
+        "Keen Finch"
+      ],
+      "Cheeky Cassowary": [],
+      "Cheeky Koala": [
+        "Unseen Ibis",
+        "Gesticulating Swan",
+        "Unique Magpie",
+        "Flying Ibex",
+        "Nascent Toucan",
+        "Exhilarated Salamander",
+        "Intricate Tiger",
+        "Enormous Barracuda",
+        "Adventurous Sea Lion",
+        "Merry Reindeer",
+        "Murmuring Gnu",
+        "Jolly Manta Ray",
+        "Dauntless Cobra",
+        "Optimistic Crocodile",
+        "Frolicking Wrasse",
+        "Meritorious Dragonfish",
+        "Keen Starfish",
+        "Dauntless Yak",
+        "Vigorous Newt",
+        "Vigorous Gazelle"
+      ],
+      "Cheeky Starling": [],
+      "Cheeky Wolverine": [
+        "Contemplative Jaguar",
+        "Vigorous Falcon",
+        "Swimming Grasshopper",
+        "Optimal Rhinoceros",
+        "Careful Beagle",
+        "Satisfied Barracuda",
+        "Prismatic Jackal",
+        "Helpful Cassowary"
+      ],
+      "Cheerful Dalmatian": [
+        "Hydraulic Triceratops",
+        "Spectacular Caribou",
+        "Playful Owl",
+        "Legendary Condor"
+      ],
+      "Cheerful Orca": [
+        "Stylish Shark",
+        "Unofficial Zebra"
+      ],
+      "Circumspect Bear": [],
+      "Circumspect Gull": [
+        "Intricate Crab",
+        "Brave Caterpillar",
+        "Singing Mouse",
+        "Timeless Sea Snake"
+      ],
+      "Circumspect Mongoose": [],
+      "Circumspect Pelican": [
+        "Dynamic Pheasant",
+        "Scintillating Duck",
+        "Elusive Cat",
+        "Spectacular Hedgehog",
+        "Colossal Pigeon",
+        "Gigantic Sandpiper",
+        "Wondrous Brontosaurus",
+        "Eccentric Owl",
+        "Relieved Mongoose"
+      ],
+      "Cognizant Marlin": [
+        "Jolly Opossum",
+        "Charming Angelfish",
+        "Substantial Elk",
+        "Cordial Mantis",
+        "Excited Gecko"
+      ],
+      "Cognizant Mastiff": [
+        "Solid Duck"
+      ],
+      "Collectible Dragonfish": [
+        "Unclouded Bat",
+        "Inquisitive Hatchetfish"
+      ],
+      "Collectible Frog": [],
+      "Collectible Hare": [],
+      "Colorful Catfish": [
+        "Prismatic Toucan",
+        "Gigantic Iguana",
+        "Taciturn Rhinoceros"
+      ],
+      "Colorful Mallard": [
+        "Shiny Falcon"
+      ],
+      "Colossal Pigeon": [
+        "Dynamic Pheasant",
+        "Scintillating Duck",
+        "Elusive Cat",
+        "Spectacular Hedgehog",
+        "Gigantic Sandpiper",
+        "Wondrous Brontosaurus",
+        "Circumspect Pelican",
+        "Eccentric Owl",
+        "Relieved Mongoose"
+      ],
+      "Comfortable Jaguar": [
+        "Dynamic Narwhal",
+        "Focused Sandpiper"
+      ],
+      "Comfortable Octopus": [
+        "Prototypical Llama",
+        "Steady Stingray"
+      ],
+      "Comfortable Parrot": [
+        "Proficient Frog",
+        "Picturesque Caribou",
+        "Qualified Caribou"
+      ],
+      "Communicative Barracuda": [],
+      "Communicative Beaver": [
+        "Lucky Dove",
+        "Alert Roadrunner",
+        "Intricate Raccoon",
+        "Spotless Lemur",
+        "Wandering Catfish",
+        "Ardent Osprey",
+        "Perceptive Chipmunk",
+        "Vigorous Partridge",
+        "Idealistic Leopard"
+      ],
+      "Communicative Crab": [
+        "Poised Cat",
+        "Motionless Ram",
+        "Primordial Sparrow",
+        "Vociferous Cormorant",
+        "Adventurous Deer",
+        "Smiling Badger"
+      ],
+      "Compact Leopard": [
+        "Fortunate Dove",
+        "Merry Triceratops",
+        "Masked Herring",
+        "Arboreal Brontosaurus"
+      ],
+      "Compassionate Deer": [],
+      "Compassionate Gazelle": [
+        "Vigorous Stegosaurus",
+        "Inimitable Antelope",
+        "Symmetrical Narwhal",
+        "Ecstatic Antelope",
+        "Bodacious Pheasant"
+      ],
+      "Compassionate Horse": [
+        "Meritorious Kestrel",
+        "Thankful Hamster",
+        "Observant Sea Snake",
+        "Transparent Narwhal",
+        "Glamorous Snowy Owl",
+        "Timely Panther",
+        "Practical Magpie",
+        "Radiant Vampire Bat"
+      ],
+      "Constant Badger": [
+        "Diminutive Lionfish"
+      ],
+      "Constant Barracuda": [
+        "Neighborly Wolverine",
+        "Mirthful Frog",
+        "Bright Chinchilla",
+        "Jolly Rabbit",
+        "Creative Greyhound",
+        "Thankful Aardvark",
+        "Essential Wombat",
+        "Sparkling Rook",
+        "Thankful Owl",
+        "Singing Albatross"
+      ],
+      "Constant Hamster": [
+        "Shiny Okapi",
+        "Unflappable Kingfisher",
+        "Panoramic Newt",
+        "Mustachioed Dove",
+        "Zestful Manta Ray",
+        "Pleasant Beaver",
+        "Noble Panther",
+        "Jubilant Grasshopper",
+        "Invaluable Raven",
+        "Relaxed Kestrel",
+        "Influential Panda",
+        "Perplexing Mallard"
+      ],
+      "Constant Stingray": [
+        "Enormous Horse",
+        "Variegated Parrot",
+        "Lucky Hedgehog",
+        "Unseen Rabbit",
+        "Wacky Eel"
+      ],
+      "Constant Stork": [
+        "Distinctive Llama",
+        "Elegant Catfish",
+        "Effervescent Partridge",
+        "Adorable Jaguar",
+        "Transparent Reindeer",
+        "Extraordinary Dragonfish",
+        "Stylish Stingray",
+        "Terrestrial Falcon",
+        "Keen Gorilla",
+        "Wonderful Crane",
+        "Charming Hawk"
+      ],
+      "Contemplative Crocodile": [],
+      "Contemplative Goldfish": [
+        "Dashing Butterfly",
+        "Enthusiastic Duck",
+        "Reclusive Dove",
+        "Ethereal Wallaby",
+        "Satisfied Ibex",
+        "Tricky Frog",
+        "Legendary Lion",
+        "Exotic Newt",
+        "Erudite Starfish",
+        "Timely Caribou",
+        "Loquacious Toucan",
+        "Imperturbable Flamingo",
+        "Universal Gnu",
+        "Enthusiastic Triceratops"
+      ],
+      "Contemplative Jaguar": [
+        "Optimal Rhinoceros",
+        "Careful Beagle",
+        "Satisfied Barracuda",
+        "Helpful Cassowary"
+      ],
+      "Convincing Gerbil": [
+        "Sufficient Falcon",
+        "Astute Zebra",
+        "Elegant Deer",
+        "Robust Vampire Bat"
+      ],
+      "Convincing Gorilla": [
+        "Precise Swan",
+        "Creative Swan",
+        "Reassured Partridge",
+        "Singing Wombat",
+        "Glorious Ram",
+        "Observant Alpaca",
+        "Methodical Seahorse",
+        "Practical Frog",
+        "Observant Python",
+        "Impartial Chinchilla",
+        "Stunning Squid",
+        "Neighborly Cheetah",
+        "Quotable Swan"
+      ],
+      "Convincing Penguin": [
+        "Courageous Grasshopper",
+        "Universal Catfish",
+        "Eager Swan",
+        "Astonishing Beagle",
+        "Focused Rhinoceros"
+      ],
+      "Convincing Salamander": [
+        "Mustachioed Owl",
+        "Acrobatic Grasshopper",
+        "Uncanny Sea Cucumber",
+        "Musical Eel"
+      ],
+      "Convivial Angelfish": [
+        "Vivid Condor",
+        "Hatless Snowy Owl",
+        "Insightful Seal",
+        "Impartial Ibis",
+        "Gesticulating Triceratops",
+        "Inquisitive Zebra",
+        "Unseen Moose",
+        "Prismatic Raven",
+        "Practical Cormorant",
+        "Unique Rhinoceros"
+      ],
+      "Convivial Cheetah": [],
+      "Convivial Goldfish": [
+        "Immense Ferret",
+        "Spotless Vampire Bat",
+        "Swimming Dalmatian"
+      ],
+      "Convivial Pheasant": [],
+      "Cooperative Gecko": [
+        "Fantastic Dove",
+        "Sarcastic Falcon",
+        "Unofficial Eel"
+      ],
+      "Cooperative Magpie": [
+        "Flourishing Velociraptor",
+        "Enormous Stegosaurus",
+        "Lucky Ostrich",
+        "Peaceful Lark",
+        "Primordial Hedgehog",
+        "Artful Kestrel",
+        "Inquisitive Opossum",
+        "Primordial Jackal",
+        "Versatile Jaguar",
+        "Relaxed Salmon",
+        "Momentous Ram",
+        "Glorious Leopard",
+        "Joyous Panther",
+        "Wandering Alligator",
+        "Lively Orca",
+        "Vivid Spider",
+        "Gleaming Ferret",
+        "Inspired Mollusk",
+        "Imaginative Lionfish",
+        "Ethereal Mandrill"
+      ],
+      "Cordial Mantis": [
+        "Jolly Opossum",
+        "Charming Angelfish",
+        "Substantial Elk",
+        "Cognizant Marlin",
+        "Excited Gecko"
+      ],
+      "Cosmic Anteater": [],
+      "Cosmic Triceratops": [],
+      "Courageous Centipede": [
+        "Uproarious Caribou",
+        "Watchful Opossum",
+        "Smooth Chipmunk"
+      ],
+      "Courageous Grasshopper": [
+        "Convincing Penguin",
+        "Universal Catfish",
+        "Eager Swan",
+        "Focused Rhinoceros"
+      ],
+      "Courageous Greyhound": [],
+      "Courageous Ibis": [],
+      "Courageous Nightingale": [
+        "Motionless Badger",
+        "Motionless Cat"
+      ],
+      "Creative Greyhound": [
+        "Neighborly Wolverine",
+        "Mirthful Frog",
+        "Bright Chinchilla",
+        "Jolly Rabbit",
+        "Thankful Aardvark",
+        "Constant Barracuda",
+        "Essential Wombat",
+        "Sparkling Rook",
+        "Thankful Owl",
+        "Singing Albatross"
+      ],
+      "Creative Sandpiper": [
+        "Recurring Camel"
+      ],
+      "Creative Swan": [
+        "Precise Swan",
+        "Reassured Partridge",
+        "Singing Wombat",
+        "Glorious Ram",
+        "Observant Alpaca",
+        "Convincing Gorilla",
+        "Methodical Seahorse",
+        "Practical Frog",
+        "Observant Python",
+        "Impartial Chinchilla",
+        "Stunning Squid",
+        "Neighborly Cheetah",
+        "Quotable Swan"
+      ],
+      "Creative Wolverine": [],
+      "Cryptic Gnu": [],
+      "Crystalline Falcon": [
+        "Outgoing Jackal"
+      ],
+      "Crystalline Ferret": [
+        "Unseen Ibis",
+        "Gesticulating Swan",
+        "Cheeky Koala",
+        "Nascent Toucan",
+        "Exhilarated Salamander",
+        "Intricate Tiger",
+        "Harmonious Sandpiper",
+        "Merry Reindeer",
+        "Murmuring Gnu",
+        "Jolly Manta Ray",
+        "Dauntless Cobra",
+        "Optimistic Crocodile",
+        "Momentous Wren",
+        "Frolicking Wrasse",
+        "Meritorious Dragonfish",
+        "Keen Starfish",
+        "Dauntless Yak",
+        "Vigorous Newt",
+        "Relieved Jackal",
+        "Vigorous Gazelle"
+      ],
+      "Crystalline Flamingo": [],
+      "Crystalline Gnu": [],
+      "Crystalline Stork": [],
+      "Cunning Gorilla": [
+        "Scholarly Orca",
+        "Nonchalant Lobster",
+        "Improbable Cheetah"
+      ],
+      "Curious Sea Cucumber": [
+        "Selective Gnu"
+      ],
+      "Dancing Cassowary": [
+        "Variegated Turtle",
+        "Hydraulic Triceratops",
+        "Eager Spider",
+        "Ubiquitous Caribou",
+        "Spectacular Caribou",
+        "Cheerful Dalmatian",
+        "Taciturn Crane",
+        "Modest Barracuda",
+        "Precocious Gecko",
+        "Playful Owl",
+        "Legendary Condor",
+        "Reassured Wolf"
+      ],
+      "Dancing Sheep": [
+        "Sanguine Sea Cucumber",
+        "Rigorous Raven",
+        "Omnivorous Wombat",
+        "Heroic Lobster",
+        "Picturesque Crab",
+        "Alert Alligator",
+        "Unofficial Lion"
+      ],
+      "Daring Kangaroo": [
+        "Wandering Brontosaurus",
+        "Quizzical Llama",
+        "Wacky Llama",
+        "Happy Iguana",
+        "Nomadic Seal"
+      ],
+      "Dashing Butterfly": [
+        "Enthusiastic Duck",
+        "Reclusive Dove",
+        "Ethereal Wallaby",
+        "Satisfied Ibex",
+        "Tricky Frog",
+        "Legendary Lion",
+        "Exotic Newt",
+        "Erudite Starfish",
+        "Timely Caribou",
+        "Loquacious Toucan",
+        "Imperturbable Flamingo",
+        "Contemplative Goldfish",
+        "Universal Gnu",
+        "Enthusiastic Triceratops"
+      ],
+      "Dashing Coral Snake": [],
+      "Dashing Eel": [],
+      "Dashing Mastiff": [
+        "Elegant Falcon",
+        "Stylish Llama",
+        "Purposeful Chipmunk",
+        "Fortunate Centipede"
+      ],
+      "Dashing Mouse": [
+        "Primeval Marlin"
+      ],
+      "Dashing Panda": [],
+      "Dashing Sheep": [
+        "Perpetual Chipmunk",
+        "Immense Albatross"
+      ],
+      "Dauntless Cobra": [
+        "Unseen Ibis",
+        "Gesticulating Swan",
+        "Unique Magpie",
+        "Cheeky Koala",
+        "Flying Ibex",
+        "Nascent Toucan",
+        "Exhilarated Salamander",
+        "Intricate Tiger",
+        "Enormous Barracuda",
+        "Adventurous Sea Lion",
+        "Merry Reindeer",
+        "Murmuring Gnu",
+        "Jolly Manta Ray",
+        "Optimistic Crocodile",
+        "Frolicking Wrasse",
+        "Meritorious Dragonfish",
+        "Keen Starfish",
+        "Dauntless Yak",
+        "Vigorous Newt",
+        "Vigorous Gazelle"
+      ],
+      "Dauntless Yak": [
+        "Unseen Ibis",
+        "Gesticulating Swan",
+        "Unique Magpie",
+        "Cheeky Koala",
+        "Flying Ibex",
+        "Nascent Toucan",
+        "Exhilarated Salamander",
+        "Intricate Tiger",
+        "Enormous Barracuda",
+        "Adventurous Sea Lion",
+        "Merry Reindeer",
+        "Murmuring Gnu",
+        "Jolly Manta Ray",
+        "Dauntless Cobra",
+        "Optimistic Crocodile",
+        "Frolicking Wrasse",
+        "Meritorious Dragonfish",
+        "Keen Starfish",
+        "Vigorous Newt",
+        "Vigorous Gazelle"
+      ],
+      "Defiant Antelope": [
+        "Gleaming Narwhal",
+        "Graceful Vampire Bat"
+      ],
+      "Defiant Beaver": [
+        "Neighborly Wolverine",
+        "Mirthful Frog",
+        "Bright Chinchilla",
+        "Jolly Rabbit",
+        "Creative Greyhound",
+        "Thankful Aardvark",
+        "Constant Barracuda",
+        "Essential Wombat",
+        "Perplexing Sheep",
+        "Selective Bulldog",
+        "Singing Albatross"
+      ],
+      "Delightful Toucan": [],
+      "Determined Otter": [
+        "Solid Falcon",
+        "Brave Python",
+        "Masked Grasshopper",
+        "Inimitable Platypus",
+        "Majestic Hamster",
+        "Witty Kestrel",
+        "Ubiquitous Porcupine"
+      ],
+      "Determined Spider": [
+        "Tessellated Scorpion"
+      ],
+      "Dexterous Koala": [],
+      "Dexterous Owl": [],
+      "Diminutive Lionfish": [
+        "Constant Badger"
+      ],
+      "Diminutive Triceratops": [
+        "Uncanny Crab"
+      ],
+      "Discerning Chinchilla": [],
+      "Discerning Owl": [],
+      "Discerning Sea Cucumber": [
+        "Flourishing Falcon",
+        "Sophisticated Velociraptor",
+        "Bodacious Nautilus",
+        "Poised Triceratops",
+        "Radiant Coelacanth",
+        "Magnetic Wolverine",
+        "Omnidirectional Triceratops",
+        "Frolicking Squid",
+        "Terrestrial Squirrel",
+        "Healthy Camel",
+        "Intuitive Raven"
+      ],
+      "Discerning Spider": [
+        "Imaginative Elk",
+        "Jaunty Gnu",
+        "Relaxed Chameleon",
+        "Methodical Panda",
+        "Mysterious Fish",
+        "Stupendous Crocodile"
+      ],
+      "Distinctive Caribou": [],
+      "Distinctive Llama": [
+        "Adorable Jaguar",
+        "Terrestrial Falcon",
+        "Wonderful Crane",
+        "Charming Hawk"
+      ],
+      "Dreaming Kingfisher": [],
+      "Dreaming Swan": [
+        "Sparkling Hornet",
+        "Splendid Gazelle",
+        "Ethereal Octopus",
+        "Precise Angelfish",
+        "Elated Ostrich",
+        "Mysterious Starling"
+      ],
+      "Dreaming Vampire Bat": [],
+      "Dynamic Narwhal": [
+        "Comfortable Jaguar",
+        "Focused Sandpiper"
+      ],
+      "Dynamic Pheasant": [
+        "Scintillating Duck",
+        "Elusive Cat",
+        "Spectacular Hedgehog",
+        "Colossal Pigeon",
+        "Gigantic Sandpiper",
+        "Wondrous Brontosaurus",
+        "Circumspect Pelican",
+        "Eccentric Owl",
+        "Relieved Mongoose"
+      ],
+      "Dynamic Vampire Bat": [],
+      "Eager Catfish": [
+        "Meticulous Swan",
+        "Quotable Gnu"
+      ],
+      "Eager Mongoose": [
+        "Luminescent Beaver",
+        "Uproarious Alligator",
+        "Taciturn Wren",
+        "Charming Mandrill",
+        "Gorgeous Penguin"
+      ],
+      "Eager Spider": [
+        "Variegated Turtle",
+        "Hydraulic Triceratops",
+        "Ubiquitous Caribou",
+        "Spectacular Caribou",
+        "Cheerful Dalmatian",
+        "Dancing Cassowary",
+        "Taciturn Crane",
+        "Modest Barracuda",
+        "Precocious Gecko",
+        "Playful Owl",
+        "Reassured Wolf"
+      ],
+      "Eager Swan": [
+        "Courageous Grasshopper",
+        "Convincing Penguin",
+        "Universal Catfish",
+        "Astonishing Beagle",
+        "Focused Rhinoceros"
+      ],
+      "Eccentric Anteater": [],
+      "Eccentric Eagle": [],
+      "Eccentric Goldfish": [],
+      "Eccentric Newt": [],
+      "Eccentric Owl": [
+        "Dynamic Pheasant",
+        "Scintillating Duck",
+        "Elusive Cat",
+        "Spectacular Hedgehog",
+        "Colossal Pigeon",
+        "Gigantic Sandpiper",
+        "Wondrous Brontosaurus",
+        "Circumspect Pelican",
+        "Relieved Mongoose"
+      ],
+      "Eccentric Platypus": [],
+      "Ecstatic Antelope": [],
+      "Effervescent Badger": [
+        "Gleaming Narwhal",
+        "Gleeful Centipede",
+        "Taciturn Jaguar"
+      ],
+      "Effervescent Mongoose": [
+        "Neighborly Wolverine",
+        "Mirthful Frog",
+        "Bright Chinchilla",
+        "Keen Eel",
+        "Jolly Rabbit",
+        "Creative Greyhound",
+        "Thankful Aardvark",
+        "Constant Barracuda",
+        "Essential Wombat",
+        "Sparkling Rook",
+        "Thankful Owl",
+        "Singing Albatross"
+      ],
+      "Effervescent Partridge": [
+        "Distinctive Llama",
+        "Elegant Catfish",
+        "Adorable Jaguar",
+        "Transparent Reindeer",
+        "Extraordinary Dragonfish",
+        "Stylish Stingray",
+        "Terrestrial Falcon",
+        "Keen Gorilla",
+        "Wonderful Crane",
+        "Constant Stork"
+      ],
+      "Effervescent Wren": [],
+      "Elaborate Albatross": [
+        "Salient Scorpion"
+      ],
+      "Elaborate Kingfisher": [
+        "Insightful Hatchetfish",
+        "Nascent Kestrel"
+      ],
+      "Elated Gazelle": [],
+      "Elated Ostrich": [
+        "Sparkling Hornet",
+        "Splendid Gazelle",
+        "Ethereal Octopus",
+        "Precise Angelfish",
+        "Dreaming Swan",
+        "Mysterious Starling"
+      ],
+      "Elated Owl": [],
+      "Elated Pelican": [],
+      "Elegant Catfish": [
+        "Distinctive Llama",
+        "Effervescent Partridge",
+        "Adorable Jaguar",
+        "Transparent Reindeer",
+        "Extraordinary Dragonfish",
+        "Stylish Stingray",
+        "Terrestrial Falcon",
+        "Keen Gorilla",
+        "Wonderful Crane",
+        "Charming Hawk",
+        "Constant Stork"
+      ],
+      "Elegant Deer": [
+        "Convincing Gerbil",
+        "Sufficient Falcon",
+        "Astute Zebra",
+        "Robust Vampire Bat"
+      ],
+      "Elegant Falcon": [
+        "Imperturbable Fox",
+        "Dashing Mastiff",
+        "Stylish Llama",
+        "Purposeful Chipmunk",
+        "Fortunate Centipede"
+      ],
+      "Elegant Triceratops": [
+        "Prototypical Llama",
+        "Primordial Sparrow",
+        "Impartial Centipede",
+        "Musical Eel",
+        "Resourceful Elephant",
+        "Steady Stingray"
+      ],
+      "Eloquent Rabbit": [
+        "Extraordinary Gerbil",
+        "Resilient Rhinoceros",
+        "Hatless Jaguar",
+        "Zealous Wren",
+        "Inquisitive Frog",
+        "Tranquil Cheetah",
+        "Erudite Parrot",
+        "Precise Nautilus"
+      ],
+      "Eloquent Ram": [],
+      "Elusive Cat": [
+        "Dynamic Pheasant",
+        "Scintillating Duck",
+        "Spectacular Hedgehog",
+        "Colossal Pigeon",
+        "Gigantic Sandpiper",
+        "Wondrous Brontosaurus",
+        "Circumspect Pelican",
+        "Eccentric Owl",
+        "Relieved Mongoose"
+      ],
+      "Elusive Lemur": [],
+      "Enchanting Koala": [
+        "Luminescent Herring",
+        "Frolicking Salamander"
+      ],
+      "Enchanting Sea Cucumber": [
+        "Resolute Narwhal",
+        "Bodacious Owl"
+      ],
+      "Encouraging Dolphin": [
+        "Dashing Butterfly",
+        "Enthusiastic Duck",
+        "Satisfied Ibex",
+        "Tricky Frog",
+        "Timely Caribou",
+        "Loquacious Toucan",
+        "Universal Gnu"
+      ],
+      "Encouraging Iguana": [
+        "Keen Porpoise",
+        "Tricky Coelacanth"
+      ],
+      "Encouraging Partridge": [
+        "Enchanting Sea Cucumber",
+        "Mysterious Ibis",
+        "Bodacious Owl",
+        "Gleaming Ram"
+      ],
+      "Energetic Angelfish": [],
+      "Energetic Flamingo": [],
+      "Energized Gerbil": [],
+      "Energized Hamster": [
+        "Merry Newt"
+      ],
+      "Energized Iguana": [],
+      "Enormous Barracuda": [
+        "Unseen Ibis",
+        "Gesticulating Swan",
+        "Unique Magpie",
+        "Cheeky Koala",
+        "Flying Ibex",
+        "Nascent Toucan",
+        "Exhilarated Salamander",
+        "Intricate Tiger",
+        "Adventurous Sea Lion",
+        "Merry Reindeer",
+        "Murmuring Gnu",
+        "Jolly Manta Ray",
+        "Dauntless Cobra",
+        "Optimistic Crocodile",
+        "Frolicking Wrasse",
+        "Meritorious Dragonfish",
+        "Keen Starfish",
+        "Dauntless Yak",
+        "Vigorous Newt",
+        "Vigorous Gazelle"
+      ],
+      "Enormous Horse": [
+        "Constant Stingray",
+        "Variegated Parrot",
+        "Lucky Hedgehog"
+      ],
+      "Enormous Stegosaurus": [
+        "Flourishing Velociraptor",
+        "Lucky Ostrich",
+        "Peaceful Lark",
+        "Primordial Hedgehog",
+        "Cooperative Magpie",
+        "Primordial Jackal",
+        "Versatile Jaguar",
+        "Relaxed Salmon",
+        "Momentous Ram",
+        "Glorious Leopard",
+        "Joyous Panther",
+        "Lively Orca",
+        "Vivid Spider",
+        "Gleaming Ferret",
+        "Inspired Mollusk"
+      ],
+      "Enthusiastic Duck": [
+        "Dashing Butterfly",
+        "Reclusive Dove",
+        "Ethereal Wallaby",
+        "Satisfied Ibex",
+        "Tricky Frog",
+        "Legendary Lion",
+        "Exotic Newt",
+        "Erudite Starfish",
+        "Timely Caribou",
+        "Loquacious Toucan",
+        "Imperturbable Flamingo",
+        "Contemplative Goldfish",
+        "Universal Gnu",
+        "Enthusiastic Triceratops"
+      ],
+      "Enthusiastic Triceratops": [
+        "Dashing Butterfly",
+        "Enthusiastic Duck",
+        "Reclusive Dove",
+        "Ethereal Wallaby",
+        "Satisfied Ibex",
+        "Tricky Frog",
+        "Legendary Lion",
+        "Exotic Newt",
+        "Erudite Starfish",
+        "Timely Caribou",
+        "Loquacious Toucan",
+        "Imperturbable Flamingo",
+        "Contemplative Goldfish",
+        "Universal Gnu"
+      ],
+      "Erudite Parrot": [
+        "Extraordinary Gerbil",
+        "Resilient Rhinoceros",
+        "Hatless Jaguar",
+        "Zealous Wren",
+        "Inquisitive Frog",
+        "Tranquil Cheetah",
+        "Relieved Owl",
+        "Unflappable Giraffe",
+        "Outgoing Newt"
+      ],
+      "Erudite Starfish": [
+        "Dashing Butterfly",
+        "Enthusiastic Duck",
+        "Reclusive Dove",
+        "Ethereal Wallaby",
+        "Satisfied Ibex",
+        "Tricky Frog",
+        "Legendary Lion",
+        "Exotic Newt",
+        "Timely Caribou",
+        "Loquacious Toucan",
+        "Imperturbable Flamingo",
+        "Contemplative Goldfish",
+        "Universal Gnu",
+        "Enthusiastic Triceratops"
+      ],
+      "Essential Mandrill": [
+        "Immense Polar Bear",
+        "Murmuring Iguana"
+      ],
+      "Essential Pheasant": [
+        "Extraordinary Lark",
+        "Unclouded Sandpiper",
+        "Uproarious Roadrunner",
+        "Methodical Bulldog",
+        "Reassured Cormorant",
+        "Beardless Boa Constrictor",
+        "Perpetual Condor",
+        "Influential Swan",
+        "Exhilarated Raven",
+        "Tricky Swan",
+        "Mechanical Wolf",
+        "Prismatic Crab"
+      ],
+      "Essential Wombat": [
+        "Neighborly Wolverine",
+        "Mirthful Frog",
+        "Bright Chinchilla",
+        "Jolly Rabbit",
+        "Creative Greyhound",
+        "Thankful Aardvark",
+        "Constant Barracuda",
+        "Sparkling Rook",
+        "Thankful Owl",
+        "Singing Albatross"
+      ],
+      "Ethereal Alligator": [
+        "Adventurous Raccoon"
+      ],
+      "Ethereal Grasshopper": [],
+      "Ethereal Mandrill": [
+        "Flourishing Velociraptor",
+        "Enormous Stegosaurus",
+        "Peaceful Lark",
+        "Primordial Hedgehog",
+        "Artful Kestrel",
+        "Cooperative Magpie",
+        "Inquisitive Opossum",
+        "Primordial Jackal",
+        "Versatile Jaguar",
+        "Relaxed Salmon",
+        "Momentous Ram",
+        "Glorious Leopard",
+        "Joyous Panther",
+        "Wandering Alligator",
+        "Lively Orca",
+        "Vivid Spider",
+        "Gleaming Ferret",
+        "Imaginative Lionfish"
+      ],
+      "Ethereal Octopus": [
+        "Sparkling Hornet",
+        "Splendid Gazelle",
+        "Precise Angelfish",
+        "Elated Ostrich",
+        "Dreaming Swan",
+        "Mysterious Starling"
+      ],
+      "Ethereal Wallaby": [
+        "Dashing Butterfly",
+        "Enthusiastic Duck",
+        "Reclusive Dove",
+        "Satisfied Ibex",
+        "Tricky Frog",
+        "Legendary Lion",
+        "Exotic Newt",
+        "Erudite Starfish",
+        "Timely Caribou",
+        "Loquacious Toucan",
+        "Imperturbable Flamingo",
+        "Contemplative Goldfish",
+        "Universal Gnu",
+        "Enthusiastic Triceratops"
+      ],
+      "Excited Condor": [],
+      "Excited Eagle": [],
+      "Excited Gecko": [
+        "Jolly Opossum",
+        "Charming Angelfish",
+        "Substantial Elk",
+        "Cordial Mantis",
+        "Cognizant Marlin"
+      ],
+      "Excited Sea Snake": [
+        "Miniature Chinchilla"
+      ],
+      "Excited Stork": [],
+      "Exhilarated Centipede": [
+        "Stylish Greyhound"
+      ],
+      "Exhilarated Kangaroo": [
+        "Perplexing Grasshopper",
+        "Nascent Rook",
+        "Fierce Raven"
+      ],
+      "Exhilarated Raven": [
+        "Extraordinary Lark",
+        "Unclouded Sandpiper",
+        "Uproarious Roadrunner",
+        "Methodical Bulldog",
+        "Reassured Cormorant",
+        "Beardless Boa Constrictor",
+        "Perpetual Condor",
+        "Influential Swan",
+        "Tricky Swan",
+        "Essential Pheasant",
+        "Mechanical Wolf",
+        "Prismatic Crab"
+      ],
+      "Exhilarated Salamander": [
+        "Unseen Ibis",
+        "Gesticulating Swan",
+        "Cheeky Koala",
+        "Nascent Toucan",
+        "Crystalline Ferret",
+        "Intricate Tiger",
+        "Harmonious Sandpiper",
+        "Merry Reindeer",
+        "Murmuring Gnu",
+        "Jolly Manta Ray",
+        "Optimistic Crocodile",
+        "Momentous Wren",
+        "Frolicking Wrasse",
+        "Meritorious Dragonfish",
+        "Keen Starfish",
+        "Vigorous Newt",
+        "Relieved Jackal",
+        "Vigorous Gazelle"
+      ],
+      "Exotic Giraffe": [
+        "Thoughtful Porpoise"
+      ],
+      "Exotic Newt": [
+        "Dashing Butterfly",
+        "Enthusiastic Duck",
+        "Reclusive Dove",
+        "Ethereal Wallaby",
+        "Satisfied Ibex",
+        "Tricky Frog",
+        "Legendary Lion",
+        "Erudite Starfish",
+        "Timely Caribou",
+        "Loquacious Toucan",
+        "Imperturbable Flamingo",
+        "Contemplative Goldfish",
+        "Universal Gnu",
+        "Enthusiastic Triceratops"
+      ],
+      "Exotic Panda": [],
+      "Exotic Polar Bear": [],
+      "Exotic Raccoon": [
+        "Prototypical Llama"
+      ],
+      "Extraordinary Dragonfish": [
+        "Distinctive Llama",
+        "Elegant Catfish",
+        "Effervescent Partridge",
+        "Adorable Jaguar",
+        "Transparent Reindeer",
+        "Stylish Stingray",
+        "Terrestrial Falcon",
+        "Keen Gorilla",
+        "Wonderful Crane",
+        "Charming Hawk",
+        "Constant Stork"
+      ],
+      "Extraordinary Gerbil": [
+        "Resilient Rhinoceros",
+        "Hatless Jaguar",
+        "Zealous Wren",
+        "Inquisitive Frog",
+        "Tranquil Cheetah",
+        "Relieved Owl",
+        "Unflappable Giraffe",
+        "Outgoing Newt",
+        "Erudite Parrot"
+      ],
+      "Extraordinary Lark": [
+        "Unclouded Sandpiper",
+        "Uproarious Roadrunner",
+        "Methodical Bulldog",
+        "Reassured Cormorant",
+        "Beardless Boa Constrictor",
+        "Perpetual Condor",
+        "Influential Swan",
+        "Exhilarated Raven",
+        "Tricky Swan",
+        "Essential Pheasant",
+        "Mechanical Wolf",
+        "Prismatic Crab"
+      ],
+      "Exuberant Koala": [],
+      "Exuberant Ostrich": [
+        "Methodical Panda"
+      ],
+      "Fantastic Condor": [
+        "Precise Pelican"
+      ],
+      "Fantastic Dolphin": [],
+      "Fantastic Dove": [
+        "Sarcastic Falcon",
+        "Unofficial Eel",
+        "Cooperative Gecko"
+      ],
+      "Fantastic Mongoose": [],
+      "Fantastic Swan": [
+        "Artful Dolphin"
+      ],
+      "Fantastic Turtle": [
+        "Heroic Salmon",
+        "Mysterious Kestrel"
+      ],
+      "Fearless Coral Snake": [],
+      "Fierce Pheasant": [
+        "Peaceful Reindeer"
+      ],
+      "Fierce Raven": [
+        "Perplexing Grasshopper",
+        "Nascent Rook"
+      ],
+      "Fiery Beagle": [
+        "Gigantic Wren"
+      ],
+      "Fiery Bulldog": [],
+      "Fiery Hedgehog": [
+        "Contemplative Jaguar",
+        "Lively Cormorant",
+        "Unthinkable Angelfish",
+        "Practical Walrus",
+        "Optimal Rhinoceros",
+        "Careful Beagle",
+        "Virtuous Starfish",
+        "Grateful Platypus",
+        "Satisfied Barracuda",
+        "Sincere Polar Bear",
+        "Helpful Cassowary"
+      ],
+      "Fiery Panda": [
+        "Salient Porpoise",
+        "Convincing Penguin",
+        "Keen Hedgehog",
+        "Pleasant Gorilla",
+        "Universal Catfish",
+        "Taciturn Coelacanth",
+        "Eager Swan",
+        "Astonishing Beagle",
+        "Focused Rhinoceros"
+      ],
+      "Flourishing Falcon": [
+        "Discerning Sea Cucumber",
+        "Sophisticated Velociraptor",
+        "Bodacious Nautilus",
+        "Poised Triceratops",
+        "Radiant Coelacanth",
+        "Magnetic Wolverine",
+        "Omnidirectional Triceratops",
+        "Frolicking Squid",
+        "Terrestrial Squirrel",
+        "Healthy Camel",
+        "Intuitive Raven"
+      ],
+      "Flourishing Raven": [
+        "Mercurial Dalmatian",
+        "Benevolent Greyhound"
+      ],
+      "Flourishing Velociraptor": [
+        "Enormous Stegosaurus",
+        "Lucky Ostrich",
+        "Peaceful Lark",
+        "Primordial Hedgehog",
+        "Artful Kestrel",
+        "Cooperative Magpie",
+        "Inquisitive Opossum",
+        "Primordial Jackal",
+        "Versatile Jaguar",
+        "Relaxed Salmon",
+        "Momentous Ram",
+        "Glorious Leopard",
+        "Joyous Panther",
+        "Wandering Alligator",
+        "Lively Orca",
+        "Vivid Spider",
+        "Gleaming Ferret",
+        "Inspired Mollusk",
+        "Imaginative Lionfish",
+        "Ethereal Mandrill"
+      ],
+      "Flying Brontosaurus": [
+        "Intuitive Hare",
+        "Wondrous Sea Lion"
+      ],
+      "Flying Ibex": [
+        "Unseen Ibis",
+        "Gesticulating Swan",
+        "Unique Magpie",
+        "Cheeky Koala",
+        "Nascent Toucan",
+        "Exhilarated Salamander",
+        "Intricate Tiger",
+        "Enormous Barracuda",
+        "Adventurous Sea Lion",
+        "Merry Reindeer",
+        "Murmuring Gnu",
+        "Jolly Manta Ray",
+        "Dauntless Cobra",
+        "Optimistic Crocodile",
+        "Frolicking Wrasse",
+        "Meritorious Dragonfish",
+        "Keen Starfish",
+        "Dauntless Yak",
+        "Vigorous Newt",
+        "Vigorous Gazelle"
+      ],
+      "Flying Roadrunner": [
+        "Motionless Starling"
+      ],
+      "Focused Finch": [],
+      "Focused Herring": [
+        "Stately Panther",
+        "Proactive Dalmatian",
+        "Meritorious Gnu",
+        "Blissful Osprey",
+        "Nonchalant Squid",
+        "Vigorous Marlin",
+        "Modest Bumblebee",
+        "Modest Cat",
+        "Blissful Porpoise"
+      ],
+      "Focused Lion": [],
+      "Focused Polar Bear": [
+        "Poised Cat",
+        "Motionless Ram",
+        "Communicative Crab",
+        "Primordial Sparrow",
+        "Vociferous Cormorant",
+        "Smiling Badger"
+      ],
+      "Focused Rhinoceros": [
+        "Courageous Grasshopper",
+        "Convincing Penguin",
+        "Universal Catfish",
+        "Eager Swan",
+        "Astonishing Beagle"
+      ],
+      "Focused Sandpiper": [
+        "Comfortable Jaguar",
+        "Dynamic Narwhal"
+      ],
+      "Fortunate Centipede": [
+        "Imperturbable Fox",
+        "Elegant Falcon",
+        "Dashing Mastiff",
+        "Stylish Llama",
+        "Purposeful Chipmunk"
+      ],
+      "Fortunate Dove": [
+        "Compact Leopard",
+        "Merry Triceratops",
+        "Masked Herring",
+        "Arboreal Brontosaurus"
+      ],
+      "Fortunate Elephant": [
+        "Wandering Brontosaurus",
+        "Quizzical Llama",
+        "Wacky Llama",
+        "Daring Kangaroo",
+        "Happy Iguana",
+        "Nomadic Seal"
+      ],
+      "Friendly Hamster": [
+        "Musical Mastiff"
+      ],
+      "Friendly Mantis": [],
+      "Friendly Triceratops": [
+        "Imperturbable Opossum",
+        "Impartial Pigeon",
+        "Happy Rhinoceros",
+        "Frolicking Ibex",
+        "Scholarly Vampire Bat"
+      ],
+      "Frolicking Ibex": [
+        "Imperturbable Opossum",
+        "Impartial Pigeon",
+        "Friendly Triceratops",
+        "Happy Rhinoceros",
+        "Scholarly Vampire Bat"
+      ],
+      "Frolicking Salamander": [
+        "Enchanting Koala",
+        "Luminescent Herring"
+      ],
+      "Frolicking Squid": [
+        "Flourishing Falcon",
+        "Discerning Sea Cucumber",
+        "Sophisticated Velociraptor",
+        "Bodacious Nautilus",
+        "Poised Triceratops",
+        "Radiant Coelacanth",
+        "Magnetic Wolverine",
+        "Omnidirectional Triceratops",
+        "Terrestrial Squirrel",
+        "Healthy Camel",
+        "Intuitive Raven"
+      ],
+      "Frolicking Wrasse": [
+        "Unseen Ibis",
+        "Gesticulating Swan",
+        "Unique Magpie",
+        "Cheeky Koala",
+        "Flying Ibex",
+        "Nascent Toucan",
+        "Exhilarated Salamander",
+        "Intricate Tiger",
+        "Enormous Barracuda",
+        "Adventurous Sea Lion",
+        "Merry Reindeer",
+        "Murmuring Gnu",
+        "Jolly Manta Ray",
+        "Dauntless Cobra",
+        "Optimistic Crocodile",
+        "Meritorious Dragonfish",
+        "Keen Starfish",
+        "Dauntless Yak",
+        "Vigorous Newt",
+        "Vigorous Gazelle"
+      ],
+      "Gargantuan Squid": [
+        "Qualified Wolf"
+      ],
+      "Gargantuan Stegosaurus": [],
+      "Gesticulating Finch": [
+        "Unexpected Sea Cucumber",
+        "Peaceful Zebra",
+        "Salubrious Rabbit"
+      ],
+      "Gesticulating Sheep": [
+        "Merry Barracuda"
+      ],
+      "Gesticulating Swan": [
+        "Unseen Ibis",
+        "Cheeky Koala",
+        "Nascent Toucan",
+        "Crystalline Ferret",
+        "Exhilarated Salamander",
+        "Intricate Tiger",
+        "Harmonious Sandpiper",
+        "Merry Reindeer",
+        "Murmuring Gnu",
+        "Jolly Manta Ray",
+        "Optimistic Crocodile",
+        "Momentous Wren",
+        "Frolicking Wrasse",
+        "Meritorious Dragonfish",
+        "Keen Starfish",
+        "Vigorous Newt",
+        "Relieved Jackal",
+        "Vigorous Gazelle"
+      ],
+      "Gesticulating Triceratops": [
+        "Unique Rhinoceros"
+      ],
+      "Gigantic Iguana": [
+        "Colorful Catfish",
+        "Prismatic Toucan",
+        "Taciturn Rhinoceros"
+      ],
+      "Gigantic Pigeon": [],
+      "Gigantic Rabbit": [
+        "Tricky Gerbil"
+      ],
+      "Gigantic Sandpiper": [
+        "Scintillating Duck"
+      ],
+      "Gigantic Wren": [
+        "Fiery Beagle"
+      ],
+      "Glamorous Mouse": [
+        "Precise Ibis",
+        "Unofficial Ferret"
+      ],
+      "Glamorous Snowy Owl": [
+        "Meritorious Kestrel",
+        "Compassionate Horse",
+        "Thankful Hamster",
+        "Observant Sea Snake",
+        "Transparent Narwhal",
+        "Timely Panther",
+        "Practical Magpie",
+        "Radiant Vampire Bat"
+      ],
+      "Gleaming Ferret": [
+        "Flourishing Velociraptor",
+        "Enormous Stegosaurus",
+        "Peaceful Lark",
+        "Primordial Hedgehog",
+        "Cooperative Magpie",
+        "Primordial Jackal",
+        "Versatile Jaguar",
+        "Relaxed Salmon",
+        "Momentous Ram",
+        "Glorious Leopard",
+        "Joyous Panther",
+        "Scintillating Stork",
+        "Lively Orca",
+        "Vivid Spider"
+      ],
+      "Gleaming Gorilla": [],
+      "Gleaming Grasshopper": [],
+      "Gleaming Narwhal": [
+        "Gleeful Centipede",
+        "Taciturn Jaguar",
+        "Effervescent Badger"
+      ],
+      "Gleaming Ram": [
+        "Optimistic Mollusk",
+        "Enchanting Sea Cucumber",
+        "Mysterious Ibis",
+        "Bodacious Owl"
+      ],
+      "Gleeful Boa Constrictor": [],
+      "Gleeful Centipede": [
+        "Gleaming Narwhal",
+        "Taciturn Jaguar",
+        "Effervescent Badger"
+      ],
+      "Gleeful Jackal": [
+        "Legendary Salamander",
+        "Adorable Llama"
+      ],
+      "Glorious Leopard": [
+        "Lucky Ostrich",
+        "Inspired Mollusk"
+      ],
+      "Glorious Ram": [
+        "Precise Swan",
+        "Creative Swan",
+        "Reassured Partridge",
+        "Singing Wombat",
+        "Observant Alpaca",
+        "Convincing Gorilla",
+        "Hydraulic Jackal",
+        "Methodical Seahorse",
+        "Practical Frog",
+        "Observant Python",
+        "Impartial Chinchilla",
+        "Stunning Squid",
+        "Neighborly Cheetah",
+        "Quotable Swan"
+      ],
+      "Gorgeous Cassowary": [
+        "Precise Swan",
+        "Creative Swan",
+        "Reassured Partridge",
+        "Singing Wombat",
+        "Glorious Ram",
+        "Observant Alpaca",
+        "Convincing Gorilla",
+        "Methodical Seahorse",
+        "Practical Frog",
+        "Observant Python",
+        "Impartial Chinchilla",
+        "Stunning Squid",
+        "Neighborly Cheetah",
+        "Quotable Swan"
+      ],
+      "Gorgeous Chinchilla": [
+        "Sleek Lobster"
+      ],
+      "Gorgeous Coelacanth": [
+        "Merry Newt"
+      ],
+      "Gorgeous Penguin": [
+        "Luminescent Beaver",
+        "Uproarious Alligator",
+        "Taciturn Wren",
+        "Charming Mandrill",
+        "Eager Mongoose"
+      ],
+      "Gorgeous Squid": [],
+      "Graceful Vampire Bat": [
+        "Gleaming Narwhal",
+        "Gleeful Centipede",
+        "Taciturn Jaguar",
+        "Observant Sparrow",
+        "Effervescent Badger"
+      ],
+      "Grateful Ferret": [
+        "Meticulous Cheetah"
+      ],
+      "Grateful Platypus": [
+        "Contemplative Jaguar",
+        "Lively Cormorant",
+        "Unthinkable Angelfish",
+        "Fiery Hedgehog",
+        "Practical Walrus",
+        "Optimal Rhinoceros",
+        "Careful Beagle",
+        "Virtuous Starfish",
+        "Satisfied Barracuda",
+        "Sincere Polar Bear",
+        "Helpful Cassowary"
+      ],
+      "Happy Grouse": [
+        "Joyous Ram",
+        "Inspired Giraffe",
+        "Selective Newt"
+      ],
+      "Happy Hawk": [],
+      "Happy Iguana": [
+        "Wandering Brontosaurus",
+        "Quizzical Llama",
+        "Wacky Llama",
+        "Daring Kangaroo",
+        "Nomadic Seal"
+      ],
+      "Happy Rhinoceros": [
+        "Imperturbable Opossum",
+        "Impartial Pigeon",
+        "Friendly Triceratops",
+        "Frolicking Ibex",
+        "Scholarly Vampire Bat"
+      ],
+      "Harmonious Sandpiper": [
+        "Unseen Ibis",
+        "Gesticulating Swan",
+        "Cheeky Koala",
+        "Nascent Toucan",
+        "Crystalline Ferret",
+        "Exhilarated Salamander",
+        "Intricate Tiger",
+        "Merry Reindeer",
+        "Murmuring Gnu",
+        "Jolly Manta Ray",
+        "Dauntless Cobra",
+        "Optimistic Crocodile",
+        "Momentous Wren",
+        "Frolicking Wrasse",
+        "Meritorious Dragonfish",
+        "Keen Starfish",
+        "Dauntless Yak",
+        "Vigorous Newt",
+        "Relieved Jackal",
+        "Vigorous Gazelle"
+      ],
+      "Harmonious Wombat": [],
+      "Hatless Crane": [
+        "Steady Butterfly",
+        "Brilliant Ferret"
+      ],
+      "Hatless Finch": [],
+      "Hatless Jaguar": [
+        "Extraordinary Gerbil",
+        "Resilient Rhinoceros",
+        "Zealous Wren",
+        "Inquisitive Frog",
+        "Tranquil Cheetah",
+        "Relieved Owl",
+        "Unflappable Giraffe",
+        "Outgoing Newt",
+        "Erudite Parrot"
+      ],
+      "Hatless Lion": [],
+      "Hatless Snowy Owl": [
+        "Vivid Condor",
+        "Insightful Seal",
+        "Impartial Ibis",
+        "Convivial Angelfish",
+        "Inquisitive Zebra",
+        "Unseen Moose",
+        "Prismatic Raven",
+        "Practical Cormorant"
+      ],
+      "Healthy Camel": [
+        "Flourishing Falcon",
+        "Discerning Sea Cucumber",
+        "Sophisticated Velociraptor",
+        "Bodacious Nautilus",
+        "Poised Triceratops",
+        "Radiant Coelacanth",
+        "Magnetic Wolverine",
+        "Omnidirectional Triceratops",
+        "Frolicking Squid",
+        "Terrestrial Squirrel",
+        "Intuitive Raven"
+      ],
+      "Healthy Cassowary": [],
+      "Healthy Dragonfish": [],
+      "Helpful Cassowary": [
+        "Contemplative Jaguar",
+        "Optimal Rhinoceros",
+        "Careful Beagle",
+        "Satisfied Barracuda"
+      ],
+      "Heroic Lobster": [
+        "Rigorous Raven",
+        "Picturesque Crab"
+      ],
+      "Heroic Salmon": [],
+      "Hydraulic Eel": [
+        "Mighty Pheasant",
+        "Resolute Kangaroo"
+      ],
+      "Hydraulic Elk": [
+        "Theoretical Jackal",
+        "Scholarly Wallaby",
+        "Philosophical Condor"
+      ],
+      "Hydraulic Fish": [],
+      "Hydraulic Jackal": [
+        "Precise Swan",
+        "Creative Swan",
+        "Reassured Partridge",
+        "Singing Wombat",
+        "Glorious Ram",
+        "Observant Alpaca",
+        "Convincing Gorilla",
+        "Methodical Seahorse",
+        "Practical Frog",
+        "Observant Python",
+        "Impartial Chinchilla",
+        "Stunning Squid",
+        "Neighborly Cheetah",
+        "Quotable Swan"
+      ],
+      "Hydraulic Triceratops": [
+        "Variegated Turtle",
+        "Eager Spider",
+        "Ubiquitous Caribou",
+        "Spectacular Caribou",
+        "Dancing Cassowary",
+        "Taciturn Crane",
+        "Modest Barracuda",
+        "Precocious Gecko",
+        "Reassured Wolf"
+      ],
+      "Hydraulic Zebra": [],
+      "Idealistic Bumblebee": [],
+      "Idealistic Hummingbird": [
+        "Musical Eel"
+      ],
+      "Idealistic Leopard": [
+        "Communicative Beaver",
+        "Lucky Dove",
+        "Alert Roadrunner",
+        "Intricate Raccoon",
+        "Spotless Lemur",
+        "Wandering Catfish",
+        "Ardent Osprey",
+        "Perceptive Chipmunk",
+        "Vigorous Partridge"
+      ],
+      "Illustrious Cobra": [],
+      "Illustrious Gecko": [
+        "Stately Sparrow"
+      ],
+      "Illustrious Octopus": [
+        "Hydraulic Fish"
+      ],
+      "Imaginative Chameleon": [],
+      "Imaginative Elk": [
+        "Jaunty Gnu",
+        "Relaxed Chameleon",
+        "Mysterious Fish",
+        "Stupendous Crocodile"
+      ],
+      "Imaginative Giraffe": [],
+      "Imaginative Lionfish": [
+        "Flourishing Velociraptor",
+        "Enormous Stegosaurus",
+        "Peaceful Lark",
+        "Primordial Hedgehog",
+        "Cooperative Magpie",
+        "Inquisitive Opossum",
+        "Primordial Jackal",
+        "Versatile Jaguar",
+        "Relaxed Salmon",
+        "Momentous Ram",
+        "Glorious Leopard",
+        "Joyous Panther",
+        "Wandering Alligator",
+        "Lively Orca",
+        "Vivid Spider",
+        "Gleaming Ferret"
+      ],
+      "Imaginative Mongoose": [],
+      "Immense Aardvark": [
+        "Cautious Pelican",
+        "Lucky Squirrel",
+        "Lucky Octopus",
+        "Thoughtful Jaguar"
+      ],
+      "Immense Albatross": [
+        "Dashing Sheep",
+        "Perpetual Chipmunk"
+      ],
+      "Immense Ferret": [
+        "Spotless Vampire Bat",
+        "Swimming Dalmatian",
+        "Convivial Goldfish"
+      ],
+      "Immense Goldfish": [
+        "Sparkling Bulldog",
+        "Meticulous Porcupine"
+      ],
+      "Immense Heron": [
+        "Poised Cat",
+        "Elegant Triceratops",
+        "Motionless Ram",
+        "Acrobatic Grasshopper",
+        "Communicative Crab",
+        "Focused Polar Bear",
+        "Primordial Sparrow",
+        "Impartial Centipede",
+        "Vociferous Cormorant",
+        "Proactive Songbird",
+        "Musical Eel",
+        "Adventurous Deer",
+        "Smiling Badger"
+      ],
+      "Immense Polar Bear": [
+        "Murmuring Iguana",
+        "Essential Mandrill"
+      ],
+      "Impartial Centipede": [
+        "Elegant Triceratops",
+        "Prototypical Llama",
+        "Primordial Sparrow",
+        "Musical Eel",
+        "Resourceful Elephant",
+        "Steady Stingray"
+      ],
+      "Impartial Chinchilla": [
+        "Precise Swan",
+        "Creative Swan",
+        "Reassured Partridge",
+        "Singing Wombat",
+        "Glorious Ram",
+        "Observant Alpaca",
+        "Convincing Gorilla",
+        "Methodical Seahorse",
+        "Practical Frog",
+        "Observant Python",
+        "Stunning Squid",
+        "Neighborly Cheetah",
+        "Quotable Swan"
+      ],
+      "Impartial Ibis": [
+        "Vivid Condor",
+        "Hatless Snowy Owl",
+        "Insightful Seal",
+        "Convivial Angelfish",
+        "Inquisitive Zebra",
+        "Unseen Moose",
+        "Prismatic Raven",
+        "Practical Cormorant"
+      ],
+      "Impartial Pigeon": [
+        "Imperturbable Opossum",
+        "Friendly Triceratops",
+        "Happy Rhinoceros",
+        "Frolicking Ibex",
+        "Scholarly Vampire Bat"
+      ],
+      "Imperturbable Flamingo": [
+        "Dashing Butterfly",
+        "Enthusiastic Duck",
+        "Reclusive Dove",
+        "Ethereal Wallaby",
+        "Satisfied Ibex",
+        "Tricky Frog",
+        "Legendary Lion",
+        "Exotic Newt",
+        "Erudite Starfish",
+        "Timely Caribou",
+        "Loquacious Toucan",
+        "Contemplative Goldfish",
+        "Universal Gnu",
+        "Enthusiastic Triceratops"
+      ],
+      "Imperturbable Fox": [
+        "Elegant Falcon",
+        "Dashing Mastiff",
+        "Stylish Llama",
+        "Purposeful Chipmunk",
+        "Fortunate Centipede"
+      ],
+      "Imperturbable Gull": [
+        "Sarcastic Falcon"
+      ],
+      "Imperturbable Opossum": [
+        "Impartial Pigeon",
+        "Friendly Triceratops",
+        "Happy Rhinoceros",
+        "Frolicking Ibex",
+        "Scholarly Vampire Bat"
+      ],
+      "Improbable Cheetah": [],
+      "Improbable Jaguar": [],
+      "Influential Osprey": [
+        "Intrepid Mastiff"
+      ],
+      "Influential Panda": [
+        "Shiny Okapi",
+        "Unflappable Kingfisher",
+        "Panoramic Newt",
+        "Mustachioed Dove",
+        "Zestful Manta Ray",
+        "Pleasant Beaver",
+        "Constant Hamster",
+        "Noble Panther",
+        "Jubilant Grasshopper",
+        "Invaluable Raven",
+        "Relaxed Kestrel",
+        "Perplexing Mallard"
+      ],
+      "Influential Swan": [
+        "Extraordinary Lark",
+        "Unclouded Sandpiper",
+        "Uproarious Roadrunner",
+        "Methodical Bulldog",
+        "Reassured Cormorant",
+        "Beardless Boa Constrictor",
+        "Perpetual Condor",
+        "Exhilarated Raven",
+        "Tricky Swan",
+        "Essential Pheasant",
+        "Mechanical Wolf",
+        "Prismatic Crab"
+      ],
+      "Inimitable Alligator": [
+        "Primeval Coelacanth",
+        "Purposeful Zebra",
+        "Benevolent Stegosaurus"
+      ],
+      "Inimitable Antelope": [
+        "Vigorous Stegosaurus",
+        "Symmetrical Narwhal",
+        "Ecstatic Antelope",
+        "Bodacious Pheasant",
+        "Compassionate Gazelle"
+      ],
+      "Inimitable Platypus": [
+        "Solid Falcon",
+        "Brave Python",
+        "Determined Otter",
+        "Masked Grasshopper",
+        "Majestic Hamster",
+        "Witty Kestrel",
+        "Ubiquitous Porcupine"
+      ],
+      "Inquisitive Crab": [
+        "Radiant Magpie",
+        "Bubbly Lark"
+      ],
+      "Inquisitive Frog": [
+        "Extraordinary Gerbil",
+        "Resilient Rhinoceros",
+        "Hatless Jaguar",
+        "Zealous Wren",
+        "Tranquil Cheetah",
+        "Relieved Owl",
+        "Unflappable Giraffe",
+        "Outgoing Newt",
+        "Erudite Parrot"
+      ],
+      "Inquisitive Hatchetfish": [
+        "Collectible Dragonfish",
+        "Unclouded Bat"
+      ],
+      "Inquisitive Opossum": [
+        "Flourishing Velociraptor",
+        "Enormous Stegosaurus",
+        "Peaceful Lark",
+        "Primordial Hedgehog",
+        "Cooperative Magpie",
+        "Primordial Jackal",
+        "Versatile Jaguar",
+        "Relaxed Salmon",
+        "Momentous Ram",
+        "Glorious Leopard",
+        "Joyous Panther",
+        "Wandering Alligator",
+        "Lively Orca",
+        "Vivid Spider",
+        "Gleaming Ferret",
+        "Imaginative Lionfish"
+      ],
+      "Inquisitive Rook": [
+        "Precise Swan",
+        "Creative Swan",
+        "Reassured Partridge",
+        "Singing Wombat",
+        "Glorious Ram",
+        "Observant Alpaca",
+        "Convincing Gorilla",
+        "Methodical Seahorse",
+        "Practical Frog",
+        "Observant Python",
+        "Impartial Chinchilla",
+        "Stunning Squid",
+        "Neighborly Cheetah",
+        "Quotable Swan"
+      ],
+      "Inquisitive Starfish": [],
+      "Inquisitive Zebra": [
+        "Vivid Condor",
+        "Hatless Snowy Owl",
+        "Insightful Seal",
+        "Impartial Ibis",
+        "Convivial Angelfish",
+        "Unseen Moose",
+        "Prismatic Raven",
+        "Practical Cormorant"
+      ],
+      "Insightful Cassowary": [
+        "Unclouded Mongoose",
+        "Heroic Salmon",
+        "Fantastic Turtle"
+      ],
+      "Insightful Gecko": [],
+      "Insightful Hatchetfish": [
+        "Authentic Salmon",
+        "Nascent Kestrel",
+        "Elaborate Kingfisher",
+        "Transparent Sea Snake"
+      ],
+      "Insightful Lion": [
+        "Murmuring Gorilla",
+        "Optimistic Mollusk",
+        "Enchanting Sea Cucumber",
+        "Bodacious Owl"
+      ],
+      "Insightful Seal": [
+        "Vivid Condor",
+        "Hatless Snowy Owl",
+        "Impartial Ibis",
+        "Convivial Angelfish",
+        "Inquisitive Zebra",
+        "Unseen Moose",
+        "Prismatic Raven",
+        "Practical Cormorant"
+      ],
+      "Insightful Vampire Bat": [],
+      "Insightful Velociraptor": [
+        "Recurring Gnu",
+        "Wacky Roadrunner",
+        "Motionless Caribou"
+      ],
+      "Inspired Dalmatian": [
+        "Panoramic Butterfly"
+      ],
+      "Inspired Giraffe": [
+        "Happy Grouse",
+        "Joyous Ram",
+        "Selective Newt"
+      ],
+      "Inspired Ibis": [
+        "Neighborly Wolverine",
+        "Mirthful Frog",
+        "Bright Chinchilla",
+        "Jolly Rabbit",
+        "Creative Greyhound",
+        "Thankful Aardvark",
+        "Constant Barracuda",
+        "Essential Wombat",
+        "Singing Albatross"
+      ],
+      "Inspired Mollusk": [
+        "Lucky Ostrich",
+        "Glorious Leopard"
+      ],
+      "Inspired Turtle": [],
+      "Intrepid Mastiff": [
+        "Influential Osprey"
+      ],
+      "Intrepid Shark": [
+        "Hatless Lion",
+        "Jubilant Mollusk",
+        "Outgoing Gazelle",
+        "Vivid Sandpiper"
+      ],
+      "Intrepid Stork": [],
+      "Intricate Crab": [
+        "Brave Caterpillar",
+        "Singing Mouse",
+        "Timeless Sea Snake"
+      ],
+      "Intricate Kangaroo": [
+        "Scrupulous Mandrill",
+        "Watchful Gorilla"
+      ],
+      "Intricate Raccoon": [
+        "Communicative Beaver",
+        "Lucky Dove",
+        "Alert Roadrunner",
+        "Spotless Lemur",
+        "Wandering Catfish",
+        "Ardent Osprey",
+        "Perceptive Chipmunk",
+        "Vigorous Partridge",
+        "Idealistic Leopard"
+      ],
+      "Intricate Tiger": [
+        "Unseen Ibis",
+        "Gesticulating Swan",
+        "Unique Magpie",
+        "Cheeky Koala",
+        "Flying Ibex",
+        "Nascent Toucan",
+        "Exhilarated Salamander",
+        "Enormous Barracuda",
+        "Adventurous Sea Lion",
+        "Merry Reindeer",
+        "Murmuring Gnu",
+        "Jolly Manta Ray",
+        "Dauntless Cobra",
+        "Optimistic Crocodile",
+        "Frolicking Wrasse",
+        "Meritorious Dragonfish",
+        "Keen Starfish",
+        "Dauntless Yak",
+        "Vigorous Newt",
+        "Vigorous Gazelle"
+      ],
+      "Intuitive Angelfish": [
+        "Sparkling Rabbit",
+        "Merry Newt"
+      ],
+      "Intuitive Hare": [
+        "Wondrous Sea Lion",
+        "Flying Brontosaurus"
+      ],
+      "Intuitive Panther": [
+        "Undisputed Tapir"
+      ],
+      "Intuitive Raven": [
+        "Flourishing Falcon",
+        "Discerning Sea Cucumber",
+        "Sophisticated Velociraptor",
+        "Bodacious Nautilus",
+        "Poised Triceratops",
+        "Radiant Coelacanth",
+        "Magnetic Wolverine",
+        "Omnidirectional Triceratops",
+        "Frolicking Squid",
+        "Terrestrial Squirrel",
+        "Healthy Camel"
+      ],
+      "Invaluable Raven": [
+        "Shiny Okapi",
+        "Unflappable Kingfisher",
+        "Panoramic Newt",
+        "Mustachioed Dove",
+        "Zestful Manta Ray",
+        "Pleasant Beaver",
+        "Constant Hamster",
+        "Noble Panther",
+        "Jubilant Grasshopper",
+        "Relaxed Kestrel",
+        "Influential Panda",
+        "Perplexing Mallard"
+      ],
+      "Invaluable Walrus": [],
+      "Inventive Cat": [
+        "Stylish Wolverine",
+        "Symbolic Lark",
+        "Terrestrial Anteater",
+        "Benevolent Gorilla",
+        "Attentive Walrus",
+        "Bright Yak",
+        "Purposeful Grouse"
+      ],
+      "Inventive Dolphin": [],
+      "Inventive Moose": [
+        "Resourceful Bird"
+      ],
+      "Jaunty Flamingo": [],
+      "Jaunty Gnu": [
+        "Imaginative Elk",
+        "Discerning Spider",
+        "Relaxed Chameleon",
+        "Methodical Panda",
+        "Mysterious Fish",
+        "Stupendous Crocodile"
+      ],
+      "Jaunty Jackal": [],
+      "Jaunty Mallard": [
+        "Insightful Hatchetfish",
+        "Nascent Kestrel",
+        "Elaborate Kingfisher"
+      ],
+      "Jaunty Ram": [],
+      "Jolly Manta Ray": [
+        "Unseen Ibis",
+        "Gesticulating Swan",
+        "Unique Magpie",
+        "Cheeky Koala",
+        "Flying Ibex",
+        "Nascent Toucan",
+        "Exhilarated Salamander",
+        "Intricate Tiger",
+        "Enormous Barracuda",
+        "Adventurous Sea Lion",
+        "Merry Reindeer",
+        "Murmuring Gnu",
+        "Dauntless Cobra",
+        "Optimistic Crocodile",
+        "Frolicking Wrasse",
+        "Meritorious Dragonfish",
+        "Keen Starfish",
+        "Dauntless Yak",
+        "Vigorous Newt",
+        "Vigorous Gazelle"
+      ],
+      "Jolly Opossum": [
+        "Charming Angelfish",
+        "Substantial Elk",
+        "Cordial Mantis",
+        "Cognizant Marlin",
+        "Excited Gecko"
+      ],
+      "Jolly Rabbit": [
+        "Neighborly Wolverine",
+        "Mirthful Frog",
+        "Bright Chinchilla",
+        "Creative Greyhound",
+        "Thankful Aardvark",
+        "Constant Barracuda",
+        "Essential Wombat",
+        "Sparkling Rook",
+        "Thankful Owl",
+        "Singing Albatross"
+      ],
+      "Jolly Sea Snake": [
+        "Nomadic Kangaroo",
+        "Singing Sea Lion"
+      ],
+      "Joyful Gull": [],
+      "Joyful Pheasant": [
+        "Elegant Triceratops",
+        "Exotic Raccoon",
+        "Impartial Centipede",
+        "Resourceful Elephant",
+        "Steady Stingray"
+      ],
+      "Joyful Platypus": [
+        "Immense Ferret",
+        "Momentous Panther",
+        "Spotless Vampire Bat",
+        "Swimming Dalmatian",
+        "Convivial Goldfish"
+      ],
+      "Joyful Triceratops": [
+        "Neighborly Wolverine",
+        "Mirthful Frog",
+        "Bright Chinchilla",
+        "Jolly Rabbit",
+        "Creative Greyhound",
+        "Thankful Aardvark",
+        "Constant Barracuda",
+        "Essential Wombat",
+        "Remarkable Goose",
+        "Singing Albatross"
+      ],
+      "Joyous Panther": [
+        "Flourishing Velociraptor",
+        "Enormous Stegosaurus",
+        "Peaceful Lark",
+        "Primordial Hedgehog",
+        "Artful Kestrel",
+        "Cooperative Magpie",
+        "Inquisitive Opossum",
+        "Primordial Jackal",
+        "Versatile Jaguar",
+        "Relaxed Salmon",
+        "Momentous Ram",
+        "Glorious Leopard",
+        "Scintillating Stork",
+        "Wandering Alligator",
+        "Lively Orca",
+        "Vivid Spider",
+        "Gleaming Ferret",
+        "Imaginative Lionfish",
+        "Ethereal Mandrill"
+      ],
+      "Joyous Ram": [
+        "Happy Grouse",
+        "Inspired Giraffe",
+        "Selective Newt"
+      ],
+      "Jubilant Eagle": [],
+      "Jubilant Grasshopper": [
+        "Shiny Okapi",
+        "Unflappable Kingfisher",
+        "Panoramic Newt",
+        "Mustachioed Dove",
+        "Zestful Manta Ray",
+        "Pleasant Beaver",
+        "Constant Hamster",
+        "Noble Panther",
+        "Invaluable Raven",
+        "Relaxed Kestrel",
+        "Influential Panda",
+        "Perplexing Mallard"
+      ],
+      "Jubilant Mollusk": [
+        "Hatless Lion",
+        "Outgoing Gazelle",
+        "Intrepid Shark",
+        "Vivid Sandpiper"
+      ],
+      "Keen Eel": [
+        "Neighborly Wolverine",
+        "Mirthful Frog",
+        "Bright Chinchilla",
+        "Jolly Rabbit",
+        "Creative Greyhound",
+        "Thankful Aardvark",
+        "Constant Barracuda",
+        "Essential Wombat",
+        "Sparkling Rook",
+        "Effervescent Mongoose",
+        "Thankful Owl",
+        "Singing Albatross"
+      ],
+      "Keen Finch": [
+        "Cheeky Boa Constrictor"
+      ],
+      "Keen Gorilla": [
+        "Distinctive Llama",
+        "Elegant Catfish",
+        "Effervescent Partridge",
+        "Adorable Jaguar",
+        "Transparent Reindeer",
+        "Extraordinary Dragonfish",
+        "Stylish Stingray",
+        "Terrestrial Falcon",
+        "Wonderful Crane",
+        "Charming Hawk",
+        "Constant Stork"
+      ],
+      "Keen Hedgehog": [
+        "Convincing Penguin",
+        "Universal Catfish",
+        "Eager Swan",
+        "Focused Rhinoceros"
+      ],
+      "Keen Kestrel": [],
+      "Keen Manta Ray": [],
+      "Keen Porpoise": [
+        "Encouraging Iguana",
+        "Tricky Coelacanth"
+      ],
+      "Keen Starfish": [
+        "Unseen Ibis",
+        "Gesticulating Swan",
+        "Unique Magpie",
+        "Cheeky Koala",
+        "Flying Ibex",
+        "Nascent Toucan",
+        "Exhilarated Salamander",
+        "Intricate Tiger",
+        "Enormous Barracuda",
+        "Adventurous Sea Lion",
+        "Merry Reindeer",
+        "Murmuring Gnu",
+        "Jolly Manta Ray",
+        "Dauntless Cobra",
+        "Optimistic Crocodile",
+        "Frolicking Wrasse",
+        "Meritorious Dragonfish",
+        "Dauntless Yak",
+        "Vigorous Newt",
+        "Vigorous Gazelle"
+      ],
+      "Laughing Mastiff": [
+        "Meticulous Reindeer"
+      ],
+      "Legendary Condor": [
+        "Variegated Turtle",
+        "Hydraulic Triceratops",
+        "Eager Spider",
+        "Ubiquitous Caribou",
+        "Spectacular Caribou",
+        "Cheerful Dalmatian",
+        "Dancing Cassowary",
+        "Taciturn Crane",
+        "Modest Barracuda",
+        "Precocious Gecko",
+        "Reassured Wolf"
+      ],
+      "Legendary Lion": [
+        "Dashing Butterfly",
+        "Enthusiastic Duck",
+        "Reclusive Dove",
+        "Ethereal Wallaby",
+        "Satisfied Ibex",
+        "Tricky Frog",
+        "Exotic Newt",
+        "Erudite Starfish",
+        "Timely Caribou",
+        "Loquacious Toucan",
+        "Imperturbable Flamingo",
+        "Contemplative Goldfish",
+        "Universal Gnu",
+        "Enthusiastic Triceratops"
+      ],
+      "Legendary Salamander": [
+        "Adorable Llama"
+      ],
+      "Lenient Deer": [],
+      "Lively Cormorant": [
+        "Contemplative Jaguar",
+        "Unthinkable Angelfish",
+        "Fiery Hedgehog",
+        "Practical Walrus",
+        "Optimal Rhinoceros",
+        "Careful Beagle",
+        "Virtuous Starfish",
+        "Grateful Platypus",
+        "Satisfied Barracuda",
+        "Sincere Polar Bear",
+        "Helpful Cassowary"
+      ],
+      "Lively Orca": [
+        "Flourishing Velociraptor",
+        "Enormous Stegosaurus",
+        "Lucky Ostrich",
+        "Peaceful Lark",
+        "Primordial Hedgehog",
+        "Cooperative Magpie",
+        "Primordial Jackal",
+        "Versatile Jaguar",
+        "Relaxed Salmon",
+        "Momentous Ram",
+        "Glorious Leopard",
+        "Joyous Panther",
+        "Vivid Spider",
+        "Gleaming Ferret",
+        "Inspired Mollusk"
+      ],
+      "Lively Sea Cucumber": [],
+      "Lively Tiger": [
+        "Optimistic Boa Constrictor",
+        "Poised Deer"
+      ],
+      "Lively Walrus": [],
+      "Loquacious Barracuda": [],
+      "Loquacious Hawk": [
+        "Contemplative Jaguar",
+        "Optimal Rhinoceros",
+        "Careful Beagle",
+        "Satisfied Barracuda",
+        "Helpful Cassowary"
+      ],
+      "Loquacious Toucan": [
+        "Dashing Butterfly",
+        "Enthusiastic Duck",
+        "Reclusive Dove",
+        "Ethereal Wallaby",
+        "Satisfied Ibex",
+        "Tricky Frog",
+        "Legendary Lion",
+        "Exotic Newt",
+        "Erudite Starfish",
+        "Timely Caribou",
+        "Imperturbable Flamingo",
+        "Contemplative Goldfish",
+        "Universal Gnu",
+        "Enthusiastic Triceratops"
+      ],
+      "Lucky Dove": [
+        "Communicative Beaver",
+        "Alert Roadrunner",
+        "Intricate Raccoon",
+        "Spotless Lemur",
+        "Wandering Catfish",
+        "Ardent Osprey",
+        "Perceptive Chipmunk",
+        "Vigorous Partridge",
+        "Idealistic Leopard"
+      ],
+      "Lucky Hedgehog": [
+        "Enormous Horse",
+        "Constant Stingray",
+        "Variegated Parrot",
+        "Unseen Rabbit",
+        "Wacky Eel"
+      ],
+      "Lucky Octopus": [
+        "Immense Aardvark",
+        "Cautious Pelican",
+        "Lucky Squirrel",
+        "Thoughtful Jaguar"
+      ],
+      "Lucky Ostrich": [
+        "Glorious Leopard",
+        "Inspired Mollusk"
+      ],
+      "Lucky Squirrel": [
+        "Immense Aardvark",
+        "Cautious Pelican",
+        "Lucky Octopus",
+        "Thoughtful Jaguar"
+      ],
+      "Luminescent Beaver": [
+        "Uproarious Alligator",
+        "Taciturn Wren",
+        "Charming Mandrill",
+        "Gorgeous Penguin",
+        "Eager Mongoose"
+      ],
+      "Luminescent Giraffe": [],
+      "Luminescent Herring": [
+        "Enchanting Koala",
+        "Frolicking Salamander"
+      ],
+      "Magnetic Bumblebee": [],
+      "Magnetic Wolverine": [
+        "Flourishing Falcon",
+        "Discerning Sea Cucumber",
+        "Sophisticated Velociraptor",
+        "Bodacious Nautilus",
+        "Poised Triceratops",
+        "Radiant Coelacanth",
+        "Omnidirectional Triceratops",
+        "Frolicking Squid",
+        "Terrestrial Squirrel",
+        "Healthy Camel",
+        "Intuitive Raven"
+      ],
+      "Magnificent Coral Snake": [],
+      "Magnificent Jellyfish": [],
+      "Majestic Hamster": [
+        "Solid Falcon",
+        "Brave Python",
+        "Determined Otter",
+        "Masked Grasshopper",
+        "Inimitable Platypus",
+        "Witty Kestrel",
+        "Ubiquitous Porcupine"
+      ],
+      "Masked Bulldog": [],
+      "Masked Condor": [
+        "Musical Eel",
+        "Witty Squirrel"
+      ],
+      "Masked Grasshopper": [
+        "Solid Falcon",
+        "Brave Python",
+        "Determined Otter",
+        "Inimitable Platypus",
+        "Majestic Hamster",
+        "Witty Kestrel",
+        "Ubiquitous Porcupine"
+      ],
+      "Masked Herring": [
+        "Merry Triceratops",
+        "Arboreal Brontosaurus"
+      ],
+      "Massive Bat": [
+        "Thoughtful Kestrel"
+      ],
+      "Massive Wren": [
+        "Flourishing Velociraptor",
+        "Peaceful Lark",
+        "Artful Kestrel",
+        "Cooperative Magpie",
+        "Primordial Jackal",
+        "Momentous Ram",
+        "Glorious Leopard",
+        "Joyous Panther",
+        "Ethereal Mandrill"
+      ],
+      "Mechanical Giraffe": [
+        "Swimming Starfish",
+        "Recurring Spider"
+      ],
+      "Mechanical Wolf": [
+        "Extraordinary Lark",
+        "Unclouded Sandpiper",
+        "Uproarious Roadrunner",
+        "Methodical Bulldog",
+        "Reassured Cormorant",
+        "Beardless Boa Constrictor",
+        "Perpetual Condor",
+        "Influential Swan",
+        "Exhilarated Raven",
+        "Tricky Swan",
+        "Essential Pheasant",
+        "Prismatic Crab"
+      ],
+      "Mercurial Dalmatian": [
+        "Flourishing Raven",
+        "Benevolent Greyhound"
+      ],
+      "Mercurial Deer": [],
+      "Mercurial Leopard": [],
+      "Mercurial Platypus": [
+        "Lively Tiger",
+        "Optimistic Boa Constrictor",
+        "Poised Deer"
+      ],
+      "Meritorious Dragonfish": [
+        "Unseen Ibis",
+        "Gesticulating Swan",
+        "Unique Magpie",
+        "Cheeky Koala",
+        "Flying Ibex",
+        "Nascent Toucan",
+        "Exhilarated Salamander",
+        "Intricate Tiger",
+        "Enormous Barracuda",
+        "Adventurous Sea Lion",
+        "Merry Reindeer",
+        "Murmuring Gnu",
+        "Jolly Manta Ray",
+        "Dauntless Cobra",
+        "Optimistic Crocodile",
+        "Frolicking Wrasse",
+        "Keen Starfish",
+        "Dauntless Yak",
+        "Vigorous Newt",
+        "Vigorous Gazelle"
+      ],
+      "Meritorious Gnu": [
+        "Stately Panther",
+        "Proactive Dalmatian",
+        "Blissful Osprey",
+        "Nonchalant Squid",
+        "Vigorous Marlin",
+        "Modest Bumblebee",
+        "Modest Cat",
+        "Focused Herring",
+        "Blissful Porpoise"
+      ],
+      "Meritorious Kestrel": [
+        "Compassionate Horse",
+        "Thankful Hamster",
+        "Observant Sea Snake",
+        "Transparent Narwhal",
+        "Glamorous Snowy Owl",
+        "Timely Panther",
+        "Practical Magpie",
+        "Radiant Vampire Bat"
+      ],
+      "Meritorious Llama": [],
+      "Merry Barracuda": [
+        "Gesticulating Sheep"
+      ],
+      "Merry Newt": [],
+      "Merry Reindeer": [
+        "Unseen Ibis",
+        "Gesticulating Swan",
+        "Unique Magpie",
+        "Cheeky Koala",
+        "Flying Ibex",
+        "Nascent Toucan",
+        "Exhilarated Salamander",
+        "Intricate Tiger",
+        "Enormous Barracuda",
+        "Adventurous Sea Lion",
+        "Murmuring Gnu",
+        "Jolly Manta Ray",
+        "Dauntless Cobra",
+        "Optimistic Crocodile",
+        "Frolicking Wrasse",
+        "Meritorious Dragonfish",
+        "Keen Starfish",
+        "Dauntless Yak",
+        "Vigorous Newt",
+        "Vigorous Gazelle"
+      ],
+      "Merry Triceratops": [
+        "Masked Herring",
+        "Arboreal Brontosaurus"
+      ],
+      "Methodical Anteater": [],
+      "Methodical Bulldog": [
+        "Extraordinary Lark",
+        "Unclouded Sandpiper",
+        "Uproarious Roadrunner",
+        "Reassured Cormorant",
+        "Beardless Boa Constrictor",
+        "Perpetual Condor",
+        "Influential Swan",
+        "Exhilarated Raven",
+        "Tricky Swan",
+        "Essential Pheasant",
+        "Mechanical Wolf",
+        "Prismatic Crab"
+      ],
+      "Methodical Panda": [
+        "Imaginative Elk",
+        "Discerning Spider",
+        "Jaunty Gnu",
+        "Relaxed Chameleon",
+        "Mysterious Fish",
+        "Stupendous Crocodile"
+      ],
+      "Methodical Seahorse": [
+        "Precise Swan",
+        "Creative Swan",
+        "Reassured Partridge",
+        "Singing Wombat",
+        "Glorious Ram",
+        "Observant Alpaca",
+        "Convincing Gorilla",
+        "Practical Frog",
+        "Observant Python",
+        "Impartial Chinchilla",
+        "Stunning Squid",
+        "Neighborly Cheetah",
+        "Quotable Swan"
+      ],
+      "Methodical Wombat": [],
+      "Meticulous Cheetah": [
+        "Grateful Ferret"
+      ],
+      "Meticulous Porcupine": [
+        "Sparkling Bulldog",
+        "Immense Goldfish"
+      ],
+      "Meticulous Reindeer": [],
+      "Meticulous Swan": [
+        "Eager Catfish",
+        "Quotable Gnu"
+      ],
+      "Mighty Bear": [],
+      "Mighty Pheasant": [
+        "Hydraulic Eel",
+        "Resolute Kangaroo"
+      ],
+      "Miniature Chinchilla": [
+        "Excited Sea Snake"
+      ],
+      "Mirthful Frog": [
+        "Neighborly Wolverine",
+        "Bright Chinchilla",
+        "Jolly Rabbit",
+        "Creative Greyhound",
+        "Thankful Aardvark",
+        "Constant Barracuda",
+        "Essential Wombat",
+        "Sparkling Rook",
+        "Thankful Owl",
+        "Singing Albatross"
+      ],
+      "Mirthful Iguana": [],
+      "Mischievous Mastiff": [],
+      "Mischievous Toucan": [
+        "Bodacious Armadillo",
+        "Wandering Pheasant",
+        "Bubbly Gazelle",
+        "Adorable Polar Bear"
+      ],
+      "Modest Barracuda": [
+        "Variegated Turtle",
+        "Hydraulic Triceratops",
+        "Eager Spider",
+        "Ubiquitous Caribou",
+        "Spectacular Caribou",
+        "Dancing Cassowary",
+        "Taciturn Crane",
+        "Precocious Gecko",
+        "Playful Owl",
+        "Reassured Wolf"
+      ],
+      "Modest Bumblebee": [
+        "Stately Panther",
+        "Proactive Dalmatian",
+        "Meritorious Gnu",
+        "Blissful Osprey",
+        "Nonchalant Squid",
+        "Vigorous Marlin",
+        "Modest Cat",
+        "Focused Herring",
+        "Blissful Porpoise"
+      ],
+      "Modest Cat": [
+        "Stately Panther",
+        "Proactive Dalmatian",
+        "Meritorious Gnu",
+        "Blissful Osprey",
+        "Nonchalant Squid",
+        "Vigorous Marlin",
+        "Modest Bumblebee",
+        "Focused Herring",
+        "Blissful Porpoise"
+      ],
+      "Momentous Centipede": [
+        "Nonchalant Roadrunner"
+      ],
+      "Momentous Panther": [
+        "Joyful Platypus",
+        "Immense Ferret",
+        "Spotless Vampire Bat",
+        "Swimming Dalmatian",
+        "Convivial Goldfish"
+      ],
+      "Momentous Ram": [
+        "Flourishing Velociraptor",
+        "Massive Wren",
+        "Peaceful Lark",
+        "Artful Kestrel",
+        "Cooperative Magpie",
+        "Primordial Jackal",
+        "Glorious Leopard",
+        "Joyous Panther",
+        "Ethereal Mandrill"
+      ],
+      "Momentous Tapir": [],
+      "Momentous Wren": [
+        "Unseen Ibis",
+        "Gesticulating Swan",
+        "Cheeky Koala",
+        "Nascent Toucan",
+        "Crystalline Ferret",
+        "Exhilarated Salamander",
+        "Intricate Tiger",
+        "Harmonious Sandpiper",
+        "Merry Reindeer",
+        "Murmuring Gnu",
+        "Jolly Manta Ray",
+        "Dauntless Cobra",
+        "Optimistic Crocodile",
+        "Frolicking Wrasse",
+        "Meritorious Dragonfish",
+        "Keen Starfish",
+        "Dauntless Yak",
+        "Vigorous Newt",
+        "Relieved Jackal",
+        "Vigorous Gazelle"
+      ],
+      "Motionless Badger": [
+        "Motionless Cat",
+        "Courageous Nightingale"
+      ],
+      "Motionless Caribou": [
+        "Recurring Gnu",
+        "Wacky Roadrunner",
+        "Insightful Velociraptor"
+      ],
+      "Motionless Cat": [
+        "Motionless Badger",
+        "Courageous Nightingale"
+      ],
+      "Motionless Hare": [
+        "Flourishing Velociraptor",
+        "Peaceful Lark",
+        "Cooperative Magpie",
+        "Primordial Jackal",
+        "Momentous Ram",
+        "Glorious Leopard",
+        "Joyous Panther"
+      ],
+      "Motionless Kingfisher": [],
+      "Motionless Manta Ray": [
+        "Victorious Octopus"
+      ],
+      "Motionless Ram": [
+        "Poised Cat",
+        "Communicative Crab",
+        "Primordial Sparrow",
+        "Vociferous Cormorant",
+        "Adventurous Deer",
+        "Smiling Badger"
+      ],
+      "Motionless Starling": [],
+      "Motionless Velociraptor": [],
+      "Multicolored Mantis": [
+        "Sanguine Sea Cucumber",
+        "Dancing Sheep",
+        "Rigorous Raven",
+        "Omnivorous Wombat",
+        "Heroic Lobster",
+        "Picturesque Crab",
+        "Alert Alligator",
+        "Unofficial Lion"
+      ],
+      "Murmuring Badger": [
+        "Sparkling Rook",
+        "Thankful Owl"
+      ],
+      "Murmuring Gnu": [
+        "Unseen Ibis",
+        "Gesticulating Swan",
+        "Unique Magpie",
+        "Cheeky Koala",
+        "Flying Ibex",
+        "Nascent Toucan",
+        "Exhilarated Salamander",
+        "Intricate Tiger",
+        "Enormous Barracuda",
+        "Adventurous Sea Lion",
+        "Merry Reindeer",
+        "Jolly Manta Ray",
+        "Dauntless Cobra",
+        "Optimistic Crocodile",
+        "Frolicking Wrasse",
+        "Meritorious Dragonfish",
+        "Keen Starfish",
+        "Dauntless Yak",
+        "Vigorous Newt",
+        "Vigorous Gazelle"
+      ],
+      "Murmuring Gorilla": [
+        "Enchanting Sea Cucumber",
+        "Insightful Lion"
+      ],
+      "Murmuring Hare": [],
+      "Murmuring Iguana": [
+        "Immense Polar Bear",
+        "Essential Mandrill"
+      ],
+      "Musical Eel": [],
+      "Musical Mastiff": [],
+      "Mustachioed Bulldog": [],
+      "Mustachioed Dove": [
+        "Shiny Okapi",
+        "Unflappable Kingfisher",
+        "Panoramic Newt",
+        "Zestful Manta Ray",
+        "Pleasant Beaver",
+        "Constant Hamster",
+        "Noble Panther",
+        "Jubilant Grasshopper",
+        "Invaluable Raven",
+        "Relaxed Kestrel",
+        "Influential Panda",
+        "Perplexing Mallard"
+      ],
+      "Mustachioed Newt": [
+        "Swimming Spider"
+      ],
+      "Mustachioed Octopus": [],
+      "Mustachioed Owl": [
+        "Prototypical Llama",
+        "Acrobatic Grasshopper",
+        "Primordial Sparrow",
+        "Exotic Raccoon",
+        "Uncanny Sea Cucumber",
+        "Musical Eel",
+        "Resourceful Elephant"
+      ],
+      "Mustachioed Salamander": [],
+      "Mysterious Butterfly": [
+        "Resourceful Bird"
+      ],
+      "Mysterious Fish": [
+        "Imaginative Elk",
+        "Jaunty Gnu",
+        "Relaxed Chameleon",
+        "Stupendous Crocodile"
+      ],
+      "Mysterious Ibis": [
+        "Enchanting Sea Cucumber",
+        "Bodacious Owl",
+        "Gleaming Ram"
+      ],
+      "Mysterious Kestrel": [
+        "Heroic Salmon",
+        "Fantastic Turtle"
+      ],
+      "Mysterious Starling": [
+        "Sparkling Hornet",
+        "Splendid Gazelle",
+        "Ethereal Octopus",
+        "Precise Angelfish",
+        "Elated Ostrich",
+        "Dreaming Swan"
+      ],
+      "Nascent Kestrel": [
+        "Insightful Hatchetfish",
+        "Astute Cobra",
+        "Authentic Salmon",
+        "Elaborate Kingfisher",
+        "Transparent Sea Snake",
+        "Jaunty Mallard"
+      ],
+      "Nascent Rook": [
+        "Perplexing Grasshopper",
+        "Fierce Raven"
+      ],
+      "Nascent Salmon": [
+        "Sparkling Bulldog"
+      ],
+      "Nascent Toucan": [
+        "Unseen Ibis",
+        "Gesticulating Swan",
+        "Cheeky Koala",
+        "Crystalline Ferret",
+        "Exhilarated Salamander",
+        "Intricate Tiger",
+        "Harmonious Sandpiper",
+        "Merry Reindeer",
+        "Murmuring Gnu",
+        "Jolly Manta Ray",
+        "Optimistic Crocodile",
+        "Momentous Wren",
+        "Frolicking Wrasse",
+        "Meritorious Dragonfish",
+        "Keen Starfish",
+        "Vigorous Newt",
+        "Relieved Jackal",
+        "Vigorous Gazelle"
+      ],
+      "Neighborly Cheetah": [
+        "Precise Swan",
+        "Creative Swan",
+        "Reassured Partridge",
+        "Singing Wombat",
+        "Glorious Ram",
+        "Observant Alpaca",
+        "Convincing Gorilla",
+        "Methodical Seahorse",
+        "Practical Frog",
+        "Observant Python",
+        "Impartial Chinchilla",
+        "Stunning Squid",
+        "Quotable Swan"
+      ],
+      "Neighborly Ram": [],
+      "Neighborly Wolverine": [
+        "Mirthful Frog",
+        "Bright Chinchilla",
+        "Jolly Rabbit",
+        "Creative Greyhound",
+        "Thankful Aardvark",
+        "Constant Barracuda",
+        "Essential Wombat",
+        "Sparkling Rook",
+        "Thankful Owl",
+        "Singing Albatross"
+      ],
+      "Noble Panther": [
+        "Shiny Okapi",
+        "Unflappable Kingfisher",
+        "Panoramic Newt",
+        "Mustachioed Dove",
+        "Zestful Manta Ray",
+        "Pleasant Beaver",
+        "Constant Hamster",
+        "Jubilant Grasshopper",
+        "Invaluable Raven",
+        "Relaxed Kestrel",
+        "Influential Panda",
+        "Perplexing Mallard"
+      ],
+      "Nomadic Goldfish": [],
+      "Nomadic Kangaroo": [
+        "Jolly Sea Snake",
+        "Singing Sea Lion"
+      ],
+      "Nomadic Seal": [
+        "Wandering Brontosaurus",
+        "Quizzical Llama",
+        "Wacky Llama",
+        "Daring Kangaroo",
+        "Happy Iguana"
+      ],
+      "Nonchalant Lobster": [
+        "Scholarly Orca",
+        "Cunning Gorilla",
+        "Improbable Cheetah"
+      ],
+      "Nonchalant Roadrunner": [
+        "Momentous Centipede"
+      ],
+      "Nonchalant Squid": [
+        "Stately Panther",
+        "Proactive Dalmatian",
+        "Meritorious Gnu",
+        "Blissful Osprey",
+        "Vigorous Marlin",
+        "Modest Bumblebee",
+        "Modest Cat",
+        "Focused Herring",
+        "Blissful Porpoise"
+      ],
+      "Nonchalant Velociraptor": [],
+      "Noncommittal Hornet": [],
+      "Noncommittal Lion": [],
+      "Noncommittal Mallard": [
+        "Intuitive Hare",
+        "Vigorous Stegosaurus",
+        "Inimitable Antelope",
+        "Symmetrical Narwhal",
+        "Ecstatic Antelope",
+        "Bodacious Pheasant",
+        "Compassionate Gazelle"
+      ],
+      "Noncommittal Nautilus": [],
+      "Noncommittal Newt": [],
+      "Noncommittal Roadrunner": [],
+      "Observant Alpaca": [
+        "Precise Swan",
+        "Creative Swan",
+        "Reassured Partridge",
+        "Singing Wombat",
+        "Glorious Ram",
+        "Convincing Gorilla",
+        "Methodical Seahorse",
+        "Practical Frog",
+        "Observant Python",
+        "Impartial Chinchilla",
+        "Stunning Squid",
+        "Neighborly Cheetah",
+        "Quotable Swan"
+      ],
+      "Observant Armadillo": [],
+      "Observant Python": [
+        "Precise Swan",
+        "Creative Swan",
+        "Reassured Partridge",
+        "Singing Wombat",
+        "Glorious Ram",
+        "Observant Alpaca",
+        "Convincing Gorilla",
+        "Methodical Seahorse",
+        "Practical Frog",
+        "Impartial Chinchilla",
+        "Stunning Squid",
+        "Neighborly Cheetah",
+        "Quotable Swan"
+      ],
+      "Observant Sea Snake": [
+        "Meritorious Kestrel",
+        "Compassionate Horse",
+        "Thankful Hamster",
+        "Transparent Narwhal",
+        "Panoramic Toucan",
+        "Glamorous Snowy Owl",
+        "Timely Panther",
+        "Practical Magpie",
+        "Radiant Vampire Bat"
+      ],
+      "Observant Sparrow": [],
+      "Omnidirectional Orca": [
+        "Adventurous Antelope"
+      ],
+      "Omnidirectional Triceratops": [
+        "Flourishing Falcon",
+        "Discerning Sea Cucumber",
+        "Sophisticated Velociraptor",
+        "Bodacious Nautilus",
+        "Poised Triceratops",
+        "Radiant Coelacanth",
+        "Magnetic Wolverine",
+        "Frolicking Squid",
+        "Terrestrial Squirrel",
+        "Healthy Camel",
+        "Intuitive Raven"
+      ],
+      "Omnivorous Panther": [],
+      "Omnivorous Wombat": [
+        "Sanguine Sea Cucumber",
+        "Dancing Sheep",
+        "Rigorous Raven",
+        "Heroic Lobster",
+        "Picturesque Crab",
+        "Alert Alligator",
+        "Unofficial Lion"
+      ],
+      "Optimal Octopus": [],
+      "Optimal Rhinoceros": [
+        "Contemplative Jaguar",
+        "Vigorous Falcon",
+        "Swimming Grasshopper",
+        "Cheeky Wolverine",
+        "Careful Beagle",
+        "Satisfied Barracuda",
+        "Helpful Cassowary"
+      ],
+      "Optimal Starfish": [],
+      "Optimistic Boa Constrictor": [
+        "Lively Tiger",
+        "Poised Deer"
+      ],
+      "Optimistic Crocodile": [
+        "Unseen Ibis",
+        "Gesticulating Swan",
+        "Unique Magpie",
+        "Cheeky Koala",
+        "Flying Ibex",
+        "Nascent Toucan",
+        "Exhilarated Salamander",
+        "Intricate Tiger",
+        "Enormous Barracuda",
+        "Adventurous Sea Lion",
+        "Merry Reindeer",
+        "Murmuring Gnu",
+        "Jolly Manta Ray",
+        "Dauntless Cobra",
+        "Frolicking Wrasse",
+        "Meritorious Dragonfish",
+        "Keen Starfish",
+        "Dauntless Yak",
+        "Vigorous Newt",
+        "Vigorous Gazelle"
+      ],
+      "Optimistic Lobster": [],
+      "Optimistic Mollusk": [
+        "Murmuring Gorilla",
+        "Enchanting Sea Cucumber",
+        "Insightful Lion"
+      ],
+      "Otherworldly Crane": [],
+      "Outgoing Gazelle": [],
+      "Outgoing Jackal": [
+        "Crystalline Falcon"
+      ],
+      "Outgoing Newt": [
+        "Extraordinary Gerbil",
+        "Resilient Rhinoceros",
+        "Hatless Jaguar",
+        "Zealous Wren",
+        "Inquisitive Frog",
+        "Tranquil Cheetah",
+        "Relieved Owl",
+        "Unflappable Giraffe",
+        "Erudite Parrot"
+      ],
+      "Outgoing Sea Cucumber": [],
+      "Panoramic Butterfly": [
+        "Inspired Dalmatian"
+      ],
+      "Panoramic Manta Ray": [],
+      "Panoramic Newt": [
+        "Shiny Okapi",
+        "Unflappable Kingfisher",
+        "Mustachioed Dove",
+        "Zestful Manta Ray",
+        "Pleasant Beaver",
+        "Constant Hamster",
+        "Noble Panther",
+        "Jubilant Grasshopper",
+        "Invaluable Raven",
+        "Relaxed Kestrel",
+        "Influential Panda",
+        "Perplexing Mallard"
+      ],
+      "Panoramic Toucan": [
+        "Glamorous Snowy Owl",
+        "Practical Magpie"
+      ],
+      "Peaceful Lark": [
+        "Flourishing Velociraptor",
+        "Enormous Stegosaurus",
+        "Lucky Ostrich",
+        "Primordial Hedgehog",
+        "Artful Kestrel",
+        "Cooperative Magpie",
+        "Inquisitive Opossum",
+        "Primordial Jackal",
+        "Versatile Jaguar",
+        "Relaxed Salmon",
+        "Momentous Ram",
+        "Glorious Leopard",
+        "Joyous Panther",
+        "Wandering Alligator",
+        "Lively Orca",
+        "Vivid Spider",
+        "Gleaming Ferret",
+        "Inspired Mollusk",
+        "Imaginative Lionfish",
+        "Ethereal Mandrill"
+      ],
+      "Peaceful Reindeer": [
+        "Fierce Pheasant"
+      ],
+      "Peaceful Zebra": [
+        "Swimming Spider",
+        "Gesticulating Finch",
+        "Unexpected Sea Cucumber",
+        "Mustachioed Newt",
+        "Salubrious Rabbit"
+      ],
+      "Perceptive Bumblebee": [],
+      "Perceptive Chipmunk": [
+        "Communicative Beaver",
+        "Lucky Dove",
+        "Alert Roadrunner",
+        "Intricate Raccoon",
+        "Spotless Lemur",
+        "Wandering Catfish",
+        "Ardent Osprey",
+        "Vigorous Partridge",
+        "Idealistic Leopard"
+      ],
+      "Perceptive Sea Lion": [],
+      "Perpetual Chipmunk": [
+        "Dashing Sheep",
+        "Immense Albatross"
+      ],
+      "Perpetual Condor": [
+        "Extraordinary Lark",
+        "Unclouded Sandpiper",
+        "Uproarious Roadrunner",
+        "Methodical Bulldog",
+        "Reassured Cormorant",
+        "Beardless Boa Constrictor",
+        "Influential Swan",
+        "Exhilarated Raven",
+        "Tricky Swan",
+        "Essential Pheasant",
+        "Mechanical Wolf",
+        "Prismatic Crab"
+      ],
+      "Perpetual Hamster": [],
+      "Perpetual Hornet": [],
+      "Perpetual Manta Ray": [
+        "Unseen Ibis",
+        "Gesticulating Swan",
+        "Unique Magpie",
+        "Cheeky Koala",
+        "Flying Ibex",
+        "Nascent Toucan",
+        "Exhilarated Salamander",
+        "Intricate Tiger",
+        "Enormous Barracuda",
+        "Adventurous Sea Lion",
+        "Merry Reindeer",
+        "Murmuring Gnu",
+        "Jolly Manta Ray",
+        "Dauntless Cobra",
+        "Optimistic Crocodile",
+        "Frolicking Wrasse",
+        "Meritorious Dragonfish",
+        "Keen Starfish",
+        "Dauntless Yak",
+        "Vigorous Newt",
+        "Vigorous Gazelle"
+      ],
+      "Perplexing Grasshopper": [
+        "Nascent Rook",
+        "Fierce Raven"
+      ],
+      "Perplexing Mallard": [
+        "Shiny Okapi",
+        "Unflappable Kingfisher",
+        "Panoramic Newt",
+        "Mustachioed Dove",
+        "Zestful Manta Ray",
+        "Pleasant Beaver",
+        "Constant Hamster",
+        "Noble Panther",
+        "Jubilant Grasshopper",
+        "Invaluable Raven",
+        "Relaxed Kestrel",
+        "Influential Panda"
+      ],
+      "Perplexing Pelican": [],
+      "Perplexing Sheep": [
+        "Neighborly Wolverine",
+        "Mirthful Frog",
+        "Bright Chinchilla",
+        "Jolly Rabbit",
+        "Creative Greyhound",
+        "Thankful Aardvark",
+        "Constant Barracuda",
+        "Essential Wombat",
+        "Selective Bulldog",
+        "Defiant Beaver",
+        "Singing Albatross"
+      ],
+      "Perplexing Wren": [],
+      "Perspicacious Dolphin": [
+        "Unclouded Mongoose",
+        "Insightful Cassowary",
+        "Mysterious Kestrel"
+      ],
+      "Perspicacious Lobster": [],
+      "Perspicacious Wallaby": [
+        "Masked Herring"
+      ],
+      "Philosophical Barracuda": [],
+      "Philosophical Condor": [],
+      "Picturesque Caribou": [
+        "Comfortable Parrot",
+        "Proficient Frog",
+        "Qualified Caribou"
+      ],
+      "Picturesque Crab": [
+        "Rigorous Raven",
+        "Heroic Lobster"
+      ],
+      "Playful Firefly": [],
+      "Playful Owl": [
+        "Variegated Turtle",
+        "Eager Spider",
+        "Ubiquitous Caribou",
+        "Cheerful Dalmatian",
+        "Dancing Cassowary",
+        "Modest Barracuda",
+        "Precocious Gecko",
+        "Reassured Wolf"
+      ],
+      "Playful Wallaby": [],
+      "Pleasant Beaver": [
+        "Shiny Okapi",
+        "Unflappable Kingfisher",
+        "Panoramic Newt",
+        "Mustachioed Dove",
+        "Zestful Manta Ray",
+        "Constant Hamster",
+        "Noble Panther",
+        "Jubilant Grasshopper",
+        "Invaluable Raven",
+        "Relaxed Kestrel",
+        "Influential Panda",
+        "Perplexing Mallard"
+      ],
+      "Pleasant Crane": [
+        "Undisputed Walrus"
+      ],
+      "Pleasant Gorilla": [
+        "Salient Porpoise",
+        "Convincing Penguin",
+        "Keen Hedgehog",
+        "Fiery Panda",
+        "Universal Catfish",
+        "Taciturn Coelacanth",
+        "Eager Swan",
+        "Astonishing Beagle",
+        "Focused Rhinoceros"
+      ],
+      "Poised Cat": [
+        "Motionless Ram",
+        "Communicative Crab",
+        "Primordial Sparrow",
+        "Vociferous Cormorant",
+        "Smiling Badger"
+      ],
+      "Poised Deer": [
+        "Lively Tiger",
+        "Optimistic Boa Constrictor"
+      ],
+      "Poised Triceratops": [
+        "Flourishing Falcon",
+        "Discerning Sea Cucumber",
+        "Sophisticated Velociraptor",
+        "Bodacious Nautilus",
+        "Radiant Coelacanth",
+        "Magnetic Wolverine",
+        "Omnidirectional Triceratops",
+        "Frolicking Squid",
+        "Terrestrial Squirrel",
+        "Healthy Camel",
+        "Intuitive Raven"
+      ],
+      "Practical Anteater": [],
+      "Practical Bulldog": [],
+      "Practical Cormorant": [
+        "Vivid Condor",
+        "Hatless Snowy Owl",
+        "Insightful Seal",
+        "Impartial Ibis",
+        "Convivial Angelfish",
+        "Inquisitive Zebra",
+        "Unseen Moose",
+        "Prismatic Raven"
+      ],
+      "Practical Frog": [
+        "Precise Swan",
+        "Creative Swan",
+        "Reassured Partridge",
+        "Singing Wombat",
+        "Glorious Ram",
+        "Gorgeous Cassowary",
+        "Observant Alpaca",
+        "Convincing Gorilla",
+        "Glamorous Mouse",
+        "Cheeky Boa Constrictor",
+        "Hydraulic Jackal",
+        "Methodical Seahorse",
+        "Keen Finch",
+        "Communicative Barracuda",
+        "Joyful Platypus",
+        "Immense Ferret",
+        "Momentous Panther",
+        "Spotless Vampire Bat",
+        "Swimming Dalmatian",
+        "Observant Python",
+        "Convivial Goldfish",
+        "Impartial Chinchilla",
+        "Stunning Squid",
+        "Neighborly Cheetah",
+        "Inquisitive Rook",
+        "Quotable Swan"
+      ],
+      "Practical Magpie": [
+        "Meritorious Kestrel",
+        "Compassionate Horse",
+        "Thankful Hamster",
+        "Observant Sea Snake",
+        "Transparent Narwhal",
+        "Glamorous Snowy Owl",
+        "Timely Panther",
+        "Radiant Vampire Bat"
+      ],
+      "Practical Walrus": [
+        "Contemplative Jaguar",
+        "Lively Cormorant",
+        "Unthinkable Angelfish",
+        "Fiery Hedgehog",
+        "Optimal Rhinoceros",
+        "Careful Beagle",
+        "Virtuous Starfish",
+        "Grateful Platypus",
+        "Satisfied Barracuda",
+        "Sincere Polar Bear",
+        "Helpful Cassowary"
+      ],
+      "Precise Angelfish": [
+        "Sparkling Hornet",
+        "Splendid Gazelle",
+        "Ethereal Octopus",
+        "Elated Ostrich",
+        "Dreaming Swan",
+        "Mysterious Starling"
+      ],
+      "Precise Ibis": [
+        "Unofficial Ferret",
+        "Glamorous Mouse"
+      ],
+      "Precise Nautilus": [],
+      "Precise Pelican": [
+        "Fantastic Condor"
+      ],
+      "Precise Swan": [
+        "Creative Swan",
+        "Reassured Partridge",
+        "Singing Wombat",
+        "Glorious Ram",
+        "Gorgeous Cassowary",
+        "Observant Alpaca",
+        "Convincing Gorilla",
+        "Glamorous Mouse",
+        "Cheeky Boa Constrictor",
+        "Hydraulic Jackal",
+        "Methodical Seahorse",
+        "Keen Finch",
+        "Communicative Barracuda",
+        "Joyful Platypus",
+        "Immense Ferret",
+        "Practical Frog",
+        "Momentous Panther",
+        "Spotless Vampire Bat",
+        "Swimming Dalmatian",
+        "Observant Python",
+        "Convivial Goldfish",
+        "Impartial Chinchilla",
+        "Stunning Squid",
+        "Neighborly Cheetah",
+        "Inquisitive Rook",
+        "Quotable Swan"
+      ],
+      "Precocious Gecko": [
+        "Variegated Turtle",
+        "Hydraulic Triceratops",
+        "Eager Spider",
+        "Ubiquitous Caribou",
+        "Spectacular Caribou",
+        "Cheerful Dalmatian",
+        "Dancing Cassowary",
+        "Taciturn Crane",
+        "Modest Barracuda",
+        "Playful Owl",
+        "Legendary Condor",
+        "Reassured Wolf"
+      ],
+      "Precocious Marlin": [
+        "Roaring Camel",
+        "Artful Panda"
+      ],
+      "Prestigious Vampire Bat": [
+        "Scholarly Orca",
+        "Nonchalant Lobster",
+        "Cunning Gorilla",
+        "Improbable Cheetah"
+      ],
+      "Primeval Coelacanth": [
+        "Purposeful Zebra",
+        "Sparkling Rook",
+        "Benevolent Stegosaurus",
+        "Thankful Owl"
+      ],
+      "Primeval Crab": [
+        "Splendid Salamander",
+        "Universal Jackal"
+      ],
+      "Primeval Marlin": [
+        "Dashing Mouse"
+      ],
+      "Primeval Nightingale": [],
+      "Primordial Hedgehog": [
+        "Flourishing Velociraptor",
+        "Enormous Stegosaurus",
+        "Lucky Ostrich",
+        "Peaceful Lark",
+        "Cooperative Magpie",
+        "Primordial Jackal",
+        "Versatile Jaguar",
+        "Relaxed Salmon",
+        "Momentous Ram",
+        "Glorious Leopard",
+        "Joyous Panther",
+        "Lively Orca",
+        "Vivid Spider",
+        "Gleaming Ferret",
+        "Inspired Mollusk"
+      ],
+      "Primordial Jackal": [
+        "Flourishing Velociraptor",
+        "Enormous Stegosaurus",
+        "Lucky Ostrich",
+        "Peaceful Lark",
+        "Primordial Hedgehog",
+        "Artful Kestrel",
+        "Cooperative Magpie",
+        "Inquisitive Opossum",
+        "Versatile Jaguar",
+        "Relaxed Salmon",
+        "Momentous Ram",
+        "Glorious Leopard",
+        "Joyous Panther",
+        "Wandering Alligator",
+        "Lively Orca",
+        "Vivid Spider",
+        "Gleaming Ferret",
+        "Inspired Mollusk",
+        "Imaginative Lionfish",
+        "Ethereal Mandrill"
+      ],
+      "Primordial Moose": [],
+      "Primordial Sparrow": [
+        "Poised Cat",
+        "Motionless Ram",
+        "Communicative Crab",
+        "Focused Polar Bear",
+        "Vociferous Cormorant",
+        "Smiling Badger"
+      ],
+      "Prismatic Crab": [
+        "Extraordinary Lark",
+        "Unclouded Sandpiper",
+        "Uproarious Roadrunner",
+        "Methodical Bulldog",
+        "Reassured Cormorant",
+        "Beardless Boa Constrictor",
+        "Perpetual Condor",
+        "Influential Swan",
+        "Exhilarated Raven",
+        "Tricky Swan",
+        "Essential Pheasant",
+        "Mechanical Wolf"
+      ],
+      "Prismatic Frog": [],
+      "Prismatic Jackal": [
+        "Contemplative Jaguar",
+        "Vigorous Falcon",
+        "Swimming Grasshopper",
+        "Optimal Rhinoceros",
+        "Cheeky Wolverine",
+        "Careful Beagle",
+        "Satisfied Barracuda",
+        "Helpful Cassowary"
+      ],
+      "Prismatic Raven": [
+        "Vivid Condor",
+        "Hatless Snowy Owl",
+        "Insightful Seal",
+        "Impartial Ibis",
+        "Gesticulating Triceratops",
+        "Convivial Angelfish",
+        "Inquisitive Zebra",
+        "Unseen Moose",
+        "Practical Cormorant",
+        "Unique Rhinoceros"
+      ],
+      "Prismatic Toucan": [
+        "Colorful Catfish",
+        "Gigantic Iguana",
+        "Taciturn Rhinoceros"
+      ],
+      "Proactive Dalmatian": [
+        "Stately Panther",
+        "Meritorious Gnu",
+        "Blissful Osprey",
+        "Nonchalant Squid",
+        "Vigorous Marlin",
+        "Modest Bumblebee",
+        "Modest Cat",
+        "Focused Herring",
+        "Blissful Porpoise"
+      ],
+      "Proactive Dolphin": [],
+      "Proactive Songbird": [
+        "Poised Cat",
+        "Motionless Ram",
+        "Acrobatic Grasshopper",
+        "Communicative Crab",
+        "Focused Polar Bear",
+        "Primordial Sparrow",
+        "Vociferous Cormorant",
+        "Adventurous Deer",
+        "Smiling Badger"
+      ],
+      "Proficient Frog": [
+        "Comfortable Parrot",
+        "Picturesque Caribou",
+        "Qualified Caribou"
+      ],
+      "Prototypical Lion": [],
+      "Prototypical Llama": [
+        "Comfortable Octopus",
+        "Elegant Triceratops",
+        "Mustachioed Owl",
+        "Acrobatic Grasshopper",
+        "Exotic Raccoon",
+        "Impartial Centipede",
+        "Musical Eel",
+        "Resourceful Elephant",
+        "Steady Stingray"
+      ],
+      "Prudent Dragonfish": [],
+      "Purposeful Chipmunk": [
+        "Imperturbable Fox",
+        "Elegant Falcon",
+        "Dashing Mastiff",
+        "Stylish Llama",
+        "Fortunate Centipede"
+      ],
+      "Purposeful Grouse": [
+        "Terrestrial Anteater",
+        "Benevolent Gorilla",
+        "Bright Yak"
+      ],
+      "Purposeful Llama": [
+        "Shiny Spider"
+      ],
+      "Purposeful Zebra": [
+        "Primeval Coelacanth",
+        "Sparkling Rook",
+        "Benevolent Stegosaurus",
+        "Thankful Owl"
+      ],
+      "Qualified Caribou": [
+        "Comfortable Parrot",
+        "Proficient Frog",
+        "Picturesque Caribou"
+      ],
+      "Qualified Llama": [],
+      "Qualified Wolf": [
+        "Gargantuan Squid"
+      ],
+      "Qualified Wren": [],
+      "Quizzical Llama": [
+        "Wandering Brontosaurus",
+        "Wacky Llama",
+        "Daring Kangaroo",
+        "Happy Iguana",
+        "Nomadic Seal"
+      ],
+      "Quizzical Penguin": [
+        "Mischievous Toucan",
+        "Bodacious Armadillo",
+        "Wandering Pheasant",
+        "Bubbly Gazelle",
+        "Adorable Polar Bear"
+      ],
+      "Quizzical Quail": [],
+      "Quotable Elk": [],
+      "Quotable Gnu": [
+        "Eager Catfish",
+        "Meticulous Swan"
+      ],
+      "Quotable Jellyfish": [
+        "Squeaky Mantis"
+      ],
+      "Quotable Swan": [
+        "Precise Swan",
+        "Creative Swan",
+        "Reassured Partridge",
+        "Singing Wombat",
+        "Glorious Ram",
+        "Observant Alpaca",
+        "Convincing Gorilla",
+        "Methodical Seahorse",
+        "Practical Frog",
+        "Observant Python",
+        "Impartial Chinchilla",
+        "Stunning Squid",
+        "Neighborly Cheetah"
+      ],
+      "Radiant Coelacanth": [
+        "Flourishing Falcon",
+        "Discerning Sea Cucumber",
+        "Sophisticated Velociraptor",
+        "Bodacious Nautilus",
+        "Poised Triceratops",
+        "Magnetic Wolverine",
+        "Omnidirectional Triceratops",
+        "Frolicking Squid",
+        "Terrestrial Squirrel",
+        "Healthy Camel",
+        "Intuitive Raven"
+      ],
+      "Radiant Magpie": [
+        "Bubbly Lark",
+        "Inquisitive Crab"
+      ],
+      "Radiant Vampire Bat": [
+        "Meritorious Kestrel",
+        "Compassionate Horse",
+        "Thankful Hamster",
+        "Observant Sea Snake",
+        "Transparent Narwhal",
+        "Glamorous Snowy Owl",
+        "Timely Panther",
+        "Practical Magpie"
+      ],
+      "Reassured Cormorant": [
+        "Extraordinary Lark",
+        "Unclouded Sandpiper",
+        "Uproarious Roadrunner",
+        "Methodical Bulldog",
+        "Beardless Boa Constrictor",
+        "Perpetual Condor",
+        "Influential Swan",
+        "Exhilarated Raven",
+        "Tricky Swan",
+        "Essential Pheasant",
+        "Mechanical Wolf",
+        "Prismatic Crab"
+      ],
+      "Reassured Partridge": [
+        "Precise Swan",
+        "Creative Swan",
+        "Singing Wombat",
+        "Glorious Ram",
+        "Gorgeous Cassowary",
+        "Observant Alpaca",
+        "Convincing Gorilla",
+        "Glamorous Mouse",
+        "Cheeky Boa Constrictor",
+        "Hydraulic Jackal",
+        "Methodical Seahorse",
+        "Keen Finch",
+        "Communicative Barracuda",
+        "Joyful Platypus",
+        "Immense Ferret",
+        "Practical Frog",
+        "Momentous Panther",
+        "Spotless Vampire Bat",
+        "Swimming Dalmatian",
+        "Observant Python",
+        "Convivial Goldfish",
+        "Impartial Chinchilla",
+        "Stunning Squid",
+        "Neighborly Cheetah",
+        "Inquisitive Rook",
+        "Quotable Swan"
+      ],
+      "Reassured Wolf": [
+        "Variegated Turtle",
+        "Hydraulic Triceratops",
+        "Eager Spider",
+        "Ubiquitous Caribou",
+        "Spectacular Caribou",
+        "Cheerful Dalmatian",
+        "Dancing Cassowary",
+        "Taciturn Crane",
+        "Modest Barracuda",
+        "Precocious Gecko",
+        "Playful Owl"
+      ],
+      "Reclusive Dove": [
+        "Dashing Butterfly",
+        "Enthusiastic Duck",
+        "Ethereal Wallaby",
+        "Satisfied Ibex",
+        "Tricky Frog",
+        "Legendary Lion",
+        "Exotic Newt",
+        "Erudite Starfish",
+        "Timely Caribou",
+        "Loquacious Toucan",
+        "Imperturbable Flamingo",
+        "Contemplative Goldfish",
+        "Universal Gnu",
+        "Enthusiastic Triceratops"
+      ],
+      "Recurring Camel": [],
+      "Recurring Crocodile": [],
+      "Recurring Gnu": [
+        "Wacky Roadrunner",
+        "Motionless Caribou",
+        "Insightful Velociraptor"
+      ],
+      "Recurring Partridge": [],
+      "Recurring Spider": [
+        "Swimming Starfish",
+        "Mechanical Giraffe"
+      ],
+      "Recurring Swan": [
+        "Primeval Coelacanth",
+        "Purposeful Zebra",
+        "Benevolent Stegosaurus"
+      ],
+      "Recurring Tapir": [
+        "Satisfied Otter",
+        "Renowned Cheetah",
+        "Steady Anteater",
+        "Mirthful Iguana"
+      ],
+      "Reflective Gerbil": [],
+      "Reflective Sea Cucumber": [],
+      "Reflective Snowy Owl": [],
+      "Rejoicing Pigeon": [
+        "Tessellated Crab"
+      ],
+      "Relaxed Aardvark": [],
+      "Relaxed Chameleon": [
+        "Imaginative Elk",
+        "Discerning Spider",
+        "Jaunty Gnu",
+        "Methodical Panda",
+        "Mysterious Fish",
+        "Stupendous Crocodile"
+      ],
+      "Relaxed Kestrel": [
+        "Shiny Okapi",
+        "Unflappable Kingfisher",
+        "Panoramic Newt",
+        "Mustachioed Dove",
+        "Zestful Manta Ray",
+        "Pleasant Beaver",
+        "Constant Hamster",
+        "Noble Panther",
+        "Jubilant Grasshopper",
+        "Invaluable Raven",
+        "Influential Panda",
+        "Perplexing Mallard"
+      ],
+      "Relaxed Salmon": [
+        "Flourishing Velociraptor",
+        "Enormous Stegosaurus",
+        "Lucky Ostrich",
+        "Peaceful Lark",
+        "Primordial Hedgehog",
+        "Cooperative Magpie",
+        "Primordial Jackal",
+        "Versatile Jaguar",
+        "Momentous Ram",
+        "Glorious Leopard",
+        "Joyous Panther",
+        "Lively Orca",
+        "Vivid Spider",
+        "Gleaming Ferret",
+        "Inspired Mollusk"
+      ],
+      "Relieved Jackal": [
+        "Unseen Ibis",
+        "Gesticulating Swan",
+        "Cheeky Koala",
+        "Nascent Toucan",
+        "Crystalline Ferret",
+        "Exhilarated Salamander",
+        "Intricate Tiger",
+        "Harmonious Sandpiper",
+        "Merry Reindeer",
+        "Murmuring Gnu",
+        "Jolly Manta Ray",
+        "Dauntless Cobra",
+        "Optimistic Crocodile",
+        "Momentous Wren",
+        "Frolicking Wrasse",
+        "Meritorious Dragonfish",
+        "Keen Starfish",
+        "Dauntless Yak",
+        "Vigorous Newt",
+        "Vigorous Gazelle"
+      ],
+      "Relieved Mongoose": [
+        "Dynamic Pheasant",
+        "Scintillating Duck",
+        "Elusive Cat",
+        "Spectacular Hedgehog",
+        "Colossal Pigeon",
+        "Gigantic Sandpiper",
+        "Wondrous Brontosaurus",
+        "Circumspect Pelican",
+        "Eccentric Owl"
+      ],
+      "Relieved Narwhal": [
+        "Thoughtful Crocodile"
+      ],
+      "Relieved Owl": [],
+      "Relieved Sea Snake": [],
+      "Remarkable Goose": [
+        "Neighborly Wolverine",
+        "Mirthful Frog",
+        "Bright Chinchilla",
+        "Jolly Rabbit",
+        "Creative Greyhound",
+        "Thankful Aardvark",
+        "Joyful Triceratops",
+        "Constant Barracuda",
+        "Essential Wombat",
+        "Singing Albatross"
+      ],
+      "Remarkable Lionfish": [
+        "Gleeful Boa Constrictor"
+      ],
+      "Renowned Cheetah": [
+        "Prototypical Lion"
+      ],
+      "Resilient Hornet": [],
+      "Resilient Loris": [
+        "Thoughtful Crocodile",
+        "Relieved Narwhal"
+      ],
+      "Resilient Rhinoceros": [
+        "Zealous Wren",
+        "Relieved Owl"
+      ],
+      "Resolute Kangaroo": [
+        "Mighty Pheasant",
+        "Hydraulic Eel"
+      ],
+      "Resolute Narwhal": [
+        "Enchanting Sea Cucumber",
+        "Bodacious Owl"
+      ],
+      "Resourceful Bird": [],
+      "Resourceful Elephant": [
+        "Prototypical Llama",
+        "Primordial Sparrow"
+      ],
+      "Rigorous Raven": [
+        "Heroic Lobster",
+        "Picturesque Crab"
+      ],
+      "Roaring Camel": [
+        "Precocious Marlin",
+        "Artful Panda"
+      ],
+      "Roaring Newt": [
+        "Vigorous Flamingo",
+        "Adorable Grouse"
+      ],
+      "Robust Vampire Bat": [
+        "Convincing Gerbil",
+        "Sufficient Falcon",
+        "Elegant Deer"
+      ],
+      "Salient Porpoise": [
+        "Convincing Penguin",
+        "Keen Hedgehog",
+        "Pleasant Gorilla",
+        "Fiery Panda",
+        "Universal Catfish",
+        "Taciturn Coelacanth",
+        "Eager Swan",
+        "Astonishing Beagle",
+        "Focused Rhinoceros"
+      ],
+      "Salient Scorpion": [
+        "Elaborate Albatross"
+      ],
+      "Salient Tapir": [],
+      "Salubrious Rabbit": [
+        "Swimming Spider",
+        "Gesticulating Finch",
+        "Unexpected Sea Cucumber",
+        "Peaceful Zebra",
+        "Mustachioed Newt"
+      ],
+      "Salubrious Raven": [],
+      "Sanguine Mongoose": [],
+      "Sanguine Panther": [
+        "Elaborate Kingfisher"
+      ],
+      "Sanguine Sea Cucumber": [
+        "Dancing Sheep",
+        "Rigorous Raven",
+        "Omnivorous Wombat",
+        "Heroic Lobster",
+        "Picturesque Crab",
+        "Alert Alligator",
+        "Unofficial Lion"
+      ],
+      "Sanguine Triceratops": [
+        "Outgoing Gazelle"
+      ],
+      "Sapient Dove": [],
+      "Sarcastic Elephant": [],
+      "Sarcastic Falcon": [
+        "Fantastic Dove",
+        "Unofficial Eel",
+        "Cooperative Gecko"
+      ],
+      "Sarcastic Jackal": [
+        "Neighborly Wolverine",
+        "Mirthful Frog",
+        "Bright Chinchilla",
+        "Jolly Rabbit",
+        "Creative Greyhound",
+        "Thankful Aardvark",
+        "Constant Barracuda",
+        "Essential Wombat",
+        "Singing Albatross"
+      ],
+      "Sarcastic Mandrill": [
+        "Arboreal Horse",
+        "Vigorous Crane"
+      ],
+      "Sarcastic Octopus": [],
+      "Satisfied Barracuda": [
+        "Contemplative Jaguar",
+        "Optimal Rhinoceros",
+        "Careful Beagle",
+        "Helpful Cassowary"
+      ],
+      "Satisfied Chipmunk": [],
+      "Satisfied Ibex": [
+        "Dashing Butterfly",
+        "Enthusiastic Duck",
+        "Reclusive Dove",
+        "Ethereal Wallaby",
+        "Tricky Frog",
+        "Legendary Lion",
+        "Exotic Newt",
+        "Erudite Starfish",
+        "Timely Caribou",
+        "Loquacious Toucan",
+        "Imperturbable Flamingo",
+        "Contemplative Goldfish",
+        "Universal Gnu",
+        "Enthusiastic Triceratops"
+      ],
+      "Satisfied Otter": [
+        "Recurring Tapir",
+        "Renowned Cheetah",
+        "Steady Anteater",
+        "Mirthful Iguana"
+      ],
+      "Scholarly Eel": [],
+      "Scholarly Mongoose": [],
+      "Scholarly Orca": [
+        "Nonchalant Lobster",
+        "Cunning Gorilla",
+        "Improbable Cheetah"
+      ],
+      "Scholarly Vampire Bat": [
+        "Imperturbable Opossum",
+        "Impartial Pigeon",
+        "Friendly Triceratops",
+        "Happy Rhinoceros",
+        "Frolicking Ibex"
+      ],
+      "Scholarly Wallaby": [
+        "Hydraulic Elk",
+        "Theoretical Jackal",
+        "Philosophical Condor"
+      ],
+      "Scintillating Duck": [
+        "Gigantic Sandpiper"
+      ],
+      "Scintillating Fish": [],
+      "Scintillating Stork": [
+        "Flourishing Velociraptor",
+        "Enormous Stegosaurus",
+        "Peaceful Lark",
+        "Primordial Hedgehog",
+        "Cooperative Magpie",
+        "Inquisitive Opossum",
+        "Primordial Jackal",
+        "Versatile Jaguar",
+        "Relaxed Salmon",
+        "Momentous Ram",
+        "Glorious Leopard",
+        "Joyous Panther",
+        "Wandering Alligator",
+        "Lively Orca",
+        "Vivid Spider",
+        "Gleaming Ferret",
+        "Imaginative Lionfish"
+      ],
+      "Scrupulous Mandrill": [
+        "Intricate Kangaroo",
+        "Watchful Gorilla"
+      ],
+      "Selective Bulldog": [
+        "Neighborly Wolverine",
+        "Mirthful Frog",
+        "Bright Chinchilla",
+        "Jolly Rabbit",
+        "Creative Greyhound",
+        "Thankful Aardvark",
+        "Constant Barracuda",
+        "Essential Wombat",
+        "Perplexing Sheep",
+        "Defiant Beaver",
+        "Singing Albatross"
+      ],
+      "Selective Deer": [],
+      "Selective Gnu": [
+        "Curious Sea Cucumber"
+      ],
+      "Selective Newt": [
+        "Happy Grouse",
+        "Joyous Ram",
+        "Inspired Giraffe"
+      ],
+      "Shiny Falcon": [
+        "Colorful Mallard"
+      ],
+      "Shiny Loris": [
+        "Steady Butterfly",
+        "Brilliant Ferret"
+      ],
+      "Shiny Okapi": [
+        "Unflappable Kingfisher",
+        "Panoramic Newt",
+        "Mustachioed Dove",
+        "Zestful Manta Ray",
+        "Pleasant Beaver",
+        "Constant Hamster",
+        "Noble Panther",
+        "Jubilant Grasshopper",
+        "Invaluable Raven",
+        "Relaxed Kestrel",
+        "Influential Panda",
+        "Perplexing Mallard"
+      ],
+      "Shiny Spider": [
+        "Purposeful Llama"
+      ],
+      "Sincere Polar Bear": [
+        "Contemplative Jaguar",
+        "Lively Cormorant",
+        "Unthinkable Angelfish",
+        "Fiery Hedgehog",
+        "Practical Walrus",
+        "Optimal Rhinoceros",
+        "Careful Beagle",
+        "Virtuous Starfish",
+        "Grateful Platypus",
+        "Satisfied Barracuda",
+        "Helpful Cassowary"
+      ],
+      "Singing Albatross": [
+        "Neighborly Wolverine",
+        "Mirthful Frog",
+        "Bright Chinchilla",
+        "Jolly Rabbit",
+        "Creative Greyhound",
+        "Thankful Aardvark",
+        "Constant Barracuda",
+        "Essential Wombat",
+        "Sparkling Rook",
+        "Thankful Owl"
+      ],
+      "Singing Mouse": [
+        "Intricate Crab",
+        "Brave Caterpillar",
+        "Timeless Sea Snake"
+      ],
+      "Singing Sea Lion": [
+        "Nomadic Kangaroo",
+        "Jolly Sea Snake"
+      ],
+      "Singing Wombat": [
+        "Precise Swan",
+        "Creative Swan",
+        "Reassured Partridge",
+        "Glorious Ram",
+        "Observant Alpaca",
+        "Convincing Gorilla",
+        "Methodical Seahorse",
+        "Practical Frog",
+        "Observant Python",
+        "Impartial Chinchilla",
+        "Stunning Squid",
+        "Neighborly Cheetah",
+        "Quotable Swan"
+      ],
+      "Sleek Caterpillar": [],
+      "Sleek Lobster": [],
+      "Sleepy Tapir": [],
+      "Slippery Camel": [],
+      "Smiling Badger": [
+        "Poised Cat",
+        "Motionless Ram",
+        "Communicative Crab",
+        "Primordial Sparrow",
+        "Vociferous Cormorant"
+      ],
+      "Smooth Bat": [
+        "Unfathomable Cormorant"
+      ],
+      "Smooth Chipmunk": [
+        "Uproarious Caribou",
+        "Watchful Opossum",
+        "Courageous Centipede"
+      ],
+      "Smooth Grouse": [],
+      "Solid Duck": [
+        "Cognizant Mastiff"
+      ],
+      "Solid Falcon": [
+        "Brave Python",
+        "Determined Otter",
+        "Masked Grasshopper",
+        "Inimitable Platypus",
+        "Majestic Hamster",
+        "Witty Kestrel",
+        "Ubiquitous Porcupine"
+      ],
+      "Solid Lark": [],
+      "Sophisticated Velociraptor": [
+        "Flourishing Falcon",
+        "Discerning Sea Cucumber",
+        "Bodacious Nautilus",
+        "Poised Triceratops",
+        "Radiant Coelacanth",
+        "Magnetic Wolverine",
+        "Omnidirectional Triceratops",
+        "Frolicking Squid",
+        "Terrestrial Squirrel",
+        "Healthy Camel",
+        "Intuitive Raven"
+      ],
+      "Sparkling Bulldog": [
+        "Crystalline Flamingo"
+      ],
+      "Sparkling Hornet": [],
+      "Sparkling Rabbit": [
+        "Merry Newt"
+      ],
+      "Sparkling Rook": [
+        "Thankful Owl"
+      ],
+      "Sparkling Salmon": [
+        "Charming Centipede"
+      ],
+      "Spectacular Bat": [],
+      "Spectacular Caribou": [
+        "Variegated Turtle",
+        "Hydraulic Triceratops",
+        "Eager Spider",
+        "Ubiquitous Caribou",
+        "Dancing Cassowary",
+        "Taciturn Crane",
+        "Modest Barracuda",
+        "Precocious Gecko",
+        "Reassured Wolf"
+      ],
+      "Spectacular Hedgehog": [
+        "Dynamic Pheasant",
+        "Scintillating Duck",
+        "Elusive Cat",
+        "Colossal Pigeon",
+        "Gigantic Sandpiper",
+        "Wondrous Brontosaurus",
+        "Circumspect Pelican",
+        "Eccentric Owl",
+        "Relieved Mongoose"
+      ],
+      "Spectacular Koala": [],
+      "Splendid Bat": [],
+      "Splendid Finch": [],
+      "Splendid Gazelle": [
+        "Sparkling Hornet",
+        "Ethereal Octopus",
+        "Precise Angelfish",
+        "Elated Ostrich",
+        "Dreaming Swan",
+        "Mysterious Starling"
+      ],
+      "Splendid Salamander": [
+        "Primeval Crab",
+        "Universal Jackal"
+      ],
+      "Spotless Lemur": [
+        "Communicative Beaver",
+        "Lucky Dove",
+        "Alert Roadrunner",
+        "Intricate Raccoon",
+        "Wandering Catfish",
+        "Ardent Osprey",
+        "Perceptive Chipmunk",
+        "Vigorous Partridge",
+        "Idealistic Leopard"
+      ],
+      "Spotless Vampire Bat": [
+        "Immense Ferret",
+        "Swimming Dalmatian",
+        "Convivial Goldfish"
+      ],
+      "Squeaky Cobra": [
+        "Striped Camel"
+      ],
+      "Squeaky Greyhound": [
+        "Wacky Parrot"
+      ],
+      "Squeaky Mantis": [
+        "Quotable Jellyfish"
+      ],
+      "Squeaky Newt": [],
+      "Stately Panther": [
+        "Proactive Dalmatian",
+        "Meritorious Gnu",
+        "Blissful Osprey",
+        "Nonchalant Squid",
+        "Vigorous Marlin",
+        "Modest Bumblebee",
+        "Modest Cat",
+        "Focused Herring",
+        "Blissful Porpoise"
+      ],
+      "Stately Roadrunner": [
+        "Perceptive Sea Lion"
+      ],
+      "Stately Sparrow": [
+        "Illustrious Gecko"
+      ],
+      "Steady Anteater": [
+        "Satisfied Otter",
+        "Recurring Tapir",
+        "Renowned Cheetah",
+        "Mirthful Iguana"
+      ],
+      "Steady Butterfly": [
+        "Brilliant Ferret"
+      ],
+      "Steady Goldfish": [],
+      "Steady Stingray": [
+        "Comfortable Octopus",
+        "Elegant Triceratops",
+        "Prototypical Llama",
+        "Impartial Centipede",
+        "Musical Eel",
+        "Resourceful Elephant"
+      ],
+      "Striped Camel": [
+        "Squeaky Cobra"
+      ],
+      "Striped Okapi": [
+        "Rejoicing Pigeon"
+      ],
+      "Striped Spider": [],
+      "Stunning Squid": [
+        "Precise Swan",
+        "Creative Swan",
+        "Reassured Partridge",
+        "Singing Wombat",
+        "Glorious Ram",
+        "Observant Alpaca",
+        "Convincing Gorilla",
+        "Hydraulic Jackal",
+        "Methodical Seahorse",
+        "Practical Frog",
+        "Observant Python",
+        "Impartial Chinchilla",
+        "Neighborly Cheetah",
+        "Quotable Swan"
+      ],
+      "Stunning Wolf": [],
+      "Stupendous Crocodile": [
+        "Imaginative Elk",
+        "Discerning Spider",
+        "Jaunty Gnu",
+        "Relaxed Chameleon",
+        "Methodical Panda",
+        "Mysterious Fish"
+      ],
+      "Stupendous Heron": [],
+      "Stylish Greyhound": [
+        "Scintillating Duck",
+        "Exhilarated Centipede",
+        "Gigantic Sandpiper"
+      ],
+      "Stylish Llama": [
+        "Imperturbable Fox",
+        "Elegant Falcon",
+        "Dashing Mastiff",
+        "Purposeful Chipmunk"
+      ],
+      "Stylish Shark": [
+        "Unofficial Zebra"
+      ],
+      "Stylish Stingray": [
+        "Distinctive Llama",
+        "Elegant Catfish",
+        "Effervescent Partridge",
+        "Adorable Jaguar",
+        "Transparent Reindeer",
+        "Extraordinary Dragonfish",
+        "Terrestrial Falcon",
+        "Keen Gorilla",
+        "Wonderful Crane",
+        "Charming Hawk",
+        "Constant Stork"
+      ],
+      "Stylish Velociraptor": [],
+      "Stylish Wolverine": [
+        "Symbolic Lark",
+        "Terrestrial Anteater",
+        "Benevolent Gorilla",
+        "Attentive Walrus",
+        "Bright Yak",
+        "Purposeful Grouse",
+        "Inventive Cat"
+      ],
+      "Substantial Elk": [
+        "Jolly Opossum",
+        "Charming Angelfish",
+        "Cordial Mantis",
+        "Cognizant Marlin",
+        "Excited Gecko"
+      ],
+      "Sufficient Falcon": [
+        "Astute Zebra"
+      ],
+      "Sufficient Walrus": [],
+      "Swimming Brontosaurus": [
+        "Virtuous Koala"
+      ],
+      "Swimming Dalmatian": [],
+      "Swimming Gecko": [
+        "Stylish Shark",
+        "Unofficial Zebra"
+      ],
+      "Swimming Grasshopper": [
+        "Contemplative Jaguar",
+        "Vigorous Falcon",
+        "Optimal Rhinoceros",
+        "Cheeky Wolverine",
+        "Careful Beagle",
+        "Satisfied Barracuda",
+        "Prismatic Jackal",
+        "Helpful Cassowary"
+      ],
+      "Swimming Spider": [
+        "Gesticulating Finch",
+        "Unexpected Sea Cucumber",
+        "Peaceful Zebra",
+        "Mustachioed Newt",
+        "Salubrious Rabbit"
+      ],
+      "Swimming Starfish": [
+        "Mechanical Giraffe",
+        "Recurring Spider"
+      ],
+      "Symbolic Butterfly": [],
+      "Symbolic Coelacanth": [],
+      "Symbolic Gull": [],
+      "Symbolic Lark": [
+        "Stylish Wolverine",
+        "Terrestrial Anteater",
+        "Benevolent Gorilla",
+        "Attentive Walrus",
+        "Bright Yak",
+        "Purposeful Grouse",
+        "Inventive Cat"
+      ],
+      "Symmetrical Narwhal": [
+        "Vigorous Stegosaurus",
+        "Inimitable Antelope",
+        "Ecstatic Antelope",
+        "Bodacious Pheasant",
+        "Compassionate Gazelle"
+      ],
+      "Taciturn Coelacanth": [
+        "Salient Porpoise",
+        "Convincing Penguin",
+        "Keen Hedgehog",
+        "Pleasant Gorilla",
+        "Fiery Panda",
+        "Universal Catfish",
+        "Eager Swan",
+        "Astonishing Beagle",
+        "Focused Rhinoceros"
+      ],
+      "Taciturn Crane": [
+        "Variegated Turtle",
+        "Hydraulic Triceratops",
+        "Eager Spider",
+        "Ubiquitous Caribou",
+        "Spectacular Caribou",
+        "Cheerful Dalmatian",
+        "Dancing Cassowary",
+        "Modest Barracuda",
+        "Precocious Gecko",
+        "Legendary Condor",
+        "Reassured Wolf"
+      ],
+      "Taciturn Jaguar": [
+        "Gleaming Narwhal",
+        "Gleeful Centipede",
+        "Effervescent Badger"
+      ],
+      "Taciturn Panda": [],
+      "Taciturn Rhinoceros": [
+        "Colorful Catfish",
+        "Gigantic Iguana"
+      ],
+      "Taciturn Wren": [
+        "Luminescent Beaver",
+        "Uproarious Alligator",
+        "Charming Mandrill",
+        "Gorgeous Penguin",
+        "Eager Mongoose"
+      ],
+      "Terrestrial Anteater": [
+        "Benevolent Gorilla",
+        "Bright Yak",
+        "Purposeful Grouse"
+      ],
+      "Terrestrial Eel": [
+        "Fortunate Dove",
+        "Compact Leopard",
+        "Merry Triceratops",
+        "Masked Herring",
+        "Arboreal Brontosaurus"
+      ],
+      "Terrestrial Falcon": [
+        "Distinctive Llama",
+        "Adorable Jaguar",
+        "Wonderful Crane",
+        "Charming Hawk"
+      ],
+      "Terrestrial Newt": [
+        "Ubiquitous Beagle"
+      ],
+      "Terrestrial Squirrel": [
+        "Flourishing Falcon",
+        "Discerning Sea Cucumber",
+        "Sophisticated Velociraptor",
+        "Bodacious Nautilus",
+        "Poised Triceratops",
+        "Radiant Coelacanth",
+        "Magnetic Wolverine",
+        "Omnidirectional Triceratops",
+        "Frolicking Squid",
+        "Healthy Camel",
+        "Intuitive Raven"
+      ],
+      "Tessellated Crab": [
+        "Rejoicing Pigeon"
+      ],
+      "Tessellated Scorpion": [
+        "Determined Spider"
+      ],
+      "Thankful Aardvark": [
+        "Neighborly Wolverine",
+        "Mirthful Frog",
+        "Bright Chinchilla",
+        "Jolly Rabbit",
+        "Creative Greyhound",
+        "Constant Barracuda",
+        "Essential Wombat",
+        "Sparkling Rook",
+        "Thankful Owl",
+        "Singing Albatross"
+      ],
+      "Thankful Bird": [],
+      "Thankful Hamster": [
+        "Meritorious Kestrel",
+        "Compassionate Horse",
+        "Observant Sea Snake",
+        "Transparent Narwhal",
+        "Glamorous Snowy Owl",
+        "Timely Panther",
+        "Practical Magpie",
+        "Radiant Vampire Bat"
+      ],
+      "Thankful Owl": [
+        "Sparkling Rook"
+      ],
+      "Theoretical Jackal": [
+        "Hydraulic Elk",
+        "Scholarly Wallaby",
+        "Philosophical Condor"
+      ],
+      "Theoretical Ostrich": [
+        "Variegated Turtle",
+        "Eager Spider",
+        "Ubiquitous Caribou",
+        "Cheerful Dalmatian",
+        "Dancing Cassowary",
+        "Modest Barracuda",
+        "Precocious Gecko",
+        "Playful Owl",
+        "Reassured Wolf"
+      ],
+      "Thoughtful Crocodile": [
+        "Relieved Narwhal"
+      ],
+      "Thoughtful Jaguar": [
+        "Immense Aardvark",
+        "Cautious Pelican",
+        "Lucky Squirrel",
+        "Lucky Octopus"
+      ],
+      "Thoughtful Kestrel": [
+        "Massive Bat"
+      ],
+      "Thoughtful Porpoise": [
+        "Exotic Giraffe"
+      ],
+      "Thriving Leopard": [
+        "Splendid Finch"
+      ],
+      "Timeless Sea Snake": [
+        "Intricate Crab",
+        "Brave Caterpillar",
+        "Singing Mouse"
+      ],
+      "Timely Alligator": [],
+      "Timely Caribou": [
+        "Dashing Butterfly",
+        "Enthusiastic Duck",
+        "Reclusive Dove",
+        "Ethereal Wallaby",
+        "Satisfied Ibex",
+        "Tricky Frog",
+        "Legendary Lion",
+        "Exotic Newt",
+        "Erudite Starfish",
+        "Loquacious Toucan",
+        "Imperturbable Flamingo",
+        "Contemplative Goldfish",
+        "Universal Gnu",
+        "Enthusiastic Triceratops"
+      ],
+      "Timely Panther": [
+        "Meritorious Kestrel",
+        "Compassionate Horse",
+        "Thankful Hamster",
+        "Observant Sea Snake",
+        "Transparent Narwhal",
+        "Panoramic Toucan",
+        "Glamorous Snowy Owl",
+        "Practical Magpie",
+        "Radiant Vampire Bat"
+      ],
+      "Timely Squid": [],
+      "Topographical Goldfish": [],
+      "Topographical Rook": [],
+      "Topographical Scorpion": [
+        "Ubiquitous Platypus"
+      ],
+      "Topographical Zebra": [],
+      "Tranquil Cheetah": [
+        "Extraordinary Gerbil",
+        "Resilient Rhinoceros",
+        "Hatless Jaguar",
+        "Zealous Wren",
+        "Inquisitive Frog",
+        "Relieved Owl",
+        "Unflappable Giraffe",
+        "Outgoing Newt",
+        "Erudite Parrot"
+      ],
+      "Transparent Crane": [],
+      "Transparent Fish": [],
+      "Transparent Grasshopper": [],
+      "Transparent Narwhal": [
+        "Meritorious Kestrel",
+        "Compassionate Horse",
+        "Thankful Hamster",
+        "Observant Sea Snake",
+        "Glamorous Snowy Owl",
+        "Timely Panther",
+        "Practical Magpie",
+        "Radiant Vampire Bat"
+      ],
+      "Transparent Orca": [],
+      "Transparent Reindeer": [
+        "Distinctive Llama",
+        "Elegant Catfish",
+        "Effervescent Partridge",
+        "Adorable Jaguar",
+        "Extraordinary Dragonfish",
+        "Stylish Stingray",
+        "Terrestrial Falcon",
+        "Keen Gorilla",
+        "Wonderful Crane",
+        "Constant Stork"
+      ],
+      "Transparent Sea Snake": [
+        "Insightful Hatchetfish",
+        "Nascent Kestrel",
+        "Elaborate Kingfisher",
+        "Jaunty Mallard"
+      ],
+      "Tricky Coelacanth": [
+        "Encouraging Iguana",
+        "Keen Porpoise"
+      ],
+      "Tricky Eel": [
+        "Sparkling Bulldog"
+      ],
+      "Tricky Frog": [
+        "Dashing Butterfly",
+        "Enthusiastic Duck",
+        "Reclusive Dove",
+        "Ethereal Wallaby",
+        "Satisfied Ibex",
+        "Legendary Lion",
+        "Exotic Newt",
+        "Erudite Starfish",
+        "Timely Caribou",
+        "Loquacious Toucan",
+        "Imperturbable Flamingo",
+        "Contemplative Goldfish",
+        "Universal Gnu",
+        "Enthusiastic Triceratops"
+      ],
+      "Tricky Gerbil": [
+        "Gigantic Rabbit"
+      ],
+      "Tricky Swan": [
+        "Extraordinary Lark",
+        "Unclouded Sandpiper",
+        "Uproarious Roadrunner",
+        "Methodical Bulldog",
+        "Reassured Cormorant",
+        "Beardless Boa Constrictor",
+        "Perpetual Condor",
+        "Influential Swan",
+        "Exhilarated Raven",
+        "Essential Pheasant",
+        "Mechanical Wolf",
+        "Prismatic Crab"
+      ],
+      "Ubiquitous Beagle": [
+        "Terrestrial Newt"
+      ],
+      "Ubiquitous Caribou": [
+        "Variegated Turtle",
+        "Hydraulic Triceratops",
+        "Eager Spider",
+        "Spectacular Caribou",
+        "Dancing Cassowary",
+        "Taciturn Crane",
+        "Modest Barracuda",
+        "Precocious Gecko",
+        "Playful Owl",
+        "Reassured Wolf"
+      ],
+      "Ubiquitous Platypus": [
+        "Topographical Scorpion"
+      ],
+      "Ubiquitous Porcupine": [
+        "Solid Falcon",
+        "Brave Python",
+        "Determined Otter",
+        "Masked Grasshopper",
+        "Inimitable Platypus",
+        "Majestic Hamster",
+        "Witty Kestrel"
+      ],
+      "Uncanny Barracuda": [
+        "Mustachioed Owl",
+        "Acrobatic Grasshopper",
+        "Uncanny Sea Cucumber",
+        "Musical Eel",
+        "Convincing Salamander"
+      ],
+      "Uncanny Crab": [
+        "Diminutive Triceratops"
+      ],
+      "Uncanny Reindeer": [],
+      "Uncanny Sea Cucumber": [],
+      "Unclouded Bat": [
+        "Collectible Dragonfish",
+        "Inquisitive Hatchetfish"
+      ],
+      "Unclouded Mongoose": [
+        "Mysterious Kestrel"
+      ],
+      "Unclouded Sandpiper": [
+        "Extraordinary Lark",
+        "Uproarious Roadrunner",
+        "Methodical Bulldog",
+        "Reassured Cormorant",
+        "Beardless Boa Constrictor",
+        "Perpetual Condor",
+        "Influential Swan",
+        "Exhilarated Raven",
+        "Tricky Swan",
+        "Essential Pheasant",
+        "Mechanical Wolf",
+        "Prismatic Crab"
+      ],
+      "Undisputed Albatross": [],
+      "Undisputed Tapir": [
+        "Intuitive Panther"
+      ],
+      "Undisputed Walrus": [
+        "Pleasant Crane"
+      ],
+      "Unexpected Sea Cucumber": [
+        "Swimming Spider",
+        "Gesticulating Finch",
+        "Peaceful Zebra",
+        "Mustachioed Newt",
+        "Salubrious Rabbit"
+      ],
+      "Unfathomable Cormorant": [
+        "Smooth Bat"
+      ],
+      "Unflappable Giraffe": [
+        "Extraordinary Gerbil",
+        "Resilient Rhinoceros",
+        "Hatless Jaguar",
+        "Zealous Wren",
+        "Inquisitive Frog",
+        "Tranquil Cheetah",
+        "Relieved Owl",
+        "Outgoing Newt",
+        "Erudite Parrot"
+      ],
+      "Unflappable Gorilla": [],
+      "Unflappable Kingfisher": [
+        "Shiny Okapi",
+        "Panoramic Newt",
+        "Mustachioed Dove",
+        "Zestful Manta Ray",
+        "Pleasant Beaver",
+        "Constant Hamster",
+        "Noble Panther",
+        "Jubilant Grasshopper",
+        "Invaluable Raven",
+        "Relaxed Kestrel",
+        "Influential Panda",
+        "Perplexing Mallard"
+      ],
+      "Unique Magpie": [
+        "Unseen Ibis",
+        "Gesticulating Swan",
+        "Cheeky Koala",
+        "Flying Ibex",
+        "Nascent Toucan",
+        "Exhilarated Salamander",
+        "Intricate Tiger",
+        "Enormous Barracuda",
+        "Adventurous Sea Lion",
+        "Merry Reindeer",
+        "Murmuring Gnu",
+        "Jolly Manta Ray",
+        "Dauntless Cobra",
+        "Optimistic Crocodile",
+        "Frolicking Wrasse",
+        "Meritorious Dragonfish",
+        "Keen Starfish",
+        "Dauntless Yak",
+        "Vigorous Newt",
+        "Vigorous Gazelle"
+      ],
+      "Unique Rhinoceros": [
+        "Gesticulating Triceratops"
+      ],
+      "Unique Salmon": [],
+      "Universal Catfish": [
+        "Courageous Grasshopper",
+        "Convincing Penguin",
+        "Eager Swan",
+        "Astonishing Beagle",
+        "Focused Rhinoceros"
+      ],
+      "Universal Gnu": [
+        "Dashing Butterfly",
+        "Enthusiastic Duck",
+        "Tricky Frog",
+        "Timely Caribou",
+        "Loquacious Toucan"
+      ],
+      "Universal Jackal": [
+        "Splendid Salamander",
+        "Primeval Crab"
+      ],
+      "Unofficial Cobra": [],
+      "Unofficial Eel": [
+        "Fantastic Dove",
+        "Sarcastic Falcon",
+        "Cooperative Gecko"
+      ],
+      "Unofficial Ferret": [
+        "Precise Ibis",
+        "Glamorous Mouse"
+      ],
+      "Unofficial Lion": [
+        "Sanguine Sea Cucumber",
+        "Dancing Sheep",
+        "Rigorous Raven",
+        "Omnivorous Wombat",
+        "Heroic Lobster",
+        "Picturesque Crab",
+        "Alert Alligator"
+      ],
+      "Unofficial Otter": [
+        "Elated Pelican"
+      ],
+      "Unofficial Quail": [],
+      "Unofficial Zebra": [
+        "Stylish Shark"
+      ],
+      "Unseen Armadillo": [],
+      "Unseen Ibis": [
+        "Gesticulating Swan",
+        "Unique Magpie",
+        "Cheeky Koala",
+        "Flying Ibex",
+        "Nascent Toucan",
+        "Exhilarated Salamander",
+        "Intricate Tiger",
+        "Enormous Barracuda",
+        "Adventurous Sea Lion",
+        "Merry Reindeer",
+        "Murmuring Gnu",
+        "Jolly Manta Ray",
+        "Dauntless Cobra",
+        "Optimistic Crocodile",
+        "Frolicking Wrasse",
+        "Meritorious Dragonfish",
+        "Keen Starfish",
+        "Dauntless Yak",
+        "Vigorous Newt",
+        "Vigorous Gazelle"
+      ],
+      "Unseen Moose": [
+        "Vivid Condor",
+        "Hatless Snowy Owl",
+        "Insightful Seal",
+        "Impartial Ibis",
+        "Convivial Angelfish",
+        "Inquisitive Zebra",
+        "Prismatic Raven",
+        "Practical Cormorant"
+      ],
+      "Unseen Rabbit": [
+        "Enormous Horse",
+        "Constant Stingray",
+        "Variegated Parrot",
+        "Lucky Hedgehog",
+        "Wacky Eel"
+      ],
+      "Unthinkable Angelfish": [
+        "Contemplative Jaguar",
+        "Lively Cormorant",
+        "Fiery Hedgehog",
+        "Practical Walrus",
+        "Optimal Rhinoceros",
+        "Careful Beagle",
+        "Virtuous Starfish",
+        "Grateful Platypus",
+        "Satisfied Barracuda",
+        "Sincere Polar Bear",
+        "Helpful Cassowary"
+      ],
+      "Unthinkable Spider": [
+        "Bionic Wolverine"
+      ],
+      "Uproarious Alligator": [
+        "Luminescent Beaver",
+        "Taciturn Wren",
+        "Charming Mandrill",
+        "Gorgeous Penguin",
+        "Eager Mongoose"
+      ],
+      "Uproarious Caribou": [
+        "Watchful Opossum"
+      ],
+      "Uproarious Catfish": [
+        "Poised Cat",
+        "Elegant Triceratops",
+        "Motionless Ram",
+        "Acrobatic Grasshopper",
+        "Communicative Crab",
+        "Focused Polar Bear",
+        "Primordial Sparrow",
+        "Impartial Centipede",
+        "Vociferous Cormorant",
+        "Musical Eel",
+        "Adventurous Deer",
+        "Immense Heron",
+        "Smiling Badger"
+      ],
+      "Uproarious Roadrunner": [
+        "Extraordinary Lark",
+        "Unclouded Sandpiper",
+        "Methodical Bulldog",
+        "Reassured Cormorant",
+        "Beardless Boa Constrictor",
+        "Perpetual Condor",
+        "Influential Swan",
+        "Exhilarated Raven",
+        "Tricky Swan",
+        "Essential Pheasant",
+        "Mechanical Wolf",
+        "Prismatic Crab"
+      ],
+      "Variegated Boa Constrictor": [
+        "Sparkling Bulldog"
+      ],
+      "Variegated Koala": [],
+      "Variegated Narwhal": [],
+      "Variegated Parrot": [
+        "Enormous Horse",
+        "Constant Stingray",
+        "Lucky Hedgehog",
+        "Unseen Rabbit",
+        "Wacky Eel"
+      ],
+      "Variegated Roadrunner": [
+        "Keen Kestrel"
+      ],
+      "Variegated Turtle": [
+        "Hydraulic Triceratops",
+        "Eager Spider",
+        "Ubiquitous Caribou",
+        "Spectacular Caribou",
+        "Dancing Cassowary",
+        "Taciturn Crane",
+        "Modest Barracuda",
+        "Precocious Gecko",
+        "Playful Owl",
+        "Reassured Wolf"
+      ],
+      "Versatile Jaguar": [
+        "Flourishing Velociraptor",
+        "Enormous Stegosaurus",
+        "Lucky Ostrich",
+        "Peaceful Lark",
+        "Primordial Hedgehog",
+        "Cooperative Magpie",
+        "Primordial Jackal",
+        "Relaxed Salmon",
+        "Momentous Ram",
+        "Glorious Leopard",
+        "Joyous Panther",
+        "Lively Orca",
+        "Vivid Spider",
+        "Gleaming Ferret",
+        "Inspired Mollusk"
+      ],
+      "Victorious Chameleon": [],
+      "Victorious Octopus": [
+        "Motionless Manta Ray"
+      ],
+      "Vigilant Salamander": [
+        "Authentic Raven"
+      ],
+      "Vigorous Crane": [
+        "Arboreal Horse",
+        "Sarcastic Mandrill"
+      ],
+      "Vigorous Falcon": [
+        "Contemplative Jaguar",
+        "Swimming Grasshopper",
+        "Optimal Rhinoceros",
+        "Cheeky Wolverine",
+        "Careful Beagle",
+        "Satisfied Barracuda",
+        "Prismatic Jackal",
+        "Helpful Cassowary"
+      ],
+      "Vigorous Flamingo": [
+        "Adorable Grouse",
+        "Roaring Newt"
+      ],
+      "Vigorous Gazelle": [
+        "Unseen Ibis",
+        "Gesticulating Swan",
+        "Cheeky Koala",
+        "Nascent Toucan",
+        "Crystalline Ferret",
+        "Exhilarated Salamander",
+        "Intricate Tiger",
+        "Harmonious Sandpiper",
+        "Merry Reindeer",
+        "Murmuring Gnu",
+        "Jolly Manta Ray",
+        "Dauntless Cobra",
+        "Optimistic Crocodile",
+        "Momentous Wren",
+        "Frolicking Wrasse",
+        "Meritorious Dragonfish",
+        "Keen Starfish",
+        "Dauntless Yak",
+        "Vigorous Newt",
+        "Relieved Jackal"
+      ],
+      "Vigorous Marlin": [
+        "Stately Panther",
+        "Proactive Dalmatian",
+        "Meritorious Gnu",
+        "Blissful Osprey",
+        "Nonchalant Squid",
+        "Modest Bumblebee",
+        "Modest Cat",
+        "Focused Herring",
+        "Blissful Porpoise"
+      ],
+      "Vigorous Newt": [
+        "Unseen Ibis",
+        "Gesticulating Swan",
+        "Unique Magpie",
+        "Cheeky Koala",
+        "Flying Ibex",
+        "Nascent Toucan",
+        "Exhilarated Salamander",
+        "Intricate Tiger",
+        "Enormous Barracuda",
+        "Adventurous Sea Lion",
+        "Merry Reindeer",
+        "Murmuring Gnu",
+        "Jolly Manta Ray",
+        "Dauntless Cobra",
+        "Optimistic Crocodile",
+        "Frolicking Wrasse",
+        "Meritorious Dragonfish",
+        "Keen Starfish",
+        "Dauntless Yak",
+        "Vigorous Gazelle"
+      ],
+      "Vigorous Partridge": [
+        "Communicative Beaver",
+        "Lucky Dove",
+        "Alert Roadrunner",
+        "Intricate Raccoon",
+        "Spotless Lemur",
+        "Wandering Catfish",
+        "Ardent Osprey",
+        "Perceptive Chipmunk",
+        "Idealistic Leopard"
+      ],
+      "Vigorous Stegosaurus": [
+        "Inimitable Antelope",
+        "Symmetrical Narwhal",
+        "Ecstatic Antelope",
+        "Bodacious Pheasant",
+        "Compassionate Gazelle"
+      ],
+      "Virtuous Koala": [
+        "Swimming Brontosaurus"
+      ],
+      "Virtuous Starfish": [
+        "Contemplative Jaguar",
+        "Lively Cormorant",
+        "Unthinkable Angelfish",
+        "Fiery Hedgehog",
+        "Practical Walrus",
+        "Optimal Rhinoceros",
+        "Careful Beagle",
+        "Grateful Platypus",
+        "Satisfied Barracuda",
+        "Sincere Polar Bear",
+        "Helpful Cassowary"
+      ],
+      "Vivacious Polar Bear": [
+        "Gleeful Boa Constrictor"
+      ],
+      "Vivid Condor": [
+        "Hatless Snowy Owl",
+        "Insightful Seal",
+        "Impartial Ibis",
+        "Convivial Angelfish",
+        "Inquisitive Zebra",
+        "Unseen Moose",
+        "Prismatic Raven",
+        "Practical Cormorant"
+      ],
+      "Vivid Sandpiper": [
+        "Hatless Lion",
+        "Jubilant Mollusk",
+        "Outgoing Gazelle",
+        "Intrepid Shark"
+      ],
+      "Vivid Sea Snake": [
+        "Hydraulic Triceratops",
+        "Spectacular Caribou"
+      ],
+      "Vivid Spider": [
+        "Flourishing Velociraptor",
+        "Enormous Stegosaurus",
+        "Peaceful Lark",
+        "Primordial Hedgehog",
+        "Cooperative Magpie",
+        "Primordial Jackal",
+        "Versatile Jaguar",
+        "Relaxed Salmon",
+        "Momentous Ram",
+        "Glorious Leopard",
+        "Joyous Panther",
+        "Scintillating Stork",
+        "Lively Orca",
+        "Gleaming Ferret"
+      ],
+      "Vociferous Cormorant": [
+        "Poised Cat",
+        "Motionless Ram",
+        "Communicative Crab",
+        "Primordial Sparrow",
+        "Smiling Badger"
+      ],
+      "Vociferous Mollusk": [],
+      "Vociferous Polar Bear": [],
+      "Wacky Eel": [
+        "Enormous Horse",
+        "Constant Stingray",
+        "Variegated Parrot",
+        "Lucky Hedgehog",
+        "Unseen Rabbit"
+      ],
+      "Wacky Llama": [
+        "Wandering Brontosaurus",
+        "Quizzical Llama",
+        "Daring Kangaroo",
+        "Happy Iguana",
+        "Nomadic Seal"
+      ],
+      "Wacky Parrot": [
+        "Squeaky Greyhound"
+      ],
+      "Wacky Roadrunner": [],
+      "Wandering Alligator": [
+        "Flourishing Velociraptor",
+        "Enormous Stegosaurus",
+        "Peaceful Lark",
+        "Primordial Hedgehog",
+        "Cooperative Magpie",
+        "Inquisitive Opossum",
+        "Primordial Jackal",
+        "Versatile Jaguar",
+        "Relaxed Salmon",
+        "Momentous Ram",
+        "Glorious Leopard",
+        "Joyous Panther",
+        "Lively Orca",
+        "Vivid Spider",
+        "Gleaming Ferret",
+        "Imaginative Lionfish"
+      ],
+      "Wandering Brontosaurus": [
+        "Quizzical Llama",
+        "Wacky Llama",
+        "Daring Kangaroo",
+        "Happy Iguana",
+        "Nomadic Seal"
+      ],
+      "Wandering Catfish": [
+        "Communicative Beaver",
+        "Lucky Dove",
+        "Alert Roadrunner",
+        "Intricate Raccoon",
+        "Spotless Lemur",
+        "Ardent Osprey",
+        "Perceptive Chipmunk",
+        "Vigorous Partridge",
+        "Idealistic Leopard"
+      ],
+      "Wandering Pheasant": [
+        "Quizzical Penguin",
+        "Mischievous Toucan",
+        "Bodacious Armadillo",
+        "Bubbly Gazelle",
+        "Adorable Polar Bear"
+      ],
+      "Watchful Gorilla": [
+        "Scrupulous Mandrill",
+        "Intricate Kangaroo"
+      ],
+      "Watchful Opossum": [
+        "Uproarious Caribou",
+        "Courageous Centipede",
+        "Smooth Chipmunk"
+      ],
+      "Windswept Hedgehog": [
+        "Eccentric Platypus"
+      ],
+      "Windswept Vampire Bat": [
+        "Fierce Raven"
+      ],
+      "Witty Kestrel": [
+        "Solid Falcon",
+        "Brave Python",
+        "Determined Otter",
+        "Masked Grasshopper",
+        "Inimitable Platypus",
+        "Majestic Hamster",
+        "Ubiquitous Porcupine"
+      ],
+      "Witty Otter": [
+        "Charming Starling"
+      ],
+      "Witty Squirrel": [
+        "Uncanny Sea Cucumber",
+        "Musical Eel",
+        "Masked Condor"
+      ],
+      "Wonderful Crane": [
+        "Distinctive Llama",
+        "Adorable Jaguar",
+        "Terrestrial Falcon",
+        "Charming Hawk"
+      ],
+      "Wondrous Brontosaurus": [
+        "Dynamic Pheasant",
+        "Scintillating Duck",
+        "Elusive Cat",
+        "Spectacular Hedgehog",
+        "Colossal Pigeon",
+        "Gigantic Sandpiper",
+        "Circumspect Pelican",
+        "Eccentric Owl",
+        "Relieved Mongoose"
+      ],
+      "Wondrous Sea Lion": [
+        "Intuitive Hare",
+        "Flying Brontosaurus"
+      ],
+      "Wondrous Stegosaurus": [],
+      "Zealous Roadrunner": [],
+      "Zealous Wren": [
+        "Extraordinary Gerbil",
+        "Resilient Rhinoceros",
+        "Hatless Jaguar",
+        "Inquisitive Frog",
+        "Tranquil Cheetah",
+        "Unflappable Giraffe",
+        "Outgoing Newt",
+        "Erudite Parrot",
+        "Precise Nautilus"
+      ],
+      "Zestful Elk": [
+        "Luminescent Beaver",
+        "Jaunty Ram",
+        "Uproarious Alligator",
+        "Taciturn Wren",
+        "Charming Mandrill",
+        "Gorgeous Penguin",
+        "Eager Mongoose"
+      ],
+      "Zestful Manta Ray": [
+        "Shiny Okapi",
+        "Unflappable Kingfisher",
+        "Panoramic Newt",
+        "Mustachioed Dove",
+        "Pleasant Beaver",
+        "Constant Hamster",
+        "Noble Panther",
+        "Jubilant Grasshopper",
+        "Invaluable Raven",
+        "Relaxed Kestrel",
+        "Influential Panda",
+        "Perplexing Mallard"
+      ],
+      "Zestful Pheasant": [],
+      "Zestful Pigeon": []
+    }
+  }
+}

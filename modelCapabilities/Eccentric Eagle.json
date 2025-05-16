@@ -1,0 +1,16 @@
+{
+  "modes": {
+    "fan": {
+      "temperatures": {},
+      "fanLevels": [
+        "low",
+        "high"
+      ],
+      "light": [
+        "on",
+        "dim",
+        "off"
+      ]
+    }
+  }
+}

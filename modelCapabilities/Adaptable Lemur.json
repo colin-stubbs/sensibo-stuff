@@ -1,0 +1,13 @@
+{
+  "modes": {
+    "heat": {
+      "temperatures": {},
+      "fanLevels": [
+        "low",
+        "medium_low",
+        "medium_high",
+        "high"
+      ]
+    }
+  }
+}

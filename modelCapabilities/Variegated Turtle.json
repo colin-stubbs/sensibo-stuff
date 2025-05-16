@@ -1,0 +1,240 @@
+{
+  "modes": {
+    "cool": {
+      "temperatures": {
+        "F": {
+          "isNative": false,
+          "values": [
+            64,
+            66,
+            68,
+            70,
+            72,
+            73,
+            75,
+            77,
+            79,
+            81,
+            82,
+            84,
+            86
+          ]
+        },
+        "C": {
+          "isNative": true,
+          "values": [
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ]
+        }
+      },
+      "fanLevels": [
+        "low",
+        "medium_low",
+        "medium",
+        "medium_high",
+        "high",
+        "auto",
+        "strong"
+      ],
+      "swing": [
+        "stopped",
+        "rangeFull",
+        "fixedBottom",
+        "fixedMiddleBottom",
+        "fixedMiddle",
+        "fixedMiddleTop",
+        "fixedTop"
+      ],
+      "light": [
+        "on",
+        "off"
+      ]
+    },
+    "heat": {
+      "temperatures": {
+        "F": {
+          "isNative": false,
+          "values": [
+            46,
+            61,
+            63,
+            64,
+            66,
+            68,
+            70,
+            72,
+            73,
+            75,
+            77,
+            79,
+            81,
+            82,
+            84,
+            86
+          ]
+        },
+        "C": {
+          "isNative": true,
+          "values": [
+            8,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ]
+        }
+      },
+      "fanLevels": [
+        "low",
+        "medium_low",
+        "medium",
+        "medium_high",
+        "high",
+        "auto",
+        "strong"
+      ],
+      "swing": [
+        "stopped",
+        "rangeFull",
+        "fixedBottom",
+        "fixedMiddleBottom",
+        "fixedMiddle",
+        "fixedMiddleTop",
+        "fixedTop"
+      ],
+      "light": [
+        "on",
+        "off"
+      ]
+    },
+    "fan": {
+      "temperatures": {},
+      "fanLevels": [
+        "low",
+        "medium_low",
+        "medium",
+        "medium_high",
+        "high",
+        "auto",
+        "strong"
+      ],
+      "swing": [
+        "stopped",
+        "rangeFull",
+        "fixedBottom",
+        "fixedMiddleBottom",
+        "fixedMiddle",
+        "fixedMiddleTop",
+        "fixedTop"
+      ],
+      "light": [
+        "on",
+        "off"
+      ]
+    },
+    "dry": {
+      "temperatures": {},
+      "fanLevels": [
+        "low"
+      ],
+      "swing": [
+        "stopped",
+        "rangeFull",
+        "fixedBottom",
+        "fixedMiddleBottom",
+        "fixedMiddle",
+        "fixedMiddleTop",
+        "fixedTop"
+      ],
+      "light": [
+        "on",
+        "off"
+      ]
+    },
+    "auto": {
+      "temperatures": {
+        "F": {
+          "isNative": false,
+          "values": [
+            59,
+            61,
+            63,
+            64,
+            66,
+            68,
+            70,
+            72,
+            73,
+            75,
+            77,
+            79,
+            81,
+            82,
+            84,
+            86
+          ]
+        },
+        "C": {
+          "isNative": true,
+          "values": [
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ]
+        }
+      },
+      "fanLevels": [
+        "auto"
+      ],
+      "swing": [
+        "stopped",
+        "rangeFull",
+        "fixedBottom",
+        "fixedMiddleBottom",
+        "fixedMiddle",
+        "fixedMiddleTop",
+        "fixedTop"
+      ],
+      "light": [
+        "on",
+        "off"
+      ]
+    }
+  }
+}

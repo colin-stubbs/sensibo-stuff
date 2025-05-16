@@ -1,0 +1,111 @@
+{
+  "modes": {
+    "cool": {
+      "temperatures": {
+        "F": {
+          "isNative": false,
+          "values": [
+            70,
+            72,
+            73,
+            75,
+            77,
+            79,
+            81,
+            82,
+            84
+          ]
+        },
+        "C": {
+          "isNative": true,
+          "values": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29
+          ]
+        }
+      },
+      "fanLevels": [
+        "low",
+        "high"
+      ]
+    },
+    "fan": {
+      "temperatures": {
+        "F": {
+          "isNative": false,
+          "values": [
+            70,
+            72,
+            73,
+            75,
+            77,
+            79,
+            81,
+            82,
+            84
+          ]
+        },
+        "C": {
+          "isNative": true,
+          "values": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29
+          ]
+        }
+      },
+      "fanLevels": [
+        "low",
+        "high"
+      ]
+    },
+    "dry": {
+      "temperatures": {
+        "F": {
+          "isNative": false,
+          "values": [
+            70,
+            72,
+            73,
+            75,
+            77,
+            79,
+            81,
+            82,
+            84
+          ]
+        },
+        "C": {
+          "isNative": true,
+          "values": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29
+          ]
+        }
+      },
+      "fanLevels": [
+        "low"
+      ]
+    }
+  }
+}

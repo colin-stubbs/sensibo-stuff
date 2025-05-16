@@ -1,0 +1,27 @@
+{
+  "modes": {
+    "heat": {
+      "temperatures": {
+        "F": {
+          "isNative": false,
+          "values": [
+            86
+          ]
+        },
+        "C": {
+          "isNative": true,
+          "values": [
+            30
+          ]
+        }
+      },
+      "fanLevels": [
+        "low",
+        "medium_low",
+        "medium",
+        "medium_high",
+        "high"
+      ]
+    }
+  }
+}

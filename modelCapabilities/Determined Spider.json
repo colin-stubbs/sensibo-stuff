@@ -1,0 +1,22 @@
+{
+  "modes": {
+    "cool": {
+      "temperatures": {},
+      "fanLevels": [
+        "quiet",
+        "low",
+        "medium",
+        "high"
+      ]
+    },
+    "fan": {
+      "temperatures": {},
+      "fanLevels": [
+        "quiet",
+        "low",
+        "medium",
+        "high"
+      ]
+    }
+  }
+}
