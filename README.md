@@ -12,16 +12,16 @@ The individual files under /modelCapabilities/ are sub-set's of the repsonse fro
 
 If you use the REST API to change the model of your "pod" you get a list of the capabilities for that model the next time you request the pod information under `.result.remoteCapabilities` in the body of the response.
 
-A series of hastily smashed together shell scripts are in the repo which I found useful as a way to iterate over the avaiable models to identify capabilities to then search thru them to find potential models that fit my AC unit's specific capabilities, e.g. native Celcius temperature, cooling and fan only modes, temperature range from 16C to 30C, etc.
+A series of hastily smashed together shell scripts are in the repo which I have found useful as a way to iterate over the available models to determine capabilities to then search thru to find potential models that fit my AC unit's specific capabilities, e.g. native Celcius temperature, cooling and fan only modes, temperature range from 16C to 30C, etc.
 
-This was useful to me, hopefully it's useful to someone else too.
+This was useful to me and hopefully it's useful to someone else too.
 
-To the people at Sensibo, please just provide your customers the ability to define a custom local model in the app with manually configured IR codes.
+To the people at Sensibo: please just provide your customers the ability to define a custom local model in the app with manually configured IR codes.
 
-The response to my support request regarding the lack of support for the AC unit I'm using was extremely lack lustre.
+Your response to my support request regarding the lack of support for the AC unit I'm using was extremely disappointing.
 
-Your auto-detection has selected a model that does allow me to turn the AC unit on/off, but that's it. Zero control over temperature or fan speed.
+Auto-detection by the app has selected a model that *does* allow me to turn the AC unit on/off. But that's it. I have zero control over temperature or fan speed.
 
-Your team just replied with a meaningless bog standard response including continuing to claim that Sensibo supports all AC models.
+Your support team simply replied with a meaningless bog standard response including continuing to claim that Sensibo supports all AC models.
 
-Despite having provide the specific IR codes and make/model information they still havn't added it to the app.
+Despite having provided the specific IR codes and make/model information for my AC unit they still havn't added it to the app.
